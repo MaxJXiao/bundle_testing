@@ -1,0 +1,1691 @@
+Name,Intent,Influence Path,Response
+"Casual Summer Evening Outfit Bundle
+     Workwear","- ""Casual Summer Evening Outfit"" 
+
+     - ""Workwear and Social Occasion""","Path:
+     PattyBoutik Cowl Neck Backless Chain Draping Halter Top, casual evening, PattyBoutik Unique V Neck Shawl Collar Short Sleeve Knit Jumper Blouse Tunic Top, matching outfit, High-Waisted Skinny Jeans (Black or Dark Wash), workwear staple, Strappy Heeled Sandals (Neutral or Black), dressy touch, Minimalist Pendant Necklace, finishing detail,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Casual Summer Evening Outfit Bundle
+     Workwear  
+    Bundle Items: PattyBoutik Cowl Neck Backless Chain Draping Halter Top, PattyBoutik Unique V Neck Shawl Collar Short Sleeve Knit Jumper Blouse Tunic Top, High-Waisted Skinny Jeans (Black or Dark Wash), Strappy Heeled Sandals (Neutral or Black), Minimalist Pendant Necklace  
+    Intent: - ""Casual Summer Evening Outfit"" 
+
+     - ""Workwear and Social Occasion""  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     PattyBoutik Cowl Neck Backless Chain Draping Halter Top, casual evening, PattyBoutik Unique V Neck Shawl Collar Short Sleeve Knit Jumper Blouse Tunic Top, matching outfit, High-Waisted Skinny Jeans (Black or Dark Wash), workwear staple, Strappy Heeled Sandals (Neutral or Black), dressy touch, Minimalist Pendant Necklace, finishing detail, end. 
+
+    Influenced items are:
+     - PattyBoutik C"
+Beachy Keen Relaxation Essentials Bundle,"Beach vacation relaxation essentials.    
+
+
+
+    You are tasked with inferring the **core user intent**","Path:
+     Pink Queen Rhinestone Leopard Print Bikini Halter Top Hipster Large, Looking good, Sheer Beach Cover-Up (White or Black), Feeling confident, WIIPU sexy 3 row waist belly chain/Waist Chain/bikini body chain(wiipu-D245), Looking stylish, Strappy Flat Sandals (Neutral or Metallic), Feeling ready, Stylish Straw Tote Bag, Ready to go,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Beachy Keen Relaxation Essentials Bundle  
+    Bundle Items: Pink Queen Rhinestone Leopard Print Bikini Halter Top Hipster Large, WIIPU sexy 3 row waist belly chain/Waist Chain/bikini body chain(wiipu-D245), Sheer Beach Cover-Up (White or Black), Strappy Flat Sandals (Neutral or Metallic), Stylish Straw Tote Bag  
+    Intent: Beach vacation relaxation essentials.    
+
+
+
+    You are tasked with inferring the **core user intent**  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Pink Queen Rhinestone Leopard Print Bikini Halter Top Hipster Large, Looking good, Sheer Beach Cover-Up (White or Black), Feeling confident, WIIPU sexy 3 row waist belly chain/Waist Chain/bikini body chain(wiipu-D245), Looking stylish, Strappy Flat Sandals (Neutral or Metallic), Feeling ready, Stylish Straw Tote Bag, Ready to go, end 
+
+
+
+
+
+    Let's represent the items in a way that allows us"
+"""Sensual Nights Bundle""
+
+
+
+
+
+     The name","""Intimate Nighttime Wear and Accessories""    
+
+
+
+     No, that's incorrect.","Path:
+     Women's Lace Chemise, User wants intimacy, Silk Robe, User seeks relaxation, Satin Slippers, User craves comfort, Lace Garter Set, User desires sensuality, WIIPU Waist Chain, User likes accessories,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Sensual Nights Bundle""
+
+
+
+
+
+     The name  
+    Bundle Items: Women's Feminine Unique Design Lace Chemise & Thong Set - Navy Blue, WIIPU sexy 3 row waist belly chain/Waist Chain/bikini body chain(wiipu-D245), Silk Robe (Matching Color), Satin Slippers, Lace Garter Set  
+    Intent: ""Intimate Nighttime Wear and Accessories""    
+
+
+
+     No, that's incorrect.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Women's Lace Chemise, User wants intimacy, Silk Robe, User seeks relaxation, Satin Slippers, User craves comfort, Lace Garter Set, User desires sensuality, WIIPU Waist Chain, User likes accessories, end
+
+
+
+    Now, let's apply the same reasoning process to the next bundle. Bundle Name: ""Summer Fun Bundle""
+
+
+
+
+
+     The name  
+    Bundle Items: Beach Towel, Sunglasses, Sun Hat, Insect Repellent, Sandals"
+"""Date Night Essentials Bundle""    
+
+
+
+Here's","""Date Night""
+
+     ""Date Night"" is the correct answer because the clothing items in the bundle","Path:
+     Amour Women's Cut Open Slit Hole Opening Faux Leather Ankle Legging, Leggings are essential for a date, Amour Women's Lace Sheer Mesh Inset Stripes Ankle Length Footless Legging, Leggings are versatile, Black Crop Top or Bodysuit, Crop tops are sexy, Leather Jacket or Sheer Duster, Jackets add glamour, Ankle Boots or Stilettos, Boots complete the look,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Date Night Essentials Bundle""    
+
+
+
+Here's  
+    Bundle Items: Amour Women's Cut Open Slit Hole Opening Faux Leather Ankle Legging, Amour Women's Lace Sheer Mesh Inset Stripes Ankle Length Footless Legging, Black Crop Top or Bodysuit, Leather Jacket or Sheer Duster, Ankle Boots or Stilettos  
+    Intent: ""Date Night""
+
+     ""Date Night"" is the correct answer because the clothing items in the bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Amour Women's Cut Open Slit Hole Opening Faux Leather Ankle Legging, Leggings are essential for a date, Amour Women's Lace Sheer Mesh Inset Stripes Ankle Length Footless Legging, Leggings are versatile, Black Crop Top or Bodysuit, Crop tops are sexy, Leather Jacket or Sheer Duster, Jackets add glamour, Ankle Boots or Stilettos, Boots complete the look, end.   
+
+
+
+Here's  
+    Bundle Items"
+"Frogs in Fashion Bundle
+
+    **Please give","""Embrace the wild in fashion""    ~~~
+
+
+    A bundle of items with a similar","Path:
+     Light Shamrock Green Frog Toad Animal Pendant Necklace Charm Fashion Jewelry, User wants to express self, Vintage Antique Inspired Costume Jewelry Emerald Frog Toad Finger Ring size 7, User seeks unique style, Matching Frog or Nature-Inspired Earrings, User adds flair, Green or Emerald-Colored Bracelet, User completes look,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Frogs in Fashion Bundle
+
+    **Please give  
+    Bundle Items: Light Shamrock Green Frog Toad Animal Pendant Necklace Charm Fashion Jewelry, Vintage Antique Inspired Costume Jewelry Emerald Frog Toad Finger Ring size 7, Matching Frog or Nature-Inspired Earrings, Green or Emerald-Colored Bracelet  
+    Intent: ""Embrace the wild in fashion""    ~~~
+
+
+    A bundle of items with a similar  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Light Shamrock Green Frog Toad Animal Pendant Necklace Charm Fashion Jewelry, User wants to express self, Vintage Antique Inspired Costume Jewelry Emerald Frog Toad Finger Ring size 7, User seeks unique style, Matching Frog or Nature-Inspired Earrings, User adds flair, Green or Emerald-Colored Bracelet, User completes look, end
+
+
+    Here is the code to construct the influence path:
+
+    ```python
+def influence_path(bundle):
+    items = bundle['items']
+    intent = bundle['"
+Watches Bundle: Timeless Style for Every Occasion,"""Gifting or sharing watches""   
+
+
+Explanation:
+The bundle appears to contain a collection of watches","Path:
+     Watches Bundle, Gifting or sharing watches, Teal Ceramic Style Watch, Women's accessory, Geneva Platinum CZ Accented Watch, Timeless style, Silver or Gold-Tone Metal Watch, Gift complement, Matching Watch Storage, Organize gifts '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Watches Bundle: Timeless Style for Every Occasion  
+    Bundle Items: Teal Ceramic Style Silicone Gel Band Crystal Bezel Women's Watch, Geneva Platinum CZ Accented Silicone Link Watch, Large Face, Pink Blue 2 Pack, Silver or Gold-Tone Metal Bracelet Watch, Matching Watch Storage Box or Organizer  
+    Intent: ""Gifting or sharing watches""   
+
+
+Explanation:
+The bundle appears to contain a collection of watches  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Watches Bundle, Gifting or sharing watches, Teal Ceramic Style Watch, Women's accessory, Geneva Platinum CZ Accented Watch, Timeless style, Silver or Gold-Tone Metal Watch, Gift complement, Matching Watch Storage, Organize gifts 'end'    
+
+
+
+    The influence path shows how watches are chosen for gifting or sharing, with a focus on women's accessories and timeless style. The storage box is included to help organize gifts.    
+
+
+
+The provided code is a correct implementation of the"
+Home Relaxation and Self Care Essentials Bundle,"""Relaxation and self-care at home""   
+
+
+Answer:
+Relaxation and self-care","Path:
+     ISOTONER Womens Microterry Center Crossover Slide Slipper, comfort, Casual Women’s Sneakers, support, Foot Care Set (Lotion, Heel Balm, or Pedicure Kit), hygiene","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Home Relaxation and Self Care Essentials Bundle  
+    Bundle Items: ISOTONER Womens Microterry Center Crossover Slide Slipper, Skechers Reggae Drum Beat Womens Sandals Natural 9, Casual Women’s Sneakers, Foot Care Set (Lotion, Heel Balm, or Pedicure Kit)  
+    Intent: ""Relaxation and self-care at home""   
+
+
+Answer:
+Relaxation and self-care  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ISOTONER Womens Microterry Center Crossover Slide Slipper, comfort, Casual Women’s Sneakers, support, Foot Care Set (Lotion, Heel Balm, or Pedicure Kit), hygiene
+    end "
+Cinderella's Royal Ball Costume Bundle for Kids!,"_______________________________________ 
+
+**Note:** The answer should be a short phrase summarizing the core user intent.","Path:
+     Cinderella Wand, inspires imagination, Disney's Cinderella Deluxe Costume - Size: Child M(7 - 8), becomes a character, Cinderella Glass Slippers, adds a magical touch, Cinderella Tiara, completes the royal look, Light Blue Satin Gloves, adds elegance, '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Cinderella's Royal Ball Costume Bundle for Kids!  
+    Bundle Items: Cinderella Wand, Disney's Cinderella Deluxe Costume - Size: Child M(7 - 8), Cinderella Glass Slippers, Cinderella Tiara, Light Blue Satin Gloves  
+    Intent: _______________________________________ 
+
+**Note:** The answer should be a short phrase summarizing the core user intent.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Cinderella Wand, inspires imagination, Disney's Cinderella Deluxe Costume - Size: Child M(7 - 8), becomes a character, Cinderella Glass Slippers, adds a magical touch, Cinderella Tiara, completes the royal look, Light Blue Satin Gloves, adds elegance, 'end'  
+
+
+
+**Note:** Each item in the influence path is followed by a brief reason explaining how it connects to the next item. The reasons are presented in a way that a user would understand them"
+"Motherhood Memories Collection
+
+    Here is the suggested",-  To gift a new mother.     -  To celebrate a milestone.     -  To,"Path:
+     Sterling Silver Birthstone Pendant Necklace, celebrates milestone, Sterling Silver Twin Heart Baby Ring with Amethyst CZ Stone, honors new baby,.925 Sterling Silver Claddagh Ring with Blue Sapphire CZ Heart Stone, symbolizes love, Jewelry Polishing Cloth, keeps jewelry clean, end
+     Sterling Silver Birthstone Pendant Necklace, celebrates milestone, Sterling Silver Twin Heart Baby Ring with Amethyst CZ Stone, honors new baby, Sterling Silver Stud Earrings with CZ Stones, complements gift,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Motherhood Memories Collection
+
+    Here is the suggested  
+    Bundle Items: .925 Sterling Silver Claddagh Ring with Blue Sapphire CZ Heart Stone, Sterling Silver Twin Heart Baby Ring with Amethyst CZ Stone, Sterling Silver Birthstone Pendant Necklace, Sterling Silver Stud Earrings with CZ Stones, Jewelry Polishing Cloth  
+    Intent: -  To gift a new mother.     -  To celebrate a milestone.     -  To  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Sterling Silver Birthstone Pendant Necklace, celebrates milestone, Sterling Silver Twin Heart Baby Ring with Amethyst CZ Stone, honors new baby,.925 Sterling Silver Claddagh Ring with Blue Sapphire CZ Heart Stone, symbolizes love, Jewelry Polishing Cloth, keeps jewelry clean, end
+     Sterling Silver Birthstone Pendant Necklace, celebrates milestone, Sterling Silver Twin Heart Baby Ring with Amethyst CZ Stone, honors new baby, Sterling Silver Stud Earrings with CZ Stones, complements gift, end
+     Sterling"
+"Weekend Chic Casual Daywear Essentials Bundle
+
+    Core","Casual weekend daywear ensemble.    |
+
+
+    You are tasked with inferring the **core user","Path:
+     Basic White Cotton Tee, casual, Classic Denim Jacket, adds, Casual Leather Belt, completes, 7 For All Mankind Women's Slim Cigarette Jean, complements, DL1961 Women's Toni Cropped Jean in Rivington, pairs, Week","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Weekend Chic Casual Daywear Essentials Bundle
+
+    Core  
+    Bundle Items: 7 For All Mankind Women's Slim Cigarette Jean, DL1961 Women's Toni Cropped Jean in Rivington, Classic Denim Jacket, Basic White Cotton Tee, Casual Leather Belt  
+    Intent: Casual weekend daywear ensemble.    |
+
+
+    You are tasked with inferring the **core user  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Basic White Cotton Tee, casual, Classic Denim Jacket, adds, Casual Leather Belt, completes, 7 For All Mankind Women's Slim Cigarette Jean, complements, DL1961 Women's Toni Cropped Jean in Rivington, pairs, Weekend Chic Casual Daywear Essentials Bundle, core
+
+
+    Constraints:  
+    1. The influence path should be at most 10 steps long.  
+    2. Each step should use 5 words or fewer.  
+   "
+"A. Travel in Style Companion
+     B.","Fashion-conscious traveler's companion. 
+
+    This is a multiple-choice question. You must select one of",,"
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: A. Travel in Style Companion
+     B.  
+    Bundle Items: Nine West Zipster Tab Cross Body, Miami Blue, Compact Leather Wallet, Keychain Wristlet, Sunglasses with Case  
+    Intent: Fashion-conscious traveler's companion. 
+
+    This is a multiple-choice question. You must select one of  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     A. Travel in Style Companion, Convenience, B. Nine West Zipster Tab Cross Body, Hands-free storage, C. Compact Leather Wallet, Secure valuables, D. Keychain Wristlet, Key storage, E. Sunglasses with Case, Protective case
+
+    **Please select the correct influence path for the given bundle.**
+
+
+
+Answer: A. Travel in Style Companion, Convenience, B. Nine West Zipster Tab Cross Body, Hands-free storage, C. Compact Leather Wallet,"
+"""Protective Harmony Bundle"" 
+    Here is","**Step 1: Analyze the bundle items**
+The bundle contains a necklace series, a","Path:
+     O-stone Wishing Bead Necklace Series, Emotional Support, Bracelet with Grounding Stones, Stress Relief, Pendant Display Stand, Organization, Protection Amulet Keychain, Safety, '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Protective Harmony Bundle"" 
+    Here is  
+    Bundle Items: O-stone Wishing Bead Necklace Series Golden Obsidian Pendant, Bracelet with Grounding Stones, Pendant Display Stand, Protection Amulet Keychain  
+    Intent: **Step 1: Analyze the bundle items**
+The bundle contains a necklace series, a  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     O-stone Wishing Bead Necklace Series, Emotional Support, Bracelet with Grounding Stones, Stress Relief, Pendant Display Stand, Organization, Protection Amulet Keychain, Safety, 'end'
+
+    Let's construct the influence path for the ""Protective Harmony Bundle"". 
+
+    Step 1: Analyze the bundle items.
+    Step 2: Identify the user intent.
+    Step 3: Determine the influence path.
+
+    Step 2: Identify the user intent.
+    Step "
+"""Dream Big with Jake and the Never Land Pirates","- Bedtime routine for toddlers. 
+     - Character-themed items for children. 
+     - Co","Path:
+     Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set, Need cozy bedtime, Character Bedtime Storybook, 
+     Character Bedtime Storybook, Storytime essentials, Slippers with Jake and the Never Land Pirates Design, 
+     Slippers with Jake and the Never Land Pirates Design, Comfortable feet for play, Pirate Themed Blanket, 
+     Pirate Themed Blanket, Cozy night's sleep, '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Dream Big with Jake and the Never Land Pirates  
+    Bundle Items: Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set, Character Bedtime Storybook, Slippers with Jake and the Never Land Pirates Design, Pirate Themed Blanket  
+    Intent: - Bedtime routine for toddlers. 
+     - Character-themed items for children. 
+     - Co  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set, Need cozy bedtime, Character Bedtime Storybook, 
+     Character Bedtime Storybook, Storytime essentials, Slippers with Jake and the Never Land Pirates Design, 
+     Slippers with Jake and the Never Land Pirates Design, Comfortable feet for play, Pirate Themed Blanket, 
+     Pirate Themed Blanket, Cozy night's sleep, 'end'    
+
+
+
+    Influence Path:
+    Jake and the"
+"""Pirate's Dream Sleep Set for Little Sw","Kids' themed bedtime sleep set
+
+    Bundle items: Disney Princess 3 Piece Crib Bedding","Path:
+     Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set (5T), User wants bedtime set, Vans Kids VANS CLASSIC SLIP-ON SKATE SHOES, Need comfy shoes for bed, Jake and the Never Land Pirates themed slippers, Matching slippers for theme, Pirate Themed Blanket, Cozy blanket for sleep, Character Bedtime Storybook, Bedtime story for kids '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Pirate's Dream Sleep Set for Little Sw  
+    Bundle Items: Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set (5T), Vans Kids VANS CLASSIC SLIP-ON SKATE SHOES, Jake and the Never Land Pirates themed slippers, Pirate Themed Blanket, Character Bedtime Storybook  
+    Intent: Kids' themed bedtime sleep set
+
+    Bundle items: Disney Princess 3 Piece Crib Bedding  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set (5T), User wants bedtime set, Vans Kids VANS CLASSIC SLIP-ON SKATE SHOES, Need comfy shoes for bed, Jake and the Never Land Pirates themed slippers, Matching slippers for theme, Pirate Themed Blanket, Cozy blanket for sleep, Character Bedtime Storybook, Bedtime story for kids 'end
+
+    Bundle Name: ""Disney Princess 3 Piece Crib"
+"Pirate's Plunder: Sleep, Play & Dreams","""Pirate-themed sleep and play set""    
+
+
+In this prompt, the core user intent is","Path:
+     Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set (5T), The pajama set is a sleep item, Jake and the Never Land Pirates slippers, The slippers are a play item, Pirate-themed pillow, The pillow is a sleep item, Character bedtime storybook, The book is a sleep item '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Pirate's Plunder: Sleep, Play & Dreams  
+    Bundle Items: Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set (5T), Jake and the Never Land Pirates slippers, Pirate-themed pillow, Character bedtime storybook  
+    Intent: ""Pirate-themed sleep and play set""    
+
+
+In this prompt, the core user intent is  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Jake and the Never Land Pirates Toddler Boys Cotton Pajama Set (5T), The pajama set is a sleep item, Jake and the Never Land Pirates slippers, The slippers are a play item, Pirate-themed pillow, The pillow is a sleep item, Character bedtime storybook, The book is a sleep item 'end'    
+
+
+
+In this problem, the influence path has been constructed using the given information. The reasoning steps have been distilled to 5 words or fewer to reflect"
+"Winter Warmth Bundle
+
+
+
+    Here's the corrected","""Stay warm and stylish during winter""    
+
+
+
+
+
+    You are tasked with inferring the **core","Path:
+     New Winter fashion Women Beret Braided Baggy Beanie Crochet Knitted Hat Cap, Stay warm and stylish during winter, AMC Men's Sleeve Varsity Drawstring Hoodie with Pockets, Keep warm with a hoodie, Nine West 9s Jacquard Shopper Satchel Handbag, Add a stylish touch with a bag, Winter boots, Protect feet from cold, Thermal leggings, Stay warm with thermal leggings, Cashmere scarf, Add a luxurious touch with a scarf,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Winter Warmth Bundle
+
+
+
+    Here's the corrected  
+    Bundle Items: New Winter fashion Women Beret Braided Baggy Beanie Crochet Knitted Hat Cap, AMC Men's Sleeve Varsity Drawstring Hoodie with Pockets, Nine West 9s Jacquard Shopper Satchel Handbag, Winter boots, Thermal leggings, Cashmere scarf  
+    Intent: ""Stay warm and stylish during winter""    
+
+
+
+
+
+    You are tasked with inferring the **core  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     New Winter fashion Women Beret Braided Baggy Beanie Crochet Knitted Hat Cap, Stay warm and stylish during winter, AMC Men's Sleeve Varsity Drawstring Hoodie with Pockets, Keep warm with a hoodie, Nine West 9s Jacquard Shopper Satchel Handbag, Add a stylish touch with a bag, Winter boots, Protect feet from cold, Thermal leggings, Stay warm with thermal leggings, Cashmere scarf, Add a luxurious touch with a scarf, end
+
+
+"
+"""Cozy Winter Essentials for Women""    
+
+The","""Winter outfit for women""   
+
+
+Explanation:
+The bundle consists of winter clothing items such as a","Path:
+     Scarf, keeps neck warm, Boots, keeps feet warm, Winter gloves, protects hands from cold, New Winter fashion Women Beret Braided Baggy Beanie Crochet Knitted Hat Cap, completes winter outfit","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Cozy Winter Essentials for Women""    
+
+The  
+    Bundle Items: New Winter fashion Women Beret Braided Baggy Beanie Crochet Knitted Hat Cap, Winter gloves, Scarf, Boots  
+    Intent: ""Winter outfit for women""   
+
+
+Explanation:
+The bundle consists of winter clothing items such as a  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Scarf, keeps neck warm, Boots, keeps feet warm, Winter gloves, protects hands from cold, New Winter fashion Women Beret Braided Baggy Beanie Crochet Knitted Hat Cap, completes winter outfit  end
+
+
+    The influence path for the bundle is constructed to logically connect the items to each other in service of the user intent. The path shows how the items work together to address the user's concern of staying warm during winter. The reasoning steps are concise and easy to understand."
+"Celtic Heritage Collection
+
+    Bundle items: Celtic Trinity","""Spiritual connection and Celtic heritage""   
+
+
+
+
+Here is the corrected response:
+
+""Expression of Celtic","Path:
+     Celtic Trinity Knot Tree of Life with Sun and Moon Sterling Silver Ring, Spiritual connection, Celtic Trinity, Celtic heritage, Celtic-themed p","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Celtic Heritage Collection
+
+    Bundle items: Celtic Trinity  
+    Bundle Items: Celtic Trinity Knot Tree of Life with Sun and Moon Sterling Silver Ring, Nickel Free Sterling Silver Irish Claddagh Friendship and Love Band Celtic Ring w/ Trinity Symbols, Celtic-themed pendant, Celtic bracelet  
+    Intent: ""Spiritual connection and Celtic heritage""   
+
+
+
+
+Here is the corrected response:
+
+""Expression of Celtic  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Celtic Trinity Knot Tree of Life with Sun and Moon Sterling Silver Ring, Spiritual connection, Celtic Trinity, Celtic heritage, Celtic-themed pendant, Spiritual connection, Celtic Trinity Knot Tree of Life with Sun and Moon Sterling Silver Ring, Celtic heritage, Celtic Trinity, Spiritual connection, Celtic bracelet, Celtic heritage, Celtic Trinity Knot Tree of Life with Sun and Moon Sterling Silver Ring""   "
+"Irish Heritage Bundle of Celtic Symbolism
+
+
+
+    Answer","to connect with Irish heritage
+
+    **Note**: This is an open-ended question, and there might","Path:
+     Celtic Trinity Knot Tree of Life with Sun and Moon Sterling Silver Ring, Connect with Irish heritage, Celtic-themed necklace, Express love for Ireland, Pewter Irish Shamrock Kilt Pin, Celebrate St. Patrick's Day, Celtic Trinity Symbols on Ring, Strengthen Celtic pride, Celtic bracelet, Show off Irish heritage.","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Irish Heritage Bundle of Celtic Symbolism
+
+
+
+    Answer  
+    Bundle Items: Celtic Trinity Knot Tree of Life with Sun and Moon Sterling Silver Ring, Nickel Free Sterling Silver Irish Claddagh Friendship and Love Band Celtic Ring w/ Trinity Symbols, Pewter Irish Shamrock Kilt Pin, Celtic-themed necklace, Celtic bracelet  
+    Intent: to connect with Irish heritage
+
+    **Note**: This is an open-ended question, and there might  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Celtic Trinity Knot Tree of Life with Sun and Moon Sterling Silver Ring, Connect with Irish heritage, Celtic-themed necklace, Express love for Ireland, Pewter Irish Shamrock Kilt Pin, Celebrate St. Patrick's Day, Celtic Trinity Symbols on Ring, Strengthen Celtic pride, Celtic bracelet, Show off Irish heritage. end."
+"""Embracing Dark Beauty Through Gothic Jewelry""","""Gothic fashion enthusiasts self-expression""
+
+    Note: This response is based on the assumption that",,"
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Embracing Dark Beauty Through Gothic Jewelry""  
+    Bundle Items: KONOV Jewelry Vintage Stainless Steel Gothic Skull Biker Mens Ring, Black Silver, Gothic biker bracelet, Gothic biker necklace  
+    Intent: ""Gothic fashion enthusiasts self-expression""
+
+    Note: This response is based on the assumption that  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     KONOV Jewelry Vintage Stainless Steel Gothic Skull Biker Mens Ring, Self-expression, Black Silver, Gothic style, Gothic biker bracelet, Fashion statement, Gothic biker necklace, 
+
+     Note: The influence path is not necessarily a straight line, but a network of logical connections between items. Each connection represents a specific user concern or goal. In this case, the user wants to express their gothic style through fashion.   
+
+
+
+# Influence Path:
+KONOV Jewelry Vintage Stainless Steel Gothic Skull"
+"Fashion and accessory upgrade bundle
+
+    Here is the","Fashion and accessory upgrade
+
+    This is the correct response format:
+
+    Fashion and accessory upgrade","Path:
+     KONOV Jewelry Mens Bracelet Bangle, Upgrade My Style, JBlue Jewelry Genuine Black Leather Bangle Bracelet, Match My Accessories, Woven Leather Bracelet for Men, Add Some Texture, end.    
+
+
+
+KONOV Jewelry Mens Bracelet Bangle, Upgrade My Style, JBlue Jewelry Genuine Black Leather Bangle Bracelet, Match My Accessories, Woven Leather Bracelet for Men, Add Some Texture,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Fashion and accessory upgrade bundle
+
+    Here is the  
+    Bundle Items: KONOV Jewelry Mens Bracelet Bangle, Stainless Steel Rubber, Color Black Silver, JBlue Jewelry Genuine Black Leather Bangle Bracelet, Woven Leather Bracelet for Men  
+    Intent: Fashion and accessory upgrade
+
+    This is the correct response format:
+
+    Fashion and accessory upgrade  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     KONOV Jewelry Mens Bracelet Bangle, Upgrade My Style, JBlue Jewelry Genuine Black Leather Bangle Bracelet, Match My Accessories, Woven Leather Bracelet for Men, Add Some Texture, end.    
+
+
+
+KONOV Jewelry Mens Bracelet Bangle, Upgrade My Style, JBlue Jewelry Genuine Black Leather Bangle Bracelet, Match My Accessories, Woven Leather Bracelet for Men, Add Some Texture, end.    
+
+
+
+KONOV Jewelry Mens Bracelet Bangle,"
+"Alternative Goth Style Essentials Bundle
+
+
+
+    Here is the","""expressing alternative goth style""    ​
+
+    This response is an example of a well","Path:
+     KONOV Jewelry Mens Bracelet Bangle, expressing alternative goth style, KONOV Jewelry Vintage Stainless Steel Gothic Skull Biker Mens Ring, expressing goth aesthetic, JBlue Jewelry Genuine Black Leather Bangle Bracelet, expressing goth fashion, Pewter Skull Pendant Necklace, expressing goth style, KONOV Jewelry Stainless Steel Rubber Bracelet for Unisex Mens Womens - Black Silver - 8.8 Inch, completing goth look '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Alternative Goth Style Essentials Bundle
+
+
+
+    Here is the  
+    Bundle Items: KONOV Jewelry Mens Bracelet Bangle, Stainless Steel Rubber, Color Black Silver, KONOV Jewelry Vintage Stainless Steel Gothic Skull Biker Mens Ring, Black Silver, JBlue Jewelry Genuine Black Leather Bangle Bracelet, Pewter Skull Pendant Necklace, KONOV Jewelry Stainless Steel Rubber Bracelet for Unisex Mens Womens - Black Silver - 8.8 Inch  
+    Intent: ""expressing alternative goth style""    ​
+
+    This response is an example of a well  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     KONOV Jewelry Mens Bracelet Bangle, expressing alternative goth style, KONOV Jewelry Vintage Stainless Steel Gothic Skull Biker Mens Ring, expressing goth aesthetic, JBlue Jewelry Genuine Black Leather Bangle Bracelet, expressing goth fashion, Pewter Skull Pendant Necklace, expressing goth style, KONOV Jewelry Stainless Steel Rubber Bracelet for Unisex Mens Womens - Black Silver - 8.8 Inch, completing goth look 'end' 
+
+
+
+
+
+    Influence Path:
+   "
+Statement Necklaces for Fashion Enthusiasts -,"A fashion enthusiast seeking statement pieces.    
+
+
+
+Answer: Statement necklaces for fashion enthusiasts.","Path:
+     Antique Necklace, Fashion Enthusiast's Taste, Vintage Golden Chain, Elegant Style, Dp Ribbon, Big & Bold, Retro Environmental, Colorful Statement, Simple Gold Chain, Classic Luxury,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Statement Necklaces for Fashion Enthusiasts -  
+    Bundle Items: Antique Necklace Crystal Statement Jewelry Chunky Bubble Necklace (Fn0634), Vintage Golden Chain Jewelry Hollow Floral Adorned Pendant Necklace, Dp Ribbon Luxury White Big Rhinestone Crystal Collar Bib Statement Necklace, Retro Environmental Protection Alloy Colorful Acrylic Pendant Necklace, Simple Gold Chain Crystal Pendant Necklace  
+    Intent: A fashion enthusiast seeking statement pieces.    
+
+
+
+Answer: Statement necklaces for fashion enthusiasts.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Antique Necklace, Fashion Enthusiast's Taste, Vintage Golden Chain, Elegant Style, Dp Ribbon, Big & Bold, Retro Environmental, Colorful Statement, Simple Gold Chain, Classic Luxury, end
+
+     Influenced by the user's intent, the path is constructed by connecting the items in a way that showcases statement necklaces, addressing the user's desire for fashion-forward pieces. The items are chosen to highlight various aspects of statement necklaces, from unique styles (Antique Necklace) to"
+"- Casual Chic Office Wear Essentials Bundle
+     -","Casual yet stylish office wear
+
+    Bundle items: PattyBoutik Boat Neck O Ring Cut Out",,"
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: - Casual Chic Office Wear Essentials Bundle
+     -  
+    Bundle Items: PattyBoutik Boat Neck O Ring Cut Out Shoulder 3/4 Sleeve Blouse Top, Classic Button-Up Blouse, Chic Peplum Top  
+    Intent: Casual yet stylish office wear
+
+    Bundle items: PattyBoutik Boat Neck O Ring Cut Out  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - PattyBoutik Boat Neck O Ring Cut Out Shoulder 3/4 Sleeve Blouse Top, want casual style, Classic Button-Up Blouse, need classic look, Chic Peplum Top, add flair
+
+    Here's the code to generate the influence path:
+
+    ```python
+def influence_path(bundle_items):
+    # Bundle Name: Casual Chic Office Wear Essentials Bundle
+    # Bundle Items: PattyBoutik Boat Neck O Ring Cut Out Shoulder 3/4 Sleeve Blouse"
+"""Panem's Finest Tribute Collectibles""","""Fan merchandise for enthusiasts""    
+
+
+
+This task assesses the ability to identify the primary purpose of","Path:
+     Hunger Games Tribute Themed Bracelet, Fans want to show support, NECA The Hunger Games: Catching Fire Mockingjay Pin Prop Replica, Pin is a symbol, Hunger Games Tribute Themed Bracelet, Fans want to show support, Hunger Games Movie Bag Clip ""District 12"", Clip is from the movie, Hunger Games Tribute Themed Bracelet, Fans want to show support '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Panem's Finest Tribute Collectibles""  
+    Bundle Items: The Hunger Games Movie Bag Clip ""District 12"", NECA The Hunger Games: Catching Fire Mockingjay Pin Prop Replica, Hunger Games Tribute Themed Bracelet  
+    Intent: ""Fan merchandise for enthusiasts""    
+
+
+
+This task assesses the ability to identify the primary purpose of  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Hunger Games Tribute Themed Bracelet, Fans want to show support, NECA The Hunger Games: Catching Fire Mockingjay Pin Prop Replica, Pin is a symbol, Hunger Games Tribute Themed Bracelet, Fans want to show support, Hunger Games Movie Bag Clip ""District 12"", Clip is from the movie, Hunger Games Tribute Themed Bracelet, Fans want to show support 'end
+
+    This influence path demonstrates how items in the bundle logically connect to each other in service of the"
+"""Rebellion in Panem Bundle""","- Fan of the Hunger Games series
+     - Enthusiast of dystopian fiction","Path:
+     - Hunger Games Tribute Themed Bracelet, Fans love unique accessories, NECA The Hunger Games: Catching Fire Mockingjay Pin Prop Replica, Fans seek collectibles, The Hunger Games Movie Bag Clip ""District 12"", Fans want themed merchandise, '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Rebellion in Panem Bundle""  
+    Bundle Items: The Hunger Games Movie Bag Clip ""District 12"", NECA The Hunger Games: Catching Fire Mockingjay Pin Prop Replica, Hunger Games Tribute Themed Bracelet  
+    Intent: - Fan of the Hunger Games series
+     - Enthusiast of dystopian fiction  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - Hunger Games Tribute Themed Bracelet, Fans love unique accessories, NECA The Hunger Games: Catching Fire Mockingjay Pin Prop Replica, Fans seek collectibles, The Hunger Games Movie Bag Clip ""District 12"", Fans want themed merchandise, 'end'   
+
+
+
+The Hunger Games Tribute Themed Bracelet, Fans love unique accessories, NECA The Hunger Games: Catching Fire Mockingjay Pin Prop Replica, Fans seek collectibles, The Hunger Games Movie Bag Clip ""District "
+"""Warmth and Protection for Winter""
+
+    Alternative","""Winter warmth and protection"" 
+
+    The reasoning:
+    The bundle consists of a boot, gloves","Path:
+     BEARPAW Women's Bristol Boot, Cold Feet, Winter Gloves, Fingers, Wool Scarf, Cold Neck
+
+    Note: This is a simplified example. Real-world influence paths might be much longer and involve more complex reasoning.  
+
+    The path reflects how the user concern (cold) is addressed by the items in the bundle.  
+
+
+
+BEARPAW Women's Bristol Boot, Cold Feet, Winter Gloves, Fingers, Wool Scarf, Cold Neck,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Warmth and Protection for Winter""
+
+    Alternative  
+    Bundle Items: BEARPAW Women's Bristol Boot, Winter Gloves, Wool Scarf  
+    Intent: ""Winter warmth and protection"" 
+
+    The reasoning:
+    The bundle consists of a boot, gloves  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     BEARPAW Women's Bristol Boot, Cold Feet, Winter Gloves, Fingers, Wool Scarf, Cold Neck
+
+    Note: This is a simplified example. Real-world influence paths might be much longer and involve more complex reasoning.  
+
+    The path reflects how the user concern (cold) is addressed by the items in the bundle.  
+
+
+
+BEARPAW Women's Bristol Boot, Cold Feet, Winter Gloves, Fingers, Wool Scarf, Cold Neck, end 
+
+
+
+
+
+---
+
+"
+"Here is a possible name: ""Fitness and","- ""Fitness and Running Essentials"" 
+
+**Note:** In this context, the core user intent is","Path:
+     Asics Gel Triangles Women's Running Shoes, 
+     Need running shoes, Gym Bag, 
+     Need bag for shoes, Running Leggings, 
+     Need leggings for running,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Here is a possible name: ""Fitness and  
+    Bundle Items: Asics Gel Triangles Women's Running Shoes, Gym Bag, Running Leggings  
+    Intent: - ""Fitness and Running Essentials"" 
+
+**Note:** In this context, the core user intent is  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Asics Gel Triangles Women's Running Shoes, 
+     Need running shoes, Gym Bag, 
+     Need bag for shoes, Running Leggings, 
+     Need leggings for running, end
+
+    Please see below for additional context:
+
+    The intent is to prepare for a run by acquiring the necessary items.
+
+    The reasoning steps are:
+
+    1. Acquire running shoes to run.
+    2. Acquire a bag to carry the running shoes.
+    3. Acquire running"
+"""Sparkle Your Style with Sterling Silver Bling","Personalized gift for a friend. 
+
+    Bundle items: Sterling Silver Necklace, Matching Earrings,","Path:
+     Necklace, Want personalized gift, Earrings, Match the earrings, Earrings, Enhance the style, Jewelry Cleaning Cloth, Keep the jewelry clean, end
+    """"""
+    influence_path = f""Necklace, Want personalized gift, Earrings, Match the earrings, Earrings, Enhance the style, Jewelry Cleaning Cloth, Keep the jewelry clean,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Sparkle Your Style with Sterling Silver Bling  
+    Bundle Items: 925 Sterling Silver CZ Cubic Zirconia Diamond Small Flip-Flop Slipper Shoes Post Stud Earrings, Matching Sterling Silver Necklace, Jewelry Cleaning Cloth  
+    Intent: Personalized gift for a friend. 
+
+    Bundle items: Sterling Silver Necklace, Matching Earrings,  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Necklace, Want personalized gift, Earrings, Match the earrings, Earrings, Enhance the style, Jewelry Cleaning Cloth, Keep the jewelry clean, end
+    """"""
+    influence_path = f""Necklace, Want personalized gift, Earrings, Match the earrings, Earrings, Enhance the style, Jewelry Cleaning Cloth, Keep the jewelry clean, end""
+    return influence_path
+
+influence_path = construct_influence_path()
+print(influence_path)  # Output: Necklace, Want"
+"""Party Perfect Footwear and Handbag Bundle""","""Dressy Occasion Party Footwear Bundle"" 
+
+     I apologize, but it seems there","Path:
+     Fashion Handbag, Completes party look, Funtasma by Pleaser Women's Gangster-15 Platform Oxford, Provides party footwear, T.U.K. Women's A8189L Pump, Complements party shoes, Funtasma by Pleaser Women's Gangster-15 Platform Oxford,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Party Perfect Footwear and Handbag Bundle""  
+    Bundle Items: Funtasma by Pleaser Women's Gangster-15 Platform Oxford, T.U.K. Women's A8189L Pump, Fashion Handbag  
+    Intent: ""Dressy Occasion Party Footwear Bundle"" 
+
+     I apologize, but it seems there  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Fashion Handbag, Completes party look, Funtasma by Pleaser Women's Gangster-15 Platform Oxford, Provides party footwear, T.U.K. Women's A8189L Pump, Complements party shoes, Funtasma by Pleaser Women's Gangster-15 Platform Oxford, end
+
+     I apologize, but it seems there was an error in the response. The output should be in the format specified. Here is the corrected response:
+
+     Fashion Handbag, Completes party"
+Fila Fashion for the Modern Man Bundle,"Comfortable walking shoes
+
+    Here is the next one:
+
+    Bundle items: Fila Men's","Path:
+     Fila Men's, Style, Easy Spirit Women's Traveltime Fashion Sneaker, Comfort, Dr. Scholl's Women's Dance Clog, Support, Gel Insoles, Prevention,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Fila Fashion for the Modern Man Bundle  
+    Bundle Items: Dr. Scholl's Women's Dance Clog, Easy Spirit Women's Traveltime Fashion Sneaker, Gel Insoles  
+    Intent: Comfortable walking shoes
+
+    Here is the next one:
+
+    Bundle items: Fila Men's  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Fila Men's, Style, Easy Spirit Women's Traveltime Fashion Sneaker, Comfort, Dr. Scholl's Women's Dance Clog, Support, Gel Insoles, Prevention, end.    
+
+
+
+    Bundle Name: Fila Fashion for the Modern Man Bundle  
+    Bundle Items: Dr. Scholl's Women's Dance Clog, Easy Spirit Women's Traveltime Fashion Sneaker, Gel Insoles  
+    Intent: Comfortable walking shoes
+
+    Bundle items: Fila Men's"
+"Fitness Essentials for Active Women
+
+    Alternative name:","Fitness or exercise activities.    - This is the correct answer. 
+
+     No, I am not","Path:
+     Easy Spirit Women's Traveltime Fashion Sneaker, Comfort, Delfin Spa Women's Bio Energy High Waisted Exercise Shorts, Sweat Reduction, Athletic Sports Bra, Support, Water Bottle, Hydration,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Fitness Essentials for Active Women
+
+    Alternative name:  
+    Bundle Items: Easy Spirit Women's Traveltime Fashion Sneaker, Delfin Spa Women's Bio Energy High Waisted Exercise Shorts, Athletic Sports Bra, Water Bottle  
+    Intent: Fitness or exercise activities.    - This is the correct answer. 
+
+     No, I am not  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Easy Spirit Women's Traveltime Fashion Sneaker, Comfort, Delfin Spa Women's Bio Energy High Waisted Exercise Shorts, Sweat Reduction, Athletic Sports Bra, Support, Water Bottle, Hydration, end
+
+    Your task is to complete the influence path.
+
+    Please complete the influence path for the Fitness Essentials for Active Women bundle in the clothing domain.
+
+    Bundle Name: Fitness Essentials for Active Women
+
+    Alternative name: Fitness Essentials for Active Women
+
+    Bundle Items: Easy Spirit Women's"
+Weekend Getaway Chic Travel Essential Bundle,"""Relaxed Weekend Travel Outfit""    
+
+
+
+Here is the bundle with a few more items added","Path:
+     Easy Spirit Women's Traveltime Fashion Sneaker, Comfort, eVogues Gray Deep Cut V-Neck Hoodie Top, Style, Casual Leggings, Versatility, Athletic Socks, Protection,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Weekend Getaway Chic Travel Essential Bundle  
+    Bundle Items: Easy Spirit Women's Traveltime Fashion Sneaker, eVogues Gray Deep Cut V-Neck Hoodie Top, Athletic Socks, Casual Leggings  
+    Intent: ""Relaxed Weekend Travel Outfit""    
+
+
+
+Here is the bundle with a few more items added  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Easy Spirit Women's Traveltime Fashion Sneaker, Comfort, eVogues Gray Deep Cut V-Neck Hoodie Top, Style, Casual Leggings, Versatility, Athletic Socks, Protection, end
+
+    Note: The output path is a sequence of items and reasons that reflect the user's intent. Each item in the path is a product from the bundle, and the reasons are the concerns addressed by the user when they select those products.   
+
+
+
+Here is the updated bundle with"
+"Fitness Essentials Bundle for Active Lifestyle   
+
+
+
+Bundle items",Fitness and casual leisure activities.,"Path:
+     Fitness Essentials Bundle for Active Lifestyle   
+
+
+
+Bundle items  
+    Bundle Items: eVogues Gray Deep Cut V-Neck Hoodie Top, Casual Sneakers, Athletic Leggings  
+    Intent: Fitness and casual leisure activities.  
+
+    eVogues Gray Deep Cut V-Neck Hoodie Top, sweat, Casual Sneakers, comfort, Athletic Leggings, support,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Fitness Essentials Bundle for Active Lifestyle   
+
+
+
+Bundle items  
+    Bundle Items: eVogues Gray Deep Cut V-Neck Hoodie Top, Casual Sneakers, Athletic Leggings  
+    Intent: Fitness and casual leisure activities.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Fitness Essentials Bundle for Active Lifestyle   
+
+
+
+Bundle items  
+    Bundle Items: eVogues Gray Deep Cut V-Neck Hoodie Top, Casual Sneakers, Athletic Leggings  
+    Intent: Fitness and casual leisure activities.  
+
+    eVogues Gray Deep Cut V-Neck Hoodie Top, sweat, Casual Sneakers, comfort, Athletic Leggings, support, end
+
+    The reasoning steps are:
+    1. eVogues Gray Deep Cut V-Ne"
+"""Timeless Elegance for Your Special Day",Special occasion or wedding jewelry.,"Path:
+     Classical 925 Sterling Silver 9.0mm White Pearl Women Pendant + Chain with Cubic Zirconia/CZ, want special occasion look, Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, match white pearl, Sterling Silver Clear AB Crystal Dangle Earrings Made with Swarovski Elements, add sparkle to ring, Elegant Statement Necklace (optional), complete special occasion outfit, '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Timeless Elegance for Your Special Day  
+    Bundle Items: Classical 925 Sterling Silver 9.0mm White Pearl Women Pendant + Chain with Cubic Zirconia/CZ, Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, Sterling Silver Clear AB Crystal Dangle Earrings Made with Swarovski® Elements, Elegant Statement Necklace (optional)  
+    Intent: Special occasion or wedding jewelry.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Classical 925 Sterling Silver 9.0mm White Pearl Women Pendant + Chain with Cubic Zirconia/CZ, want special occasion look, Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, match white pearl, Sterling Silver Clear AB Crystal Dangle Earrings Made with Swarovski Elements, add sparkle to ring, Elegant Statement Necklace (optional), complete special occasion outfit, 'end'  
+
+    Example Output:
+    Item 1, reason "
+Glittering Statement Earrings & Necklace Bundle,"To make a statement with jewelry.    
+
+
+
+
+Answer: To make a statement with jewelry.","Path:
+     Sterling Silver Clear AB Crystal Dangle Earrings Made with Swarovski&#x9; Elements,  I want to sparkle,  14 Karat Gold Plated Amethyst Earrings,  I love amethyst,  Elegant Statement Necklace (optional),  Add to overall look,  Sterling Silver Clear AB Crystal Dangle Earrings Made with Swarovski&#x9; Elements,  I want a set,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Glittering Statement Earrings & Necklace Bundle  
+    Bundle Items: Sterling Silver Clear AB Crystal Dangle Earrings Made with Swarovski® Elements, 14 Karat Gold Plated Amethyst Earrings, Elegant Statement Necklace (optional)  
+    Intent: To make a statement with jewelry.    
+
+
+
+
+Answer: To make a statement with jewelry.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Sterling Silver Clear AB Crystal Dangle Earrings Made with Swarovski&#x9; Elements,  I want to sparkle,  14 Karat Gold Plated Amethyst Earrings,  I love amethyst,  Elegant Statement Necklace (optional),  Add to overall look,  Sterling Silver Clear AB Crystal Dangle Earrings Made with Swarovski&#x9; Elements,  I want a set,  end  - 14 Karat Gold Plated Amethyst Earrings"
+"""Shine at Formal Events with Elegance","Special occasion or formal event.  ## Step 1: Analyze the bundle items
+The bundle","Path:
+     Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, Because, Matching Elegant Earrings (optional), For, Special occasion or formal event.","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Shine at Formal Events with Elegance  
+    Bundle Items: Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, Matching Elegant Earrings (optional)  
+    Intent: Special occasion or formal event.  ## Step 1: Analyze the bundle items
+The bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, Because, Matching Elegant Earrings (optional), For, Special occasion or formal event. end
+
+    Explanation:
+    The influence path connects the Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring to the user intent of Special occasion or formal event through the matching elegant earrings, which are often paired with such a ring for formal events.
+
+    The reasoning steps are concise,"
+"Formal Luxury Evening Chic Jewels Bundle    
+
+
+
+Here","""Formal evening or special occasion""   
+
+
+    Here is the clothing bundle:
+
+    1","Path:
+     Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, formal evening attire often includes jewelry, Sterling Silver Swarovski Elements Crystal Aurora Borealis Large Rondelle Drop Earrings, adds extra sparkle to formal evening look, Sterling Silver 9mm Shell Pearl and Cubic Zirconia Ring, adds elegance and sophistication to formal evening, Classical 925 Sterling Silver 9.0mm White Pearl Women P","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Formal Luxury Evening Chic Jewels Bundle    
+
+
+
+Here  
+    Bundle Items: Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, Sterling Silver Swarovski Elements Crystal Aurora Borealis Large Rondelle Drop Earrings, Sterling Silver 9mm Shell Pearl and Cubic Zirconia Ring, Classical 925 Sterling Silver 9.0mm White Pearl Women Pendant + Chain with Cubic Zirconia/CZ  
+    Intent: ""Formal evening or special occasion""   
+
+
+    Here is the clothing bundle:
+
+    1  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Myia Passiello ""Timeless"" Swarovski Zirconia Round Halo Ring, formal evening attire often includes jewelry, Sterling Silver Swarovski Elements Crystal Aurora Borealis Large Rondelle Drop Earrings, adds extra sparkle to formal evening look, Sterling Silver 9mm Shell Pearl and Cubic Zirconia Ring, adds elegance and sophistication to formal evening, Classical 925 Sterling Silver 9.0mm White Pearl Women Pendant + Chain with Cubic Zirconia/CZ"
+"""Everyday Essentials for the Modern Woman""","""Casual footwear for everyday activities"" 
+
+     Core user intent behind this clothing bundle is: Everyday",,"
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Everyday Essentials for the Modern Woman""  
+    Bundle Items: Penny Loves Kenny Women's Harper Fashion Sneaker  
+    Intent: ""Casual footwear for everyday activities"" 
+
+     Core user intent behind this clothing bundle is: Everyday  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Penny Loves Kenny Women's Harper Fashion Sneaker, casual comfort, Everyday Essentials for the Modern Woman, 'fits daily needs, Everyday Essentials for the Modern Woman, meets everyday demands
+
+    Note: The influence path shows how the product Penny Loves Kenny Women's Harper Fashion Sneaker logically connects to the bundle Everyday Essentials for the Modern Woman in service of the user intent Everyday. 
+
+    The path is constructed by considering user concerns and how items in the bundle address those concerns. 
+
+    The output is in"
+"Winter Essentials for Kids Bundle Deal
+
+
+Answer: Winter","_______________  (answer should be around 5 words)
+
+    Note: This task requires you","Path:
+     U.S. Polo Assn. Juniors Puffer Jacket with Faux Fur-Trimmed Hood, I need warm jacket, U.S. Polo Assn. Men's Short Snorkel Coat with Small Pony, I need matching coat, PUMA Tune Cat B V Kids Sneaker (Toddler/Little Kid), I need cool shoes, D&K Thick Fleece Full Leggings, I need warm leggings '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Winter Essentials for Kids Bundle Deal
+
+
+Answer: Winter  
+    Bundle Items: U.S. Polo Assn. Juniors Puffer Jacket with Faux Fur-Trimmed Hood, U.S. Polo Assn. Men's Short Snorkel Coat with Small Pony, PUMA Tune Cat B V Kids Sneaker (Toddler/Little Kid), D&K Thick Fleece Full Leggings  
+    Intent: _______________  (answer should be around 5 words)
+
+    Note: This task requires you  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     U.S. Polo Assn. Juniors Puffer Jacket with Faux Fur-Trimmed Hood, I need warm jacket, U.S. Polo Assn. Men's Short Snorkel Coat with Small Pony, I need matching coat, PUMA Tune Cat B V Kids Sneaker (Toddler/Little Kid), I need cool shoes, D&K Thick Fleece Full Leggings, I need warm leggings 'end
+
+    Note: The answer above represents the influence path where"
+"Fuzzy Friends Bundle
+
+    Let me know if","""Stay warm during winter months"" 
+
+     Bundle items: U.S. Polo Assn. Jun","Path:
+     U.S. Polo Assn. Juniors Puffer Jacket with Faux Fur-Trimmed Hood, Stays warm, D&K Thick Fleece Full Leggings, Adds warmth, U.S. Polo Assn. Juniors Puffer Jacket with Faux Fur-Trimmed Hood, Stays warm, D&K Thick Fleece Full Leggings, Adds warmth 'end' 
+
+    Bundle: Fuzzy Fri","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Fuzzy Friends Bundle
+
+    Let me know if  
+    Bundle Items: U.S. Polo Assn. Juniors Puffer Jacket with Faux Fur-Trimmed Hood, D&K Thick Fleece Full Leggings  
+    Intent: ""Stay warm during winter months"" 
+
+     Bundle items: U.S. Polo Assn. Jun  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     U.S. Polo Assn. Juniors Puffer Jacket with Faux Fur-Trimmed Hood, Stays warm, D&K Thick Fleece Full Leggings, Adds warmth, U.S. Polo Assn. Juniors Puffer Jacket with Faux Fur-Trimmed Hood, Stays warm, D&K Thick Fleece Full Leggings, Adds warmth 'end' 
+
+    Bundle: Fuzzy Friends Bundle
+
+    Bundle Items: U.S. Polo Assn."
+Formal Women's Event Dresses for the Perfect Look,"Women's formal event attire
+
+    This response should not be altered or reformatted. Please keep it","Path:
+     Formal Women's Event Dresses for the Perfect Look, Need formal event dress, Jessica Simpson Women's Cap Sleeve Dress, Suitable for warm events, Donna Morgan Women's Sleeveless Dress with Front Slit and Full Skirt, Add visual interest,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Formal Women's Event Dresses for the Perfect Look  
+    Bundle Items: Jessica Simpson Women's Cap Sleeve Dress, Heart Poinciana, 6, Donna Morgan Women's Sleeveless Dress with Front Slit and Full Skirt, Kinetic Blue Multi, 6  
+    Intent: Women's formal event attire
+
+    This response should not be altered or reformatted. Please keep it  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Formal Women's Event Dresses for the Perfect Look, Need formal event dress, Jessica Simpson Women's Cap Sleeve Dress, Suitable for warm events, Donna Morgan Women's Sleeveless Dress with Front Slit and Full Skirt, Add visual interest, end
+
+
+    Note: The influence path constructed here assumes that the user is looking for a formal women's event dress with specific features, and the items are chosen based on their ability to meet these needs. This is a simplified example and may not reflect real-world"
+"""The Next Generation Star Trek Fan Bundle""",Fans of Star Trek: The Next Generation are likely to appreciate this bundle as it includes items that pay,,"
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""The Next Generation Star Trek Fan Bundle""  
+    Bundle Items: Deluxe Adult Next Generation Red Shirt Costume, Star Trek - TNG I'm Number One Men's T-Shirt, Star Trek communicator badge, Star Trek phaser toy  
+    Intent: Fans of Star Trek: The Next Generation are likely to appreciate this bundle as it includes items that pay  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     The Next Generation Red Shirt Costume, Fans love to dress up, Star Trek communicator badge, Communicator badges are cool, Star Trek phaser toy, Phaser toys are awesome, Star Trek - TNG I'm Number One Men's T-Shirt, I love the show, The Next Generation Red Shirt Costume, Fans love to dress up, Star Trek - TNG I'm Number One Men's T-Shirt, I love the show, Star Trek communicator badge, Communicator badges are cool, Star Trek ph"
+"""Sun Soaked Beach Getaway Essentials Bundle""","""Relaxing at the beach"" 
+
+     Here's the breakdown:
+
+     * Aerosoles Women","Path:
+     Aerosoles Women's Wip Away Sandal, user needs comfort, summer dress, user wants to look stylish, beach tote bag, user wants to carry essentials, sunglasses, user needs protection from sun '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Sun Soaked Beach Getaway Essentials Bundle""  
+    Bundle Items: Aerosoles Women's Wip Away Sandal, sunglasses, summer dress, beach tote bag  
+    Intent: ""Relaxing at the beach"" 
+
+     Here's the breakdown:
+
+     * Aerosoles Women  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Aerosoles Women's Wip Away Sandal, user needs comfort, summer dress, user wants to look stylish, beach tote bag, user wants to carry essentials, sunglasses, user needs protection from sun 'end'
+
+    Note: The items in the influence path are not in the correct order. You should reorder them to reflect the logical connection between the items in service of the user intent. 
+
+    Reordered Influence Path:
+    Aerosoles Women's Wip Away Sandal, user needs comfort,"
+"""Special Occasion Luxury Jewelry Set Bundle""","""Wear and enjoy special occasion outfit"" 
+
+     or
+
+    ""Wear matching jewelry on","Path:
+     Pear Drop Austrian Crystal Dangle Earrings for Women Purple 1038801, Wear matching jewelry on, Sterling Silver, Marcasite, and Blue Epoxy Tree of Life P","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Special Occasion Luxury Jewelry Set Bundle""  
+    Bundle Items: Pear Drop Austrian Crystal Dangle Earrings for Women Purple 1038801, Sterling Silver, Marcasite, and Blue Epoxy Tree of Life Pendant Necklace, 18"", matching bracelet, matching ring, jewelry box  
+    Intent: ""Wear and enjoy special occasion outfit"" 
+
+     or
+
+    ""Wear matching jewelry on  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Pear Drop Austrian Crystal Dangle Earrings for Women Purple 1038801, Wear matching jewelry on, Sterling Silver, Marcasite, and Blue Epoxy Tree of Life Pendant Necklace, Enhance special occasion outfit, 18"", matching bracelet, Complete outfit with, matching ring, Complement special occasion look, jewelry box, Store and protect 
+
+    (Note: Each reason should be a word or a short phrase that describes the connection between the items.) 
+
+    Here is a step-by"
+"- ""Coastal Escape Essentials Bundle""","""Relaxation and leisure on beach"" 
+
+    This bundle appears to be curated for a specific","Path:
+     beach tote bag, keeps beach essentials, Bass Women's Sharon Sandal, perfect for sandy feet, comfortable flip-flops, matches beach vibe, 'end' 
+
+     Example Output:
+     beach tote bag, keeps beach essentials, Bass Women's Sharon Sandal, perfect for sandy feet, comfortable flip-flops, matches beach vibe, '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: - ""Coastal Escape Essentials Bundle""  
+    Bundle Items: Bass Women's Sharon Sandal, beach tote bag, comfortable flip-flops  
+    Intent: ""Relaxation and leisure on beach"" 
+
+    This bundle appears to be curated for a specific  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     beach tote bag, keeps beach essentials, Bass Women's Sharon Sandal, perfect for sandy feet, comfortable flip-flops, matches beach vibe, 'end' 
+
+     Example Output:
+     beach tote bag, keeps beach essentials, Bass Women's Sharon Sandal, perfect for sandy feet, comfortable flip-flops, matches beach vibe, 'end' 
+
+    Note: The influence path is a logical sequence of connections between items in the bundle, designed to address the user's intent. 
+
+    This"
+"""Sun Seekers Beach Essentials Bundle""",Beach vacation preparation bundle.,,"
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Sun Seekers Beach Essentials Bundle""  
+    Bundle Items: L*Space Women's L*Novelties Hipster Bikini Bottom, ViX Women's Carioca Bia Tube Bikini Top, Kenneth Cole Reaction Women's Under The Sun Bandeau One Piece, beach towel, flip-flops  
+    Intent: Beach vacation preparation bundle.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     L*Space Women's L*Novelties Hipster Bikini Bottom, user wants swimsuit, ViX Women's Carioca Bia Tube Bikini Top, needs matching top, Kenneth Cole Reaction Women's Under The Sun Bandeau One Piece, complete beach look, beach towel, for drying off, flip-flops, for walking on beach
+
+    Note: The influence path is constructed to illustrate how a user might logically consider the items in the bundle as part of a cohesive beach"
+"Beach Essentials Bundle for a Chill Day Out
+
+**","Relaxation at the beach
+
+**Note:** The bundle items suggest a focus on casual, comfortable clothing","Path:
+     L*Space Women's L*Novelties Hipster Bikini Bottom, comfort, ViX Women's Carioca Vintage Tunic, match, ViX Women's Carioca Bia Tube Bikini Top, complete, Kenneth Cole Reaction Women's Under The Sun Bandeau One Piece, add, flip-flops, convenience, beach towel, protect, beach bag, carry,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Beach Essentials Bundle for a Chill Day Out
+
+**  
+    Bundle Items: L*Space Women's L*Novelties Hipster Bikini Bottom, ViX Women's Carioca Vintage Tunic, ViX Women's Carioca Bia Tube Bikini Top, Kenneth Cole Reaction Women's Under The Sun Bandeau One Piece, flip-flops, beach towel, beach bag  
+    Intent: Relaxation at the beach
+
+**Note:** The bundle items suggest a focus on casual, comfortable clothing  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     L*Space Women's L*Novelties Hipster Bikini Bottom, comfort, ViX Women's Carioca Vintage Tunic, match, ViX Women's Carioca Bia Tube Bikini Top, complete, Kenneth Cole Reaction Women's Under The Sun Bandeau One Piece, add, flip-flops, convenience, beach towel, protect, beach bag, carry, end
+     ViX Women's Carioca Vintage Tunic, style, L*Space Women's"
+Bundle,"""everyday casual work and social""    
+
+
+
+
+**Bundle Items:**
+
+1. Mundi Sub","Path:
+     tote bag, can carry daily essentials, Mundi Sub, is a wallet, cardholder, holds cards for daily transactions, keychain, attaches to tote bag, Le Donne Leather Top Zip Front Slip Shoulder Bag, complements tote bag's style, Le Donne Leather Two Pocket Crossbody, provides additional storage for work and social events,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Bundle  
+    Bundle Items: Mundi Suburban Rio Checkbook Wallet W Frame, Le Donne Leather Top Zip Front Slip Shoulder Bag, Le Donne Leather Two Pocket Crossbody, tote bag, cardholder, keychain  
+    Intent: ""everyday casual work and social""    
+
+
+
+
+**Bundle Items:**
+
+1. Mundi Sub  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     tote bag, can carry daily essentials, Mundi Sub, is a wallet, cardholder, holds cards for daily transactions, keychain, attaches to tote bag, Le Donne Leather Top Zip Front Slip Shoulder Bag, complements tote bag's style, Le Donne Leather Two Pocket Crossbody, provides additional storage for work and social events, end "
+"""Western Chic Outfit Essentials Bundle""","""Western-themed fashion and footwear""   
+
+
+
+    What is the inferred core user intent behind the clothing","Path:
+     Breckelles DORADO-11 Women's western style ankle bootie on chunky heels with PU upper and size zipper, 'adds western style', Steve Madden Women's Shakkerr Boot, 'completes western outfit', western-style handbag,'stores western accessories'","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Western Chic Outfit Essentials Bundle""  
+    Bundle Items: Breckelles DORADO-11 Women's western style ankle bootie on chunky heels with PU upper and size zipper, Steve Madden Women's Shakkerr Boot, boot socks, western-style handbag  
+    Intent: ""Western-themed fashion and footwear""   
+
+
+
+    What is the inferred core user intent behind the clothing  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Breckelles DORADO-11 Women's western style ankle bootie on chunky heels with PU upper and size zipper, 'adds western style', Steve Madden Women's Shakkerr Boot, 'completes western outfit', western-style handbag,'stores western accessories'  end 
+
+
+
+
+
+The final answer is: Breckelles DORADO-11 Women's western style ankle bootie on chunky heels with PU upper and size zipper, 'adds western style', Steve Madden Women"
+Celtic Heritage Fashion Enthusiast Gift Bundle,"""Celtic heritage fashion enthusiast gift"" 
+
+    Note: I've provided the intent to help","Path:
+     Celtic Pendant, Celtic heritage style, Celtic Earrings, matching Celtic style, Celtic Bracelet, complete Celtic look 'end' 
+
+
+
+
+
+**Answer:**
+
+
+Celtic Pendant, Celtic heritage style, Celtic Earrings, matching Celtic style, Celtic Bracelet, complete Celtic look '","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: Celtic Heritage Fashion Enthusiast Gift Bundle  
+    Bundle Items: Black Green Amber Sterling Silver Antique Style Celtic Pendant, Celtic-themed earrings, Celtic-themed bracelet  
+    Intent: ""Celtic heritage fashion enthusiast gift"" 
+
+    Note: I've provided the intent to help  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Celtic Pendant, Celtic heritage style, Celtic Earrings, matching Celtic style, Celtic Bracelet, complete Celtic look 'end' 
+
+
+
+
+
+**Answer:**
+
+
+Celtic Pendant, Celtic heritage style, Celtic Earrings, matching Celtic style, Celtic Bracelet, complete Celtic look 'end'"
+"""Minnie's Magical First Christmas Gift Set""","""Newborn Baby's First Christmas Gift Bundle""  - (Core user intent is to gift the","Path:
+     Disney Baby-Girls Newborn Minnie Mouse My First Christmas Sleep And Play Romper,  
+     because it's a cute sleep romper for the baby,  
+     Christmas-themed newborn socks,  
+     because they match the romper and add festive touch,  
+     matching hat,  
+     because it's a complete outfit with the romper and socks,  
+     Minnie Mouse plush toy,  
+     because it's a thoughtful gift to complete the bundle,","
+    You are tasked with constructing an **influence path** for a bundle in the **clothing** domain.
+
+    Bundle Name: ""Minnie's Magical First Christmas Gift Set""  
+    Bundle Items: Disney Baby-Girls Newborn Minnie Mouse My First Christmas Sleep And Play Romper, Christmas-themed newborn socks, matching hat, Minnie Mouse plush toy  
+    Intent: ""Newborn Baby's First Christmas Gift Bundle""  - (Core user intent is to gift the  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Disney Baby-Girls Newborn Minnie Mouse My First Christmas Sleep And Play Romper,  
+     because it's a cute sleep romper for the baby,  
+     Christmas-themed newborn socks,  
+     because they match the romper and add festive touch,  
+     matching hat,  
+     because it's a complete outfit with the romper and socks,  
+     Minnie Mouse plush toy,  
+     because it's a thoughtful gift to complete the bundle,  
+     end
+     Disney"

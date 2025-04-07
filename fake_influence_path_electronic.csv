@@ -1,0 +1,1550 @@
+Name,Intent,Influence Path,Response
+Protecting Your Electronics on the Go Bundle,Traveling with electronics safely.,,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Protecting Your Electronics on the Go Bundle  
+    Bundle Items: Rosewill Steel/Plastic ATX Mid Tower Computer Case Blackbone, Case Logic LAPS-111 10 - 11.6 -Inch Chromebook/Netbook Sleeve (Black), AmazonBasics Backpack for SLR/DSLR Cameras and Accessories - Black, Acomdata Tango USB 2.0/eSATA 2.5-Inch SATA Hard Drive Enclosure TNGXXXUSE-BLU (Blue), Western Digital My Passport Carrying Case - Black  
+    Intent: Traveling with electronics safely.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Protecting Your Electronics on the Go Bundle, Traveling, Case Logic LAPS-111 10 - 11.6 -Inch Chromebook/Netbook Sleeve (Black), Protecting, AmazonBasics Backpack for SLR/DSLR Cameras and Accessories - Black, Protection, Western Digital My Passport Carrying Case - Black, Secure, Acomdata Tango USB 2.0/eSATA 2.5-Inch SATA Hard Drive Enclosure TNGXXXUSE-BLU ("
+"Photography Essentials Care and Cleaning Bundle
+
+     Correctness","**Photography Equipment Maintenance Kit**
+
+
+    What is the core user intent behind this electronic bundle?",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Photography Essentials Care and Cleaning Bundle
+
+     Correctness  
+    Bundle Items: Purosol All Natural Lens Cleaner 1oz., Fotasy CokinProductKit40in1 Complete Square Filter Kit Compatible with Cokin P Series, Altura Photo Lens Cap Keeper Holder + Premium MagicFiber Cleaning Cloth, Photive 67mm Protective UV Filter (HDX Series)- UV67HD, Replacement EN-EL14a, EN-EL14 Ultra High Capacity Li-ion Battery For Nikon D5300, D3300, D5100, D5200, D3100, Nikon Df and D3200, P7100, P7700 Digital Camera - Fully Decoded! (Nikon EN-EL14a Replacement) + ButterflyPhoto MicroFiber Cleaning Cloth  
+    Intent: **Photography Equipment Maintenance Kit**
+
+
+    What is the core user intent behind this electronic bundle?  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Purosol All Natural Lens Cleaner 1oz., Prevents Lens Stains, Fotasy CokinProductKit40in1 Complete Square Filter Kit Compatible with Cokin P Series, Enhances Filter Functionality, Altura Photo Lens Cap Keeper Holder + Premium MagicFiber Cleaning Cloth, Protects Lens Caps, Photive 67mm Protective UV Filter (HDX Series)- UV67HD, Blocks UV Rays, Replacement EN-EL14a, EN-EL14 Ultra High Capacity Li-ion"
+"""Game On Bundle""
+    Here is the revised","- gaming
+     - general use
+     - professional work
+     - streaming
+     - video",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Game On Bundle""
+    Here is the revised  
+    Bundle Items: Xion mATX/ITX Slim USB 3.0 Desktop Case with 5-In-1 Card-Reader and 300 Watt Power Supply XON-720P_BK - Black, ORICO BTA-402 USB Bluetooth 4.0 Micro Adapter Dongle Mini Bluetooth 4.0 Adapter Dongle With CSR8510 Controller and CSR Harmony for Windows XP Vista 2003 2008 7 and 8 32 or 64 Bit - Black, Silicon Power 8GB 240-Pin SDRAM DDR3 1333 (PC3 10600) Desktop Memory SP008GBLTU133N02, Dell 45W Replacement AC Adapter for Dell, Lenovo Thinkpad T410- Core i5 2.53Hz, 4GB DDR3, 80GB SSD, 14.1&quot; LED, Windows 7 PRO, CM Storm SF-19 Gaming Laptop Cooling Pad with Two 140mm Turbine Fans (SGA-4000-KKNF1)  
+    Intent: - gaming
+     - general use
+     - professional work
+     - streaming
+     - video  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Xion mATX/ITX Slim USB 3.0 Desktop Case with 5-In-1 Card-Reader and 300 Watt Power Supply XON-720P_BK - Black, gaming performance, ORICO BTA-402 USB Bluetooth 4.0 Micro Adapter Dongle Mini Bluetooth 4.0 Adapter Dongle With CSR8510 Controller and CSR Harmony for Windows XP Vista 2003 2008 7 and 8 32 or 64 Bit - Black"
+"Laptop, Tablet, and Accessory Bundle Pack","Laptop, tablet and accessory bundle.    
+
+
+
+The final answer is: Laptop, tablet and accessory bundle",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Laptop, Tablet, and Accessory Bundle Pack  
+    Bundle Items: Evecase SlimBook Leather Folio Stand Case Cover for Toshiba Encore WT8 8-Inch Windows 8.1 Tablet ( Black ), Toshiba Mini NB205-N230 (NB200 series) 10.1-Inch Black Onyx Netbook - 9 Hours of Battery Life (Windows 7 Starter), LB1 High Performance New Battery for HP Probook 4530s 4330s 4331s 4430s 4431s 4435s 4436s 4535s Series Laptop Notebook Computer [6-Cell 10.8V] 18 Months Warranty, Poetic Slimbook Leather Case for the Dell Latitude 10.1 LED Net Tablet(Included 2 Micro SD Card Slots) (Business Card Holder is Plus) (3 Year Manufacturer Warranty From Poetic), BIRUGEAR Neoprene Carrying Sleeve Case with Screen Protector, Stylus, Headset for HP Split x2 -13.3'' Detachable Windows 8 hybrid Tablet PC, Generic New Replacement Battery for Dell Inspiron 1520 1721 1521 1720 530S Vostro 1700 1500 fits 312-0504 312-0518 312-0520 312-0513 312-0576 312-0590 312-0575 312-0594 [Li-ion 9-cell 7200mAh Black]  
+    Intent: Laptop, tablet and accessory bundle.    
+
+
+
+The final answer is: Laptop, tablet and accessory bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Evecase SlimBook Leather Folio Stand Case Cover for Toshiba Encore WT8 8-Inch Windows 8.1 Tablet ( Black ), Protects Tablet, Toshiba Mini NB205-N230 (NB200 series) 10.1-Inch Black Onyx Netbook - 9 Hours of Battery Life (Windows 7 Starter), Complements Tablet, LB1 High Performance New Battery for HP Probook 4530s 4330s 4331s 4430s 443"
+"Multi Connect Bundle for Smooth Audio Video Experience
+
+
+Alternative","Connect multiple devices efficiently. 
+
+     -The bundle contains cables of different types (VGA, Display","Path:
+     1. User needs to connect multiple devices efficiently. 
+     2. Connect devices using DisplayPort cable. 
+     3. DisplayPort cable connects to multiple devices via HDMI cable. 
+     4. Connect multiple devices via VGA extension cable. 
+     5. Connect audio device using mini stereo audio extension cable.","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Multi Connect Bundle for Smooth Audio Video Experience
+
+
+Alternative  
+    Bundle Items: TRIPP LITE P311-010 10-Feet Male to 3.5mm Female Mini Stereo Audio Extension Cable, CNE70196 High Quality Black DisplayPort Male to HDMI Cable Male 6ft/2M, 6FT SVGA VGA Monitor MM Male To Male Extension Cable 80  
+    Intent: Connect multiple devices efficiently. 
+
+     -The bundle contains cables of different types (VGA, Display  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     1. User needs to connect multiple devices efficiently. 
+     2. Connect devices using DisplayPort cable. 
+     3. DisplayPort cable connects to multiple devices via HDMI cable. 
+     4. Connect multiple devices via VGA extension cable. 
+     5. Connect audio device using mini stereo audio extension cable. 
+
+     end.   
+
+
+
+TRIPP LITE P311-010 10-Feet Male to 3.5mm Female Mini Stereo Audio Extension Cable,"
+"""Graphics Powerhouse Bundle for Gamers and Cre",- Gaming and content creation.     - Data storage and transfer.     - Graphics-intensive computing.,"Path:
+     SanDisk 32GB microSDHC Memory Card, Data storage needs, EVGA GeForce 8400 GS 1 GB DDR3 PCI Express 2.0 DVI/HDMI/VGA Graphics Card, Graphics-intensive gaming, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case, Long graphics card support, PNY Elite Performance 64GB UHS-1 SDXC Flash Card, Data transfer demands '","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Graphics Powerhouse Bundle for Gamers and Cre  
+    Bundle Items: SanDisk 32GB microSDHC Memory Card (Bulk Package), EVGA GeForce 8400 GS 1 GB DDR3 PCI Express 2.0 DVI/HDMI/VGA Graphics Card, 01G-P3-1302-LR, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case with USB 3.0 and Long Graphics Card Support, PNY Elite Performance 64GB UHS-1 SDXC Flash Card (P-SDX64U1H-GE)  
+    Intent: - Gaming and content creation.     - Data storage and transfer.     - Graphics-intensive computing.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     SanDisk 32GB microSDHC Memory Card, Data storage needs, EVGA GeForce 8400 GS 1 GB DDR3 PCI Express 2.0 DVI/HDMI/VGA Graphics Card, Graphics-intensive gaming, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case, Long graphics card support, PNY Elite Performance 64GB UHS-1 SDXC Flash Card, Data transfer demands 'end'    
+
+
+# Influence Path:
+SanDisk 32GB microSD"
+"**Bundle items:** 
+
+1. Gold Pl","Connecting devices and peripherals.    
+
+
+
+**Bundle items:** 
+
+1. Cable Matters 2 Pack,",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: **Bundle items:** 
+
+1. Gold Pl  
+    Bundle Items: Cable Matters 2 Pack, Gold Plated Hi-Speed USB 2.0 Type A to Micro-B Cable 6 Feet, Twisted Veins High Speed HDMI Receiver Pack (includes Three 3' and One 10' cables) + Right Angle Adapter and Velcro Cable Ties (Latest Version Supports Ethernet, 3D, and Audio Return), Monoprice 3ft RG6 (18AWG) 75Ohm, Quad Shield, CL2 Coaxial Cable with F Type Connector - Black, Cmple - High Speed HDMI 1.4 Cable with Ethernet - 30AWG, 6 Feet, Black Color (2 PACK), AmazonBasics High-Speed HDMI Cable and Toslink Digital Audio Optical Cable, 2 Pack, Cable Matters Gold Plated DisplayPort to HDMI Cable 6 Feet  
+    Intent: Connecting devices and peripherals.    
+
+
+
+**Bundle items:** 
+
+1. Cable Matters 2 Pack,  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Cable Matters 2 Pack, Connecting devices, Gold Plated Hi-Speed USB 2.0 Type A to Micro-B Cable 6 Feet, USB transfer, Twisted Veins High Speed HDMI Receiver Pack, HDMI connectivity, Monoprice 3ft RG6 (18AWG) 75Ohm, Coaxial signal, Cmple - High Speed HDMI 1.4 Cable with Ethernet, HDMI extension, AmazonBasics High-Speed HDMI Cable and Toslink Digital Audio Optical Cable"
+"Laptop Battery Replacement and Power Supply Bundle
+
+    Please","Replacement laptop battery and power supply bundle. 
+
+    This is the response I will be evaluating. Please",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Laptop Battery Replacement and Power Supply Bundle
+
+    Please  
+    Bundle Items: ATC 12 Cell NEW Li-ion Replacement Laptop Battery, Xion mATX/ITX Slim USB 3.0 Desktop Case with 5-In-1 Card-Reader and 300 Watt Power Supply XON-720P_BK - Black, LB1 High Performance New Battery for HP Probook 4530s 4330s 4331s 4430s 4431s 4435s 4436s 4535s Series Laptop Notebook Computer [6-Cell 10.8V] 18 Months Warranty, [10.80V, 4400mAh, Li-ion], Replacement Laptop Battery for Toshiba Satellite L645D Series, L645D, L645D-S4025, L645D-S4029, L645D-S4030, L645D-S4033, L645D-S4036, L645D-S4037, L645D-S4037BN, L645D-S4037RD, L645D-S4037WH, L645D-S4040, L645D-S4050, L645D-S4050BN, L645D-S4050GY, L645D-S4050WH, L645D-S4052, L645D-S4053, L645D-S4056, L645D-S4058, L645D-S4058BN, L645D-S4058WH, L645D-S4100, L645D-S4100BN, L645D-S4100GY, L645D-S4100RD, L645D-S4100WH, L645D-S4106, L645D-S4106BN, L645D-S4106RD, L645D-S4106WH, L645D-S9411D,, Replacement Toshiba Power Supply Cord Ac Adapter Laptop Charger Satellite (Equivalent)  
+    Intent: Replacement laptop battery and power supply bundle. 
+
+    This is the response I will be evaluating. Please  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ATC 12 Cell NEW Li-ion Replacement Laptop Battery, User needs battery replacement, LB1 High Performance New Battery for HP Probook 4530s 4330s 4331s 4430s 4431s 4435s 4436s 4535s Series Laptop Notebook Computer [6-Cell 10.8V] 18 Months Warranty, Compatible battery for user's laptop model, Xion mATX/ITX Slim USB 3.0"
+"""PowerPlay Bundle"" 
+
+
+    This name aims","_______________________________________
+
+**Step 1:** Analyze the components of the bundle to determine the core user","Path:
+     SanDisk 64GB microSD Class 10 Ultra Card, expands storage, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case with USB 3.0 and Long Graphics Card Support, provides housing, computer, benefits from storage,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""PowerPlay Bundle"" 
+
+
+    This name aims  
+    Bundle Items: SanDisk 64GB microSD Class 10 Ultra Card, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case with USB 3.0 and Long Graphics Card Support  
+    Intent: _______________________________________
+
+**Step 1:** Analyze the components of the bundle to determine the core user  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     SanDisk 64GB microSD Class 10 Ultra Card, expands storage, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case with USB 3.0 and Long Graphics Card Support, provides housing, computer, benefits from storage, end
+
+    **Note**: This problem is about understanding how components in a bundle logically connect to each other in service of a user intent. It is not about creating a bundle or marketing a product. It's about breaking down a bundle into its components"
+"Home Entertainment Bundle - The Ultimate Setup
+
+
+    Bundle","- Home entertainment setup
+
+    Bundle items: BlueRigger High Speed HDMI Cable with Ethernet, Supports",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Home Entertainment Bundle - The Ultimate Setup
+
+
+    Bundle  
+    Bundle Items: BlueRigger High Speed HDMI Cable with Ethernet, Supports 3D and Audio Return (3 Feet), EnjoyGadgets EGHS3SS 3-In 1-Out 1080p Auto-Switching 3-Port HDMI Switcher Selector with Support 3D and HD Audio, AmazonBasics High-Speed HDMI Cable 2-Pack - 6.5 Feet (2 Meters), Twisted Veins High Speed HDMI Receiver Pack (includes Three 3' and One 10' cables) + Right Angle Adapter and Velcro Cable Ties (Latest Version Supports Ethernet, 3D, and Audio Return), BlueRigger Cat5e RJ45 Ethernet Patch Cable (25 Feet, White), Your Cable Store Inline Ethernet CAT 5e / RJ45 Coupler 3 Pack  
+    Intent: - Home entertainment setup
+
+    Bundle items: BlueRigger High Speed HDMI Cable with Ethernet, Supports  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     BlueRigger High Speed HDMI Cable with Ethernet, Supports 3D and Audio Return, EnjoyGadgets EGHS3SS 3-In 1-Out 1080p Auto-Switching 3-Port HDMI Switcher Selector with Support 3D and HD Audio, AmazonBasics High-Speed HDMI Cable 2-Pack - 6.5 Feet (2 Meters), Twisted Veins High Speed HDMI Receiver Pack, Enjoy high quality video, EnjoyGadgets EGHS3"
+"""Home Security Pro Bundle""    
+
+
+
+1.","- Home Security System Setup
+     - Home Office Setup
+     - Home Surveillance System
+     -",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Home Security Pro Bundle""    
+
+
+
+1.  
+    Bundle Items: Crucial Ballistix Sport Very Low Profile 8GB Kit (4GBx2) DDR3-1600 1.35V UDIMM 240-Pin Memory Modules BLS2C4G3D1609ES2LX0, ZMODO 8Channel D1 DVR Security Camera System w/ 4 outdoor Day/Night 600TVL Hi-Resolution cctv Surveillance Cameras No Hard Drive, Cable Matters Micro-USB to HDMI MHL Adapter in White &#65288;NOT Compatible with Galaxy S3/S4/Note2/Note3), Elsse (TM) Premium Folio Case with Stand for Microsoft Surface RT / Surface 2 (Does not fit Surface Pro Version / Keyboard and Tablet NOT included) (Surface 2 / Surface RT, Black), Manfrotto 190CXPRO4 4-Section Pro Carbon Fiber Tripod without Head, Nikon D800E 36.3 MP CMOS FX-Format Digital SLR Camera (Body Only)  
+    Intent: - Home Security System Setup
+     - Home Office Setup
+     - Home Surveillance System
+     -  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Crucial Ballistix Sport Very Low Profile 8GB Kit (4GBx2) DDR3-1600 1.35V UDIMM 240-Pin Memory Modules BLS2C4G3D1609ES2LX0, Need more RAM for smooth PC performance, ZMODO 8Channel D1 DVR Security Camera System w/ 4 outdoor Day/Night 600TVL Hi-Resolution cctv Surveillance Cameras No Hard Drive, Secure home"
+"Total Immersion Gaming Package
+
+
+
+Explanation:
+
+The name","_______________________    
+
+
+
+Answer: Online gaming and voice chat. 
+
+
+
+Explanation:
+
+The bundle contains items that",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Total Immersion Gaming Package
+
+
+
+Explanation:
+
+The name  
+    Bundle Items: MSI Computer Corp. ATX DDR3 1066 LGA 1150 Motherboards Z87 MPOWER MAX, PAC SNI1 Noise Isolator, Cyber AcousticsStereo Headset/Microphone, Ambidextrous design AC-201  
+    Intent: _______________________    
+
+
+
+Answer: Online gaming and voice chat. 
+
+
+
+Explanation:
+
+The bundle contains items that  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     MSI Computer Corp. ATX DDR3 1066 LGA 1150 Motherboards Z87 MPOWER MAX, 
+     'High-performance for demanding games', 
+     PAC SNI1 Noise Isolator, 
+     'Noise reduction for clear voice chat', 
+     Cyber AcousticsStereo Headset/Microphone, 
+     'Clear voice chat for online gaming', 
+     Ambidextrous design AC-201, 
+     'Comfortable gaming sessions for long hours'."
+Portable Music Companion for On-The-Go,"A portable media and music solution.    
+
+
+
+Explanation:
+
+The items in this bundle seem to be centered","Path:
+     iPod, Protection, Case, Screen, Sleeve, Safety, Dock, Convenience, Speakers, Music, Companion, end 
+
+
+
+
+
+**Influence Path**
+
+iPod, Protection, Case, Screen, Sleeve, Safety, Dock, Convenience, Speakers, Music, Companion,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Portable Music Companion for On-The-Go  
+    Bundle Items: Clear Crystal Transparent Snap-On Hard Skin Case Cover for Ipod Nano 6th Gen Generation 6g 6 8gb 16gb 32gb by Electromaster, iSymphony W2C Audio System with Wireless Speakers and Built-in Universal Dock for iPod (Black), BIRUGEAR Neoprene Carrying Sleeve Case with Screen Protector, Stylus, Headset for HP Split x2 -13.3'' Detachable Windows 8 hybrid Tablet PC  
+    Intent: A portable media and music solution.    
+
+
+
+Explanation:
+
+The items in this bundle seem to be centered  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     iPod, Protection, Case, Screen, Sleeve, Safety, Dock, Convenience, Speakers, Music, Companion, end 
+
+
+
+
+
+**Influence Path**
+
+iPod, Protection, Case, Screen, Sleeve, Safety, Dock, Convenience, Speakers, Music, Companion, end 
+
+
+
+
+
+The influence path demonstrates how the user intent of having a portable media and music solution is met by the items in the bundle. The path starts with the user's concern for protecting their iPod (Protection), which is addressed by"
+iPad Mini Case and Refurbished iPad Air Bundle,"_______________________________________
+
+    The electronic bundle contains an iPad Mini case and a refurbished iPad Air. The bundle","Path:
+     i-BLASON Apple iPad Mini with Retina Display Case (2nd Generation), Protects iPad, Apple iPad Air MD785LL/A (16GB, Wi-Fi, Black with Space Gray), Compatible with iPad, i-BLASON Apple iPad Mini with Retina Display Case (2nd Generation), Makes iPad, Apple iPad Air MD785LL/A (16GB, Wi-Fi, Black with Space Gray), NEWEST VERSION, '","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: iPad Mini Case and Refurbished iPad Air Bundle  
+    Bundle Items: i-BLASON Apple iPad Mini with Retina Display Case (2nd Generation) Hard Snap On Slim-Fit Case (Smart Cover Compatible with Smart Cover Anchor Lock) (Clear), Apple iPad Air MD785LL/A (16GB, Wi-Fi, Black with Space Gray) NEWEST VERSION  
+    Intent: _______________________________________
+
+    The electronic bundle contains an iPad Mini case and a refurbished iPad Air. The bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     i-BLASON Apple iPad Mini with Retina Display Case (2nd Generation), Protects iPad, Apple iPad Air MD785LL/A (16GB, Wi-Fi, Black with Space Gray), Compatible with iPad, i-BLASON Apple iPad Mini with Retina Display Case (2nd Generation), Makes iPad, Apple iPad Air MD785LL/A (16GB, Wi-Fi, Black with Space Gray), NEWEST VERSION, 'end'    
+
+
+
+Note: The intention is to help the"
+"""SoundConnect Bundle""
+
+    Description:","""Improve mobile audio experience""   
+
+
+**Your task is to infer the core user intent behind",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""SoundConnect Bundle""
+
+    Description:  
+    Bundle Items: Wilson Electronics - Sleek 4G - Cell Phone Signal Booster for Single User - Retail Packaging - Black, Andrea Electronics C1-1022500-1 model NC-185 VM High Fidelity Stereo PC Headset with Noise Canceling Microphone and Volume/Mute Controls (No USB), eForCity&reg; VOIP / SKYPE Hands-free Headset with Microphone, Black, iLuv MobiTour Wireless Bluetooth Speaker for Kindle, Tablet or Smartphone (Black), iSymphony W2C Audio System with Wireless Speakers and Built-in Universal Dock for iPod (Black), Bose SoundLink Mini Bluetooth Speaker  
+    Intent: ""Improve mobile audio experience""   
+
+
+**Your task is to infer the core user intent behind  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Wilson Electronics - Sleek 4G - Cell Phone Signal Booster for Single User - Retail Packaging - Black, Improve mobile audio experience, Andrea Electronics C1-1022500-1 model NC-185 VM High Fidelity Stereo PC Headset with Noise Canceling Microphone and Volume/Mute Controls (No USB), Enhance voice clarity, eForCity&reg; VOIP / SKYPE Hands-free Headset with Microphone, Black, Enable hands-free communication, iLuv Mobi"
+"Capture Pro Bundle for Canon and Beyond
+
+---
+
+Here",Photography and Videography setup bundle.,"Path:
+     Fotodiox Softbox, reduces harsh light, Kodak ZxD Pocket Video Camera, captures high-quality video, PBL Photo Studio Softbox, adds natural lighting, Fotodiox Softbox, reduces harsh light, iMBAPrice Ethernet Cable, enables wireless connectivity, Fotodiox Softbox, reduces harsh light, Fotodiox Softbox, reduces harsh light,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Capture Pro Bundle for Canon and Beyond
+
+---
+
+Here  
+    Bundle Items: Fotodiox Flash-3248-Ca 32-Inchx48-Inch Softbox with Soft Diffuser and Speedring Bracket for Canon Flash Speedlite, iMBAPrice C5-10BL Cat5e 10-Feet 350MHz Ethernet Patch Cable, Blue, Kodak ZxD Pocket Video Camera (Black), PBL Photo Studio 40 inch Reflective Umbrella Softboxes Set of Two Steve Kaeser Photographic Lighting and Accessories  
+    Intent: Photography and Videography setup bundle.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Fotodiox Softbox, reduces harsh light, Kodak ZxD Pocket Video Camera, captures high-quality video, PBL Photo Studio Softbox, adds natural lighting, Fotodiox Softbox, reduces harsh light, iMBAPrice Ethernet Cable, enables wireless connectivity, Fotodiox Softbox, reduces harsh light, Fotodiox Softbox, reduces harsh light, end.    
+
+
+
+     Fotodiox Softbox, reduces harsh light, Kodak ZxD Pocket Video Camera, captures high"
+'All-Purpose Memory Bundle for Computing Needs',"""General purpose memory expansion""
+
+    Example: The bundle contains items for ""Home office setup"" or","Path:
+     Silicon Power 8GB 240-Pin SDRAM DDR3 1333 (PC3 10600) Desktop Memory SP008GBLTU133N02, Need more RAM for computing, Samsung Electronics 8GB Plus microSDHC Ultra High Speed (UHS-1) Class 4 Memory Card (MB-MP8GB/AM), Need portable storage for files, Transc","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: 'All-Purpose Memory Bundle for Computing Needs'  
+    Bundle Items: Silicon Power 8GB 240-Pin SDRAM DDR3 1333 (PC3 10600) Desktop Memory SP008GBLTU133N02, Samsung Electronics 8GB Plus microSDHC Ultra High Speed (UHS-1) Class 4 Memory Card (MB-MP8GB/AM), Transcend 8 GB High Speed Class 10 UHS Flash Memory Card TS8GSDHC10U1 85/22 MB/s  
+    Intent: ""General purpose memory expansion""
+
+    Example: The bundle contains items for ""Home office setup"" or  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Silicon Power 8GB 240-Pin SDRAM DDR3 1333 (PC3 10600) Desktop Memory SP008GBLTU133N02, Need more RAM for computing, Samsung Electronics 8GB Plus microSDHC Ultra High Speed (UHS-1) Class 4 Memory Card (MB-MP8GB/AM), Need portable storage for files, Transcend 8 GB High Speed Class 10 UHS Flash Memory Card TS8GSDHC10"
+"""Power Up Your Camera""
+
+    Bundle items:","- Rechargeable camera battery pack
+
+    Your task is to infer the core user intent from the","Path:
+     eForCity&reg; Pentax D-Li63 Compatible Lithium-ion Battery for Pentax Optio M30 / T30 / W30 SLR Camera, Nikon 27126 EN-EL 14A Rechargeable Li-Ion Battery (Black), <reason>, Rechargeable camera battery pack, <reason>, <item>, <reason>, <item>, <reason>, '","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Power Up Your Camera""
+
+    Bundle items:  
+    Bundle Items: eForCity&reg; Pentax D-Li63 Compatible Lithium-ion Battery for Pentax Optio M30 / T30 / W30 SLR Camera, Nikon 27126 EN-EL 14A Rechargeable Li-Ion Battery (Black)  
+    Intent: - Rechargeable camera battery pack
+
+    Your task is to infer the core user intent from the  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     eForCity&reg; Pentax D-Li63 Compatible Lithium-ion Battery for Pentax Optio M30 / T30 / W30 SLR Camera, Nikon 27126 EN-EL 14A Rechargeable Li-Ion Battery (Black), <reason>, Rechargeable camera battery pack, <reason>, <item>, <reason>, <item>, <reason>, 'end' 
+
+    eForCity&reg; Pentax D-Li63 Compatible Lithium-ion"
+"Portable Camera Storage and Transport Bundle
+     or","**Portable Camera Storage and Transport**
+
+    Bundle contents:
+
+    1. NEEWER Timer Remote","Path:
+     NEEWER Timer Remote, Enables camera control, AmazonBasics Sling Backpack for SLR Cameras, Convenient camera storage, Olympus HLD-7 Camera Grip for Olympus E-M1 Compact System Cameras, Provides camera support, Lowepro SlingShot 202 AW, Offers camera protection,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Portable Camera Storage and Transport Bundle
+     or  
+    Bundle Items: NEEWER Timer Remote for Canon 50D, 40D, 30D, 20D, 10D, 5D,1Ds Mark III, 1D Mark III, 1D Mark II N, 1Ds Mark II,1D, 1V, EOS 3, D2000, AmazonBasics Sling Backpack for SLR Cameras, Olympus HLD-7 Camera Grip for Olympus E-M1 Compact System Cameras, Lowepro SlingShot 202 AW  
+    Intent: **Portable Camera Storage and Transport**
+
+    Bundle contents:
+
+    1. NEEWER Timer Remote  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     NEEWER Timer Remote, Enables camera control, AmazonBasics Sling Backpack for SLR Cameras, Convenient camera storage, Olympus HLD-7 Camera Grip for Olympus E-M1 Compact System Cameras, Provides camera support, Lowepro SlingShot 202 AW, Offers camera protection, end. 
+
+     I have tried to follow the strict output format you requested. Let me know if you need any adjustments. 
+
+**Note:** This is a hypothetical scenario. Please let me know if you"
+Home Computer Setup Bundle with Wi-Fi and Storage,"Building a home computer setup.    
+
+
+
+**Answer:** Building a home computer setup.    
+
+
+
+**",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Home Computer Setup Bundle with Wi-Fi and Storage  
+    Bundle Items: SanDisk 32GB microSDHC Memory Card (Bulk Package), Rosewill Dual Fans MicroATX Mini Tower Computer Case FBM-01, ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router, Sabrent CRW-EXT 68 in 1 Hi-Speed USB 2.0 External Flash Memory Card Reader &amp; Writer, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case with USB 3.0 and Long Graphics Card Support, Sandisk MobileMate Micro SD &amp; M2 Reader (SDDR-121, Bulk Package)  
+    Intent: Building a home computer setup.    
+
+
+
+**Answer:** Building a home computer setup.    
+
+
+
+**  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - SanDisk 32GB microSDHC Memory Card (Bulk Package), Stores files for gaming, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case with USB 3.0 and Long Graphics Card Support, Supports gaming performance, ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router, Enhances online gaming experience, Cooler Master Elite 120 Advanced - Mini-ITX Computer Case with USB 3.0 and Long Graphics Card Support,"
+"Powerhouse Desktop Bundle
+
+
+    Please provide a name","_______
+
+    Bundle items:
+
+    1. Western Digital 1.5 TB WD Black SATA",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Powerhouse Desktop Bundle
+
+
+    Please provide a name  
+    Bundle Items: Western Digital 1.5 TB WD Black SATA III 7200 RPM 64 MB Cache Bulk/OEM Desktop Hard Drive, Intel Core i5-4670K Quad-Core Desktop Processor 3.4 GHZ 6 MB Cache - BX80646I54670K, TP-LINK TL-PA511 KIT AV500 Powerline Gigabit Adapter Starter Kit, up to 500Mbps, Hitachi Deskstar E7K500 HDS725050KLA360 500GB 7,200RPM 16MB Cache SATA 3.0Gb/s 3.5&quot; Hard Drive, WD Blue 320 GB Desktop Hard Drive: 3.5 Inch, 7200 RPM, SATA III, 16 MB Cache - WD3200AAKX  
+    Intent: _______
+
+    Bundle items:
+
+    1. Western Digital 1.5 TB WD Black SATA  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Western Digital 1.5 TB WD Black SATA, **large storage**, Intel Core i5-4670K Quad-Core Desktop Processor 3.4 GHZ 6 MB Cache - BX80646I54670K, **fast processing**, Hitachi Deskstar E7K500 HDS725050KLA360 500GB 7,200RPM 16MB Cache SATA 3.0Gb/s 3.5&quot; Hard Drive, **backup needs**, WD Blue"
+"Electronic Repair Kit for Home and Office Use
+
+
+Alternative","Replacing and repairing electronic devices.     - No, that's not a short phrase
+
+    Intent",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Electronic Repair Kit for Home and Office Use
+
+
+Alternative  
+    Bundle Items: ATC 12 Cell NEW Li-ion Replacement Laptop Battery, Sony Replacement NP-F550 Digital Camera Battery, Dell 45W Replacement AC Adapter for Dell, Canon EOS 60D 7D 5D Mark II III LP-E6 Replacement Lithium-Ion Battery (1600 mAh), APC BACK-UPS ES BE500U Replacement UPS Battery, eneloop SEC-CSPACER4PK C Size Spacers for use with AA battery cells  
+    Intent: Replacing and repairing electronic devices.     - No, that's not a short phrase
+
+    Intent  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ATC 12 Cell NEW Li-ion Replacement Laptop Battery, User needs laptop battery, Sony Replacement NP-F550 Digital Camera Battery, Camera users also need batteries, Dell 45W Replacement AC Adapter for Dell, Laptop battery fails, Canon EOS 60D 7D 5D Mark II III LP-E6 Replacement Lithium-Ion Battery (1600 mAh), Camera users also need power, APC BACK-UPS ES BE500U Replacement UPS Battery, Power backup for devices, enelo"
+"""Protect and Enhance Your iPad Mini Experience""","To protect and enhance iPad Mini
+
+    This response meets the requirements. It is a short phrase (",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Protect and Enhance Your iPad Mini Experience""  
+    Bundle Items: Photive iPad Mini Ultra Slim Folio Case with Built in Stand and Stylus Holder Designed for the New iPad mini / iPad mini Retina / iPad mini 2. Smart Cover Case Supports Sleep/Wake Feature, Photive iPad Air Smart Case. Lightweight Smart Cover Case for the New iPad Air with Built in Stand. Front Back Protection for the iPad Air With Built-In Magnet for Sleep/Wake Feature), rooCASE Fuse (Frost / Gray) Snap-On Shell Case for Apple for Apple iPad Mini 7.9-Inch Tablet  
+    Intent: To protect and enhance iPad Mini
+
+    This response meets the requirements. It is a short phrase (  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Photive iPad Mini Ultra Slim Folio Case with Built in Stand and Stylus Holder Designed for the New iPad mini / iPad mini Retrain / iPad mini 2, Protects the device, rooCASE Fuse (Frost / Gray) Snap-On Shell Case for Apple for Apple iPad Mini 7.9-Inch Tablet, Provides additional protection, Photive iPad Air Smart Case, Offers a sleek design, Photive iPad Mini Ultra Slim Folio Case with Built in Stand and Styl"
+"Connect and Enjoy Music Everywhere Bundle
+     or","""Connect devices and play audio""
+
+    Example:
+    ""Listen to music online""
+
+    Note:","Path:
+     Micro USB Host OTG Cable with Micro USB Power for Samsung i9100 i9300 i9220 i9250 by AtomicMarket, Connect devices, Sabrent USB 2.0 TO SERIAL CABLE ADAPTER / USB A-MALE & SERIAL 9-PIN MALE WITH THUMBSCREWS CONNECTORS, Convert signals, Acer Ms1238us 2-piece USB Powered Pc Speaker Set W/3.5mm Jack, Amplify audio,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Connect and Enjoy Music Everywhere Bundle
+     or  
+    Bundle Items: Micro USB Host OTG Cable with Micro USB Power for Samsung i9100 i9300 i9220 i9250 by AtomicMarket, Sabrent USB 2.0 TO SERIAL CABLE ADAPTER / USB A-MALE &amp; SERIAL 9-PIN MALE WITH THUMBSCREWS CONNECTORS (CB-FT1K, 6FT SVGA VGA Monitor MM Male To Male Extension Cable 80, Acer Ms1238us 2-piece USB Powered Pc Speaker Set W/3.5mm Jack  
+    Intent: ""Connect devices and play audio""
+
+    Example:
+    ""Listen to music online""
+
+    Note:  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Micro USB Host OTG Cable with Micro USB Power for Samsung i9100 i9300 i9220 i9250 by AtomicMarket, Connect devices, Sabrent USB 2.0 TO SERIAL CABLE ADAPTER / USB A-MALE & SERIAL 9-PIN MALE WITH THUMBSCREWS CONNECTORS, Convert signals, Acer Ms1238us 2-piece USB Powered Pc Speaker Set W/3.5mm Jack, Amplify audio, end
+
+    Note:"
+Photography Bundle - Capture Life's Moments Uniquely,"""Photography equipment and accessories bundle.""    
+
+
+
+
+Answer: Photography equipment bundle.","Path:
+     - Corsair Power Supply, Powering Camera, Replacement Battery, Nikon Camera, Noctua Fan, Cooling Camera, iXCC USB Cable, Charging Camera, '","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Photography Bundle - Capture Life's Moments Uniquely  
+    Bundle Items: Corsair CMPSU-650TX 650-Watt TX Series 80 Plus Certified Power Supply, Replacement EN-EL14a, EN-EL14 Ultra High Capacity Li-ion Battery For Nikon D5300, D3300, D5100, D5200, D3100, Nikon Df and D3200, P7100, P7700 Digital Camera - Fully Decoded! (Nikon EN-EL14a Replacement) + ButterflyPhoto MicroFiber Cleaning Cloth, Noctua (NF-P12 PWM) - 120mm Two Speed Premium Fan, 1300/900 RPM, SSO2 Bearing with NE-FD1 PWM IC, iXCC (r) 2pcs 10ft (TEN FEET !) White EXTRA LONG Extended Length USB SYNC Cable Charger Cord [30 Pin Connector]  
+    Intent: ""Photography equipment and accessories bundle.""    
+
+
+
+
+Answer: Photography equipment bundle.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - Corsair Power Supply, Powering Camera, Replacement Battery, Nikon Camera, Noctua Fan, Cooling Camera, iXCC USB Cable, Charging Camera, 'end' 
+
+
+
+
+
+**Influence Path Explanation:**
+
+The influence path demonstrates how each item in the bundle contributes to the overall user intent of capturing life's moments uniquely. 
+
+1. **Corsair Power Supply**: Provides power to the entire setup, making it functional.
+2. **Replacement Battery**: Ensures the Nikon camera is"
+"""PixelStorm""   
+
+
+Here is a possible","- Gaming
+     - Data Storage
+     - Media Storage
+     - Portability
+     -",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""PixelStorm""   
+
+
+Here is a possible  
+    Bundle Items: XFX AMD Radeon HD 5450 2GB DDR3 VGA/DVI/HDMI PCI-Express Video Card ON-XFX1-DLX2, Samsung MB-MPAGA 16 GB microSDHC Flash Memory Card, (Black), WD Elements SE Portable 500 GB USB 3.0 External Hard Drive - WDBPCK5000ABK-NESN, Sandisk 4GB MicroSDHC  Memory Card with SD Adapter (BULK Packaging), EVGA GeForce GTX780 SuperClocked 3GB GDDR5 384bit, Dual-Link DVI-I, DVI-D, HDMI,DP, SLI Ready Graphics Card (03G-P4-2783-KR) Graphics Cards 03G-P4-2783-KR  
+    Intent: - Gaming
+     - Data Storage
+     - Media Storage
+     - Portability
+     -  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - XFX AMD Radeon HD 5450 2GB DDR3 VGA/DVI/HDMI PCI-Express Video Card ON-XFX1-DLX2, gaming performance, EVGA GeForce GTX780 SuperClocked 3GB GDDR5 384bit, better graphics, Sandisk 4GB MicroSDHC  Memory Card with SD Adapter (BULK Packaging), save game progress, WD Elements SE Portable 500 GB USB 3.0 External Hard Drive - WDBPCK"
+Portable Storage &amp; Transfer Bundle,"Portable Storage &amp; Transfer Bundle
+
+    Note: This is an open-ended question, and you","Path:
+     Kingston Digital DataTraveler SE9 8GB USB 2.0 (DTSE9H/8GBZET), user needs portable storage, Seagate Backup Plus 1TB Portable External Hard Drive USB 3.0 (Red)(STBU1000103), provides backup for data, Transc","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Portable Storage &amp; Transfer Bundle  
+    Bundle Items: Kingston Digital DataTraveler SE9 8GB USB 2.0 (DTSE9H/8GBZET), Seagate Backup Plus 1TB Portable External Hard Drive USB 3.0 (Red)(STBU1000103), Transcend 8 GB High Speed Class 10 UHS Flash Memory Card TS8GSDHC10U1 85/22 MB/s, Sabrent CRW-EXT 68 in 1 Hi-Speed USB 2.0 External Flash Memory Card Reader &amp; Writer  
+    Intent: Portable Storage &amp; Transfer Bundle
+
+    Note: This is an open-ended question, and you  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Kingston Digital DataTraveler SE9 8GB USB 2.0 (DTSE9H/8GBZET), user needs portable storage, Seagate Backup Plus 1TB Portable External Hard Drive USB 3.0 (Red)(STBU1000103), provides backup for data, Transcend 8 GB High Speed Class 10 UHS Flash Memory Card TS8GSDHC10U1 85/22 MB/s, offers high capacity, Sabrent CRW"
+Car Stereo Upgrade Bundle with Clear Sound Solution,"""car stereo upgrade""    
+
+
+Here is the analysis of the bundle:
+
+The bundle consists of three","Path:
+     Ge Jasho98960 Pc Stereo Headset With Boom Mic, poor sound quality, Monster MPC I304 4C-5M Extra Low Noise 4-Channel Car Stereo RCA Cables (5 meters), clear sound, Malcom Distributors 2.5 mm Female to 3.5 mm Male 3 Rings Jack Stereo Adapter On/Off Enabled, volume control","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Car Stereo Upgrade Bundle with Clear Sound Solution  
+    Bundle Items: Ge Jasho98960 Pc Stereo Headset With Boom Mic, Monster MPC I304 4C-5M Extra Low Noise 4-Channel Car Stereo RCA Cables (5 meters), Malcom Distributors 2.5 mm Female to 3.5 mm Male 3 Rings Jack Stereo Adapter On/Off Enabled  
+    Intent: ""car stereo upgrade""    
+
+
+Here is the analysis of the bundle:
+
+The bundle consists of three  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Ge Jasho98960 Pc Stereo Headset With Boom Mic, poor sound quality, Monster MPC I304 4C-5M Extra Low Noise 4-Channel Car Stereo RCA Cables (5 meters), clear sound, Malcom Distributors 2.5 mm Female to 3.5 mm Male 3 Rings Jack Stereo Adapter On/Off Enabled, volume control end 
+
+
+
+
+
+Here is the Python code to generate the influence path:
+
+```python
+def construct_influence_path(intent"
+"""Digital Creators Bundle"" or ""Pro Create",Creation of digital content.,"Path:
+     Rosewill Dual Fans MicroATX Mini Tower Computer Case FBM-01, Build PC, Dolica AX620B100 62-Inch Proline Tripod and Ball Head, Create Content, Cable Matters Gold Plated DisplayPort to HDMI Cable 6 Feet, Stream Content '","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Digital Creators Bundle"" or ""Pro Create  
+    Bundle Items: Rosewill Dual Fans MicroATX Mini Tower Computer Case FBM-01, Dolica AX620B100 62-Inch Proline Tripod and Ball Head, Cable Matters Gold Plated DisplayPort to HDMI Cable 6 Feet  
+    Intent: Creation of digital content.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Rosewill Dual Fans MicroATX Mini Tower Computer Case FBM-01, Build PC, Dolica AX620B100 62-Inch Proline Tripod and Ball Head, Create Content, Cable Matters Gold Plated DisplayPort to HDMI Cable 6 Feet, Stream Content 'end
+
+    Note: The actual influence path is more complex and nuanced, but for this example, we're keeping it simple.
+
+    The example provides a clear structure for the influence path. Each item is connected to"
+"""Drive in Style with Advanced Entertainment Bundle""","""In-car entertainment and navigation upgrade""  (Note: I can provide clarification if needed, but",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Drive in Style with Advanced Entertainment Bundle""  
+    Bundle Items: Sirius Satellite Radio XDNX1V1BB2 Onyx with Car Kit and Portable Speaker Dock Bundle (Black), Stereo Install Dash Kit Chevy CK Silverado 95 96 97 98 (car radio wiring installation parts), TOMTOM Micro USB Lifetime Free Live Traffic Receiver Car Charger Vehicle Power Cable Cord for TOM TOM VIA 1535 1525 1505 1500 1435 1425 1405 1400 T GPS Navigator (PN 4UUC5B, 4UUC.001.05B, 4UUC.003.05), Pyle PL683BL 6 x 8-Inch 360-Watt 3-Way Speakers  
+    Intent: ""In-car entertainment and navigation upgrade""  (Note: I can provide clarification if needed, but  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Sirius Satellite Radio XDNX1V1BB2 Onyx with Car Kit and Portable Speaker Dock Bundle (Black), user wants to listen to music while driving, Stereo Install Dash Kit Chevy CK Silverado 95 96 97 98 (car radio wiring installation parts), user needs to install the new radio, TOMTOM Micro USB Lifetime Free Live Traffic Receiver Car Charger Vehicle Power Cable Cord for TOM TOM VIA 1535 1525 1505 1500 1435 "
+"""Complete Photography Starter Kit Bundle for Nikon DSLR","- ""Photography accessory bundle"" 
+
+    Note: This response is a correct interpretation of the product",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Complete Photography Starter Kit Bundle for Nikon DSLR  
+    Bundle Items: 52MM Starter Accessory Kit for NIKON DSLR (D3300 D3200 D5300 D5200 D5100 D5000 D3100 D3000 D90 D80) - Includes: 0.43x Wide Angle &amp; 2.2x Telephoto High Definition Lenses + Vivitar Filter Kit (UV, CPL, FLD) + Vivitar Macro Close-Up Set + Collapsible Lens Hood + Tulip Lens Hood + Snap On Lens Cap + MagicFiber Microfiber Cleaning Cloth, Photive 67mm Protective UV Filter (HDX Series)- UV67HD  
+    Intent: - ""Photography accessory bundle"" 
+
+    Note: This response is a correct interpretation of the product  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+    	52MM Starter Accessory Kit, protects camera lens, Photive 67mm Protective UV Filter, protects camera lens, Vivitar Filter Kit, adds lens protection, 52MM Starter Accessory Kit, enhances photography experience, Tulip Lens Hood, reduces lens glare, Photive 67mm Protective UV Filter, reduces lens glare, Vivitar Filter Kit, adds lens protection, 52MM Starter Accessory Kit, enhances photography experience, MagicFiber Microfiber Cleaning Cloth, cleans camera equipment"
+"Connect Devices to Computer Easily Bundle
+
+    Please provide","- ""Connect devices to computer easily"" 
+
+**Note:** The intent phrase may not perfectly match every",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Connect Devices to Computer Easily Bundle
+
+    Please provide  
+    Bundle Items: Micro USB Host OTG Cable with Micro USB Power for Samsung i9100 i9300 i9220 i9250 by AtomicMarket, Cable Matters 2 Pack, Gold Plated Hi-Speed USB 2.0 Type A to Micro-B Cable 6 Feet, Palm TX USB Syns/Charger/Data Cable, GN Jabra GN9330e USB OC Headset - Wireless Connectivity, SATA/PATA/IDE Drive to USB 2.0 Adapter Converter Cable for 2.5 / 3.5 Inch Hard Drive / Optical Drive with External AC Power Adapter  
+    Intent: - ""Connect devices to computer easily"" 
+
+**Note:** The intent phrase may not perfectly match every  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Micro USB Host OTG Cable with Micro USB Power for Samsung i9100 i9300 i9220 i9250 by AtomicMarket, Connect devices, Cable Matters 2 Pack, Easy connectivity, Gold Plated Hi-Speed USB 2.0 Type A to Micro-B Cable 6 Feet, Connect devices, Palm TX USB Syns/Charger/Data Cable, Transfer data, GN Jabra GN9330e USB OC Headset - Wireless Connectivity, Wireless connectivity, SATA/PATA/IDE"
+Bundle of Tech Protection and Accessories for Your Gadgets,"""Tech gadget protection and accessories""    ~~~~
+
+
+
+*   SAVEICON Black PU Folio","Path:
+     SAVEICON Black PU Folio, protects Apple iPad, iPearl mCover Hard Shell, protects Samsung Chromebook, Kuzy - Retina 13-Inch Palmrest, protects Apple MacBook Pro, Kuzy - METALLIC GOLD Keyboard Cover, protects Apple MacBook Pro,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Bundle of Tech Protection and Accessories for Your Gadgets  
+    Bundle Items: SAVEICON Black PU Folio Leather Case Cover with Built-in Stand for Apple iPad 1 1st Generation, iPearl mCover Hard Shell Case for 11.6&quot; Samsung Chromebook (Wi-Fi or 3G) laptop - Green, Kuzy - Retina 13-Inch Palmrest with Trackpad Skin Protector Sticker Cover Silver for Apple MacBook Pro 13.3&quot; with RETINA Display Only Models: A1502 and A1425 (NEWEST VERSION), Kuzy - METALLIC GOLD Keyboard Cover Silicone Skin for MacBook Pro 13&quot; 15&quot; (with or w/out Retina Display) iMac and MacBook Air 13-inch - Gold  
+    Intent: ""Tech gadget protection and accessories""    ~~~~
+
+
+
+*   SAVEICON Black PU Folio  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     SAVEICON Black PU Folio, protects Apple iPad, iPearl mCover Hard Shell, protects Samsung Chromebook, Kuzy - Retina 13-Inch Palmrest, protects Apple MacBook Pro, Kuzy - METALLIC GOLD Keyboard Cover, protects Apple MacBook Pro, end
+
+
+
+*   iPearl mCover Hard Shell  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone"
+Bundle,"""Driving safety and legality protection""   
+
+
+
+Here is the list of items in the bundle:
+
+1","Path:
+     Kenwood KDC-252U In-Dash USB/CD Receiver, Listening to music, Whistler XTR-140 Laser/Radar Detector with Exclusive Twin Alert Periscopes, Avoiding fines, Kenwood KDC-252U In-Dash USB/CD Receiver, Enjoying hands-free calls,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Bundle  
+    Bundle Items: Kenwood KDC-252U In-Dash USB/CD Receiver, Whistler XTR-140 Laser/Radar Detector with Exclusive Twin Alert Periscopes  
+    Intent: ""Driving safety and legality protection""   
+
+
+
+Here is the list of items in the bundle:
+
+1  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Kenwood KDC-252U In-Dash USB/CD Receiver, Listening to music, Whistler XTR-140 Laser/Radar Detector with Exclusive Twin Alert Periscopes, Avoiding fines, Kenwood KDC-252U In-Dash USB/CD Receiver, Enjoying hands-free calls, end
+
+    Note: The output is in the format specified, with the bundle items connected by reasons that address user concerns. The first and last item are the same, indicating the start"
+"""Gaming Beast Bundle"" 
+
+    This name","- PC Gaming Build
+
+    (Note: You can assume that the user is an experienced gamer or",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Gaming Beast Bundle"" 
+
+    This name  
+    Bundle Items: Western Digital 1.5 TB WD Black SATA III 7200 RPM 64 MB Cache Bulk/OEM Desktop Hard Drive, EVGA GeForce 8400 GS 1 GB DDR3 PCI Express 2.0 DVI/HDMI/VGA Graphics Card, 01G-P3-1302-LR, MSI Computer Corp. ATX DDR3 1066 LGA 1150 Motherboards Z87 MPOWER MAX, SanDisk 64GB microSD Class 10 Ultra Card, Western Digital WD800BB 80GB UDMA/100 7200RPM 2MB IDE Hard Drive  
+    Intent: - PC Gaming Build
+
+    (Note: You can assume that the user is an experienced gamer or  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Western Digital 1.5 TB WD Black SATA III 7200 RPM 64 MB Cache Bulk/OEM Desktop Hard Drive, user needs storage, EVGA GeForce 8400 GS 1 GB DDR3 PCI Express 2.0 DVI/HDMI/VGA Graphics Card, supports gaming, MSI Computer Corp. ATX DDR3 1066 LGA 1150 Motherboards Z87 MPOWER MAX, provides motherboard, SanDisk 64GB microSD Class 10 Ultra Card,"
+"Ultimate Home Office Bundle For Productivity
+
+    Here",The final answer is: Desktop and home office setup.,,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Ultimate Home Office Bundle For Productivity
+
+    Here  
+    Bundle Items: Microsoft Sculpt Mobile Mouse (43U-00001), Microsoft LifeChat LX-3000 Headset (JUG-00013), Wacom Bamboo Feel Stylus for Microsoft Surface Pro 1 and 2 and tablets with Feel technology, AZiO Slim and Ergonomic HTPC/Smart TV Wireless 2.4 GHz Keyboard (KB115), Microsoft M03-00090 Wireless Optical Mouse 5000 High Definition with Tilt Wheel Platinum Mac/Win PS2/USB English  
+    Intent: The final answer is: Desktop and home office setup.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Microsoft Sculpt Mobile Mouse (43U-00001), user comfortable, Microsoft LifeChat LX-3000 Headset (JUG-00013), clear calls, Wacom Bamboo Feel Stylus for Microsoft Surface Pro 1 and 2 and tablets with Feel technology, precise drawing, AZiO Slim and Ergonomic HTPC/Smart TV Wireless 2.4 GHz Keyboard (KB115), easy typing, Microsoft M03-00090 Wireless Optical Mouse 5000 High Definition with"
+"""TechSafe Bundle""
+
+     Reasoning:",Protect and carry electronics safely.,"Path:
+     TechSafe Bundle, Protect electronics, TopCase Rubberized Hard Case Cover, Protect 13-Inch Macbook Air, SAVEICON Black PU Folio Leather Case Cover, Carry iPad, iPearl mCover Hard Shell Case, Protect Samsung Chromebook,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""TechSafe Bundle""
+
+     Reasoning:  
+    Bundle Items: TopCase Rubberized Hard Case Cover for 13-Inch Macbook Air - Purple, SAVEICON Black PU Folio Leather Case Cover with Built-in Stand for Apple iPad 1 1st Generation, iPearl mCover Hard Shell Case for 11.6&quot; Samsung Chromebook (Wi-Fi or 3G) laptop - Green  
+    Intent: Protect and carry electronics safely.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     TechSafe Bundle, Protect electronics, TopCase Rubberized Hard Case Cover, Protect 13-Inch Macbook Air, SAVEICON Black PU Folio Leather Case Cover, Carry iPad, iPearl mCover Hard Shell Case, Protect Samsung Chromebook, end. 
+
+
+    The influence path shows how items logically connect to each other in service of the user intent, which is to protect and carry electronics safely. Each item is chosen because it addresses a specific user concern, and the path flows naturally from"
+"PC Cooling Upgrade Bundle
+
+    This name is a","**PC Cooling Upgrade Bundle**.    
+
+
+
+ANSWER: \*\*PC Cooling Upgrade Bundle\","Path:
+     Cooler Master MegaFlow 200, Reduces noise, ARCTIC Accelero Mono Plus VGA Cooler, Cooler Master Hyper N520, Improves airflow, 120mm Efficient PWM Fan, end
+
+
+
+The final answer is: Cooler Master MegaFlow 200, Reduces noise, ARCTIC Accelero Mono Plus VGA Cooler, Cooler Master Hyper N520, Improves airflow, 120mm Efficient PWM Fan,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: PC Cooling Upgrade Bundle
+
+    This name is a  
+    Bundle Items: ARCTIC Accelero Mono Plus VGA Cooler - nVidia &amp; AMD, 120mm Efficient PWM Fan, SLI/CrossFire, Cooler Master MegaFlow 200 - Sleeve Bearing 200mm Red LED Silent Fan for Computer Cases, Cooler Master Hyper N520 - CPU Cooler with Copper Base and 5 Heat Pipes (RR-920-N520-GP)  
+    Intent: **PC Cooling Upgrade Bundle**.    
+
+
+
+ANSWER: \*\*PC Cooling Upgrade Bundle\  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Cooler Master MegaFlow 200, Reduces noise, ARCTIC Accelero Mono Plus VGA Cooler, Cooler Master Hyper N520, Improves airflow, 120mm Efficient PWM Fan, end
+
+
+
+The final answer is: Cooler Master MegaFlow 200, Reduces noise, ARCTIC Accelero Mono Plus VGA Cooler, Cooler Master Hyper N520, Improves airflow, 120mm Efficient PWM Fan, end."
+"Home Theater Network Upgrade Bundle
+
+    Why it fits","Home Network Upgrade Bundle
+
+     Alternative:
+     Home Theater Upgrade Bundle
+
+     Incorrect:
+     Upgrade Bundle","Path:
+     ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router, Upgrade my home network, Monoprice 106273 15-Feet Optical Toslink with 5.0-Meters Outside Diameter Audio Cable, Connect my home theater,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Home Theater Network Upgrade Bundle
+
+    Why it fits  
+    Bundle Items: ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router, Monoprice 106273 15-Feet Optical Toslink with 5.0-Meters Outside Diameter Audio Cable  
+    Intent: Home Network Upgrade Bundle
+
+     Alternative:
+     Home Theater Upgrade Bundle
+
+     Incorrect:
+     Upgrade Bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router, Upgrade my home network, Monoprice 106273 15-Feet Optical Toslink with 5.0-Meters Outside Diameter Audio Cable, Connect my home theater, end 
+
+
+
+
+
+Here is the corrected influence path:
+
+ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router, Upgrade my home network, Monoprice 106273 15"
+"""Capture Pro Bundle""
+     ""Photography Pro","""Photography and videography equipment bundle""
+
+    Note: The bundle includes various accessories and items for","Path:
+     Camera, Need to capture, Battery, Need to power, Charger, Need to charge, Accessory, Need to enhance, Tripod, Need to stabilize, Light, Need to illuminate, Microphone, Need to capture, Level, Need to ensure, Bag, Need to carry, Case, Need to protect, Cleaning, Need to maintain, Kit, Need to clean,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Capture Pro Bundle""
+     ""Photography Pro  
+    Bundle Items: EN-EL15 Battery Charger for Nikon 1 V1, D60,0 D610, D800, D810, D7000, D7100 Digital SLR Camera + More!!, Wasabi Power Battery (2-Pack) and Dual Charger for GoPro Hero3, Hero3+ and GoPro AHDBT-201, AHDBT-301, AHDBT-302, AHBBP-301, ACARC-001, AWALC-001 (with Car and US Plug), 52MM Starter Accessory Kit for NIKON DSLR (D3300 D3200 D5300 D5200 D5100 D5000 D3100 D3000 D90 D80) - Includes: 0.43x Wide Angle &amp; 2.2x Telephoto High Definition Lenses + Vivitar Filter Kit (UV, CPL, FLD) + Vivitar Macro Close-Up Set + Collapsible Lens Hood + Tulip Lens Hood + Snap On Lens Cap + MagicFiber Microfiber Cleaning Cloth, NP-FV70 Battery &amp; Charger for Sony HDR-CX190 HDR-CX200 HDR-CX210 HDR-CX220 HDR-CX230 HDR-CX260V HDR-CX290 HDR-CX330 HDR-CX380 HDR-CX430V HDR-CX580V HDR-CX760V HDR-CX900 HDR-PJ340 HDR-PJ540 HDR-PJ810 FDR-AX100 Camcorder + More!!, Canon EOS 60D 7D 5D Mark II III LP-E6 Replacement Lithium-Ion Battery (1600 mAh), Ultimate Accessory Kit For the Canon Vixia HF G10, HF G20, HF G30, HF S20, HF S21, HF S30, HF S200 Includes 32GB High Speed Error Free SDHC Memory Card + SDHC Card Reader + 58MM 3 Piece Pro Filter Kit (UV, CPL, FLD) + BP-819 Extended Life Replacement Battery Pack + Rapid AC/DC Battery Charger + 54 Inch Professional Video Tripod + Opteka X-GRIP Action Stabilizing Handle + Ultra High Power 36 Pin LED Video Light + Directional Mini-Shotgun Microphone + Hot Shoe Three Axis Triple Bubble Spirit Level + Deluxe Gadget Bag Carrying Case + Deluxe Cleaning Kit + More  
+    Intent: ""Photography and videography equipment bundle""
+
+    Note: The bundle includes various accessories and items for  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Camera, Need to capture, Battery, Need to power, Charger, Need to charge, Accessory, Need to enhance, Tripod, Need to stabilize, Light, Need to illuminate, Microphone, Need to capture, Level, Need to ensure, Bag, Need to carry, Case, Need to protect, Cleaning, Need to maintain, Kit, Need to clean, end
+
+    (Note: The influence path reflects a specific user concern, in this case, a photographer/videographer looking"
+"""Tech Armor Bundle"" 
+    This response was",To protect and organize electronics.    - This response was edited to conform to the required format. The,,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Tech Armor Bundle"" 
+    This response was  
+    Bundle Items: TopCase Rubberized Hard Case Cover for 13-Inch Macbook Air - Purple, iPearl mCover Hard Shell Case for 11.6&quot; Samsung Chromebook (Wi-Fi or 3G) laptop - Green, Fintie Folio Slim-Fit Case for Apple iPad Mini 2 with Retina Display (2013) &amp; Mini (2012) with Smart Cover Auto Wake / Sleep - White, Kuzy - METALLIC GOLD Keyboard Cover Silicone Skin for MacBook Pro 13&quot; 15&quot; (with or w/out Retina Display) iMac and MacBook Air 13-inch - Gold, MoKo Bluetooth Keyboard Cover Case for Microsoft Surface RT / Surface Pro / Surface 2 / Surface Pro 2 10.6 inch HD Windows 8 / RT Tablet, BLACK  
+    Intent: To protect and organize electronics.    - This response was edited to conform to the required format. The  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     13-Inch Macbook Air - Purple, Protect laptop, TopCase Rubberized Hard Case Cover for 13-Inch Macbook Air - Purple, Prevent scratches, iPearl mCover Hard Shell Case for 11.6&quot; Samsung Chromebook (Wi-Fi or 3G) laptop - Green, Protect laptop, Fintie Folio Slim-Fit Case for Apple iPad Mini 2 with Retina Display (2013) &amp; Mini (2012) with Smart"
+"""Upgrade Your USB Connection Bundle"" 
+
+    Please","**Answer:** Computer and Audio Equipment Upgrade Bundle
+**Explanation:** The bundle contains various USB cables","Path:
+     StarTech.com Micro USB Cable - A to Micro B (UUSBHAUB3), Upgrade Your USB Connection, AmazonBasics USB 2.0 A-Male to Mini-B Cable - 6 Feet (1.8 Meters), Ext","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Upgrade Your USB Connection Bundle"" 
+
+    Please  
+    Bundle Items: StarTech.com Micro USB Cable - A to Micro B (UUSBHAUB3), AmazonBasics USB 2.0 A-Male to Mini-B Cable - 6 Feet (1.8 Meters), Acer Ms1238us 2-piece USB Powered Pc Speaker Set W/3.5mm Jack, GN Jabra GN9330e USB OC Headset - Wireless Connectivity, USB 2.0 A to Micro B Female / Male Adaptor  
+    Intent: **Answer:** Computer and Audio Equipment Upgrade Bundle
+**Explanation:** The bundle contains various USB cables  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     StarTech.com Micro USB Cable - A to Micro B (UUSBHAUB3), Upgrade Your USB Connection, AmazonBasics USB 2.0 A-Male to Mini-B Cable - 6 Feet (1.8 Meters), Extend Your USB Reach, Acer Ms1238us 2-piece USB Powered Pc Speaker Set W/3.5mm Jack, Upgrade Your PC Speakers, GN Jabra GN9330e USB OC Headset - Wireless Connectivity, Enjoy Wireless Audio, USB"
+Ultimate Storage Bundle For All Your Needs.,"Backup and portable storage needs.    
+
+
+
+
+**No** - I am the one who responded. You",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: Ultimate Storage Bundle For All Your Needs.  
+    Bundle Items: Kingston Digital DataTraveler SE9 8GB USB 2.0 (DTSE9H/8GBZET), Kingston Digital 16 GB USB 2.0 Hi-speedDatatraveler Flash Drive DTIG3/16GBZ, White and Blue, Patriot 32GB Axle Series Cap-less USB 2.0 Flash Drive - PSF32GAUSB, 32gb Micro Sd Card Sdhc Tf Flash Memory Card 32gb Class 10, Seagate Backup Plus 1TB Portable External Hard Drive USB 3.0 (Red)(STBU1000103), PNY Elite Performance 64GB UHS-1 SDXC Flash Card (P-SDX64U1H-GE)  
+    Intent: Backup and portable storage needs.    
+
+
+
+
+**No** - I am the one who responded. You  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Kingston Digital DataTraveler SE9 8GB USB 2.0, Need for portable storage, Patriot 32GB Axle Series Cap-less USB 2.0 Flash Drive, More storage needed, Seagate Backup Plus 1TB Portable External Hard Drive, Data safety and backup, PNY Elite Performance 64GB UHS-1 SDXC Flash Card, Data storage and sharing, Kingston Digital 16 GB USB 2.0 Hi-speed Datatraveler Flash Drive, Additional"
+"""Nikon Photography Pro Bundle Starter Kit""","* ""Photography Equipment Bundle""
+
+    or
+
+    * ""Photography Accessory Kit""","Path:
+     EN-EL15 Battery Charger, Requires battery, EN-EL14a, Need replacement, EN-EL14a, Replacement battery, EN-EL15 Battery Charger,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Nikon Photography Pro Bundle Starter Kit""  
+    Bundle Items: EN-EL15 Battery Charger for Nikon 1 V1, D60,0 D610, D800, D810, D7000, D7100 Digital SLR Camera + More!!, Yongnuo Professional Flash Speedlight Flashlight Yongnuo YN 560 III for Canon Nikon Pentax Olympus Camera / Such as: Canon EOS 1Ds Mark, EOS1D Mark, EOS 5D Mark, EOS 7D, EOS 60D, EOS 600D, EOS 550D, EOS 500D, EOS 1100D, Opteka Shutter Release Remote Control Cord for Nikon D1, D2, D3, D3x, D3s, D4, D100, D200, D300, D300S, D700 and D800 Digital SLR Cameras (Nikon MC-30 Replacement), 52MM Starter Accessory Kit for NIKON DSLR (D3300 D3200 D5300 D5200 D5100 D5000 D3100 D3000 D90 D80) - Includes: 0.43x Wide Angle &amp; 2.2x Telephoto High Definition Lenses + Vivitar Filter Kit (UV, CPL, FLD) + Vivitar Macro Close-Up Set + Collapsible Lens Hood + Tulip Lens Hood + Snap On Lens Cap + MagicFiber Microfiber Cleaning Cloth, Replacement EN-EL14a, EN-EL14 Ultra High Capacity Li-ion Battery For Nikon D5300, D3300, D5100, D5200, D3100, Nikon Df and D3200, P7100, P7700 Digital Camera - Fully Decoded! (Nikon EN-EL14a Replacement) + ButterflyPhoto MicroFiber Cleaning Cloth  
+    Intent: * ""Photography Equipment Bundle""
+
+    or
+
+    * ""Photography Accessory Kit""  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     EN-EL15 Battery Charger, Requires battery, EN-EL14a, Need replacement, EN-EL14a, Replacement battery, EN-EL15 Battery Charger, end
+
+    Note: The path is constructed by analyzing the relationships between the items in the bundle and the user intent, as well as the descriptions of the items. The path may not be the only possible one, but it is a logical and coherent one. 
+
+    Here is the influence path:
+
+    EN-EL15"
+"""Pro Gamer's Essential Bundle for PC and Con","Gaming and video conferencing setup.    
+
+
+
+**Your response should appear as if it was written by",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Pro Gamer's Essential Bundle for PC and Con  
+    Bundle Items: ASUS GTX760-DC2OC-2GD5 GeForce GTX760 2GB GDDR5 256-bit, DVI-I/DVI-D/ HDMI/DP PCI-Express 3.0 SLI ready Graphic Card OC-selected 1072 MHz core, Microsoft LifeChat LX-3000 Headset (JUG-00013), ASUS MAXIMUS VII HERO ATX DDR3 2600 LGA 1150 Motherboards MAXIMUS VII HERO, EVGA GeForce 8400 GS 1 GB DDR3 PCI Express 2.0 DVI/HDMI/VGA Graphics Card, 01G-P3-1302-LR, Plantronics Mirage Headset with Noise Cancelling Microphone  
+    Intent: Gaming and video conferencing setup.    
+
+
+
+**Your response should appear as if it was written by  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ASUS GTX760-DC2OC-2GD5 GeForce GTX760 2GB GDDR5 256-bit, Improves gaming performance, Microsoft LifeChat LX-3000 Headset (JUG-00013), Enhances voice chat, ASUS MAXIMUS VII HERO ATX DDR3 2600 LGA 1150 Motherboards MAXIMUS VII HERO, Supports GTX760, EVGA GeForce 8400 GS 1 GB DDR3 PCI Express 2.0 DVI"
+WaterWorks Bundle,"""Outdoor water activities enthusiast""    
+
+
+
+
+Here is the revised response:
+
+""Outdoor water activities enthusiast""",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: WaterWorks Bundle  
+    Bundle Items: eForCity&reg; Pentax D-Li63 Compatible Lithium-ion Battery for Pentax Optio M30 / T30 / W30 SLR Camera, GoPro HERO3 Caps and Doors, Pyle PSWP4WT Waterproof Neckband MP3 Player and Headphones for Swimming, Water Sports - White, LifeProof Proprietary Data Transfer Adapter, Canon WP-DC32 Waterproof Case for SD960IS Digital Elph Camera, Palm TX USB Syns/Charger/Data Cable  
+    Intent: ""Outdoor water activities enthusiast""    
+
+
+
+
+Here is the revised response:
+
+""Outdoor water activities enthusiast""  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Pyle PSWP4WT Waterproof Neckband MP3 Player, Water-resistant music for water sports, LifeProof Proprietary Data Transfer Adapter, Water-resistant data transfer for waterproof devices, Canon WP-DC32 Waterproof Case for SD960IS Digital Elph Camera, Protecting camera from water damage, Palm TX USB Syns/Charger/Data Cable, Keeping Palm TX connected in water, GoPro HERO3 Caps and Doors, Protecting GoPro from water damage, eForCity&reg;"
+"DSLR Photography Essentials Bundle
+
+
+
+Bundle items: Canon","Taking high-quality DSLR photos.     
+
+
+Answer: Taking high-quality DSLR photos.","Path:
+     Canon, intent, DSLR Photography, essentials, Canon EF 50mm f/1.4 USM, lens, Nikon HB-36, bayonet, Canon EOS Rebel, tripod, Triple Tripod Kit, wireless, shutter release, Adorama Dedicated Lens Hood, lens hood, Canon EF 50mm f/1.4 USM, standard, medium telephoto,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: DSLR Photography Essentials Bundle
+
+
+
+Bundle items: Canon  
+    Bundle Items: Canon EF 50mm f/1.4 USM Standard &amp; Medium Telephoto Lens for Canon SLR Cameras, Nikon HB-36 Bayonet Lens Hood for 70-300mm f/4.5-5.6G VR, Triple Tripod Kit + Wireless Shutter Release Remote Control For Canon EOS Rebel T5i, T4i, T3i, T2i, XT, Xti, 5D, 7D, 70D DSLR (Canon RC-5 &amp; RC-6 Replacement) Includes 57&quot; Full Tripod + 67&quot; Monopod + 10&quot; Flexible Tripod + Wireless Shutter Release + More, Adorama Dedicated Lens Hood 18-55mm VR Lens HB-45  
+    Intent: Taking high-quality DSLR photos.     
+
+
+Answer: Taking high-quality DSLR photos.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Canon, intent, DSLR Photography, essentials, Canon EF 50mm f/1.4 USM, lens, Nikon HB-36, bayonet, Canon EOS Rebel, tripod, Triple Tripod Kit, wireless, shutter release, Adorama Dedicated Lens Hood, lens hood, Canon EF 50mm f/1.4 USM, standard, medium telephoto, end. 
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    "
+"_______    _______
+    filming     production","_______    _______
+    filming     production    _______
+
+**Step 1: Analyze the","Path:
+     iMBAPrice C5-10BL, needs cable, Westcott 130, needs backdrop, filming, needs setup, production, needs filming, filming,","
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: _______    _______
+    filming     production  
+    Bundle Items: iMBAPrice C5-10BL Cat5e 10-Feet 350MHz Ethernet Patch Cable, Blue, Westcott 130  9 x 10 Feet Green Screen Backdrop Wrinkle Resistant  
+    Intent: _______    _______
+    filming     production    _______
+
+**Step 1: Analyze the  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     iMBAPrice C5-10BL, needs cable, Westcott 130, needs backdrop, filming, needs setup, production, needs filming, filming, end
+
+**Note:**
+- You can assume the user intent is to film a production.
+- Assume the user needs to set up a filming location.
+- Assume the user needs to connect the filming location to the production team.
+- Assume the user needs a cable to connect the filming location.
+- Assume the user needs a backdrop to"
+"iPad Bundle for Streaming and Protection
+    Bundle Name","Using iPad with accessories.    
+
+
+
+**Bundle Description:** 
+
+Patuoxun Dock Connector to HDMI",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: iPad Bundle for Streaming and Protection
+    Bundle Name  
+    Bundle Items: Patuoxun Dock Connector to HDMI Adapter for iPad 2 3rd iPhone 4 4S 4G iPod Touch 4G - Watch and Share Videos and Slideshows on Big High Ddefinition Screen, ArmorSuit MilitaryShield - Apple iPad 4 with Retina Display / iPad 3 / iPad 2 Screen Protector Shield + Lifetime Replacements, Snap-On Protector Hard Case for Apple iPod Touch 4th Generation / 4th Gen - Love Party White/Black Hybrid Design + 4.5 Inches Lens/Screen Cleaning Cloth, Apple iPad Camera Connection Kit (MC531ZM/A)  
+    Intent: Using iPad with accessories.    
+
+
+
+**Bundle Description:** 
+
+Patuoxun Dock Connector to HDMI  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     iPad, Streaming, Patuoxun Dock Connector to HDMI Adapter for iPad 2 3rd iPhone 4 4S 4G iPod Touch 4G, Share, ArmorSuit MilitaryShield - Apple iPad 4 with Retina Display / iPad 3 / iPad 2 Screen Protector Shield + Lifetime Replacements, Protect, Snap-On Protector Hard Case for Apple iPod Touch 4th Generation / 4th Gen, Scratch, Apple iPad Camera Connection Kit (MC531ZM/A"
+"""Mobile Audio Installation Essentials Bundle""
+
+    Revised Name","Installing car audio equipment.
+
+    Note: The electronic items are likely being bundled together to facilitate the installation",,"
+    You are tasked with constructing an **influence path** for a bundle in the **electronic** domain.
+
+    Bundle Name: ""Mobile Audio Installation Essentials Bundle""
+
+    Revised Name  
+    Bundle Items: Kenwood KDC-252U In-Dash USB/CD Receiver, XM XPMP3H1 Portable Satellite Radio and MP3 Player (XMp3i), ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router, Stereo Install Dash Kit Chevy CK Silverado 95 96 97 98 (car radio wiring installation parts), Nakamichi NA98 CD / USB / MP3 / WMA / TUNER RECEIVER, AMERICAN INTERNATIONAL GMK420 Radio Install Kit  
+    Intent: Installing car audio equipment.
+
+    Note: The electronic items are likely being bundled together to facilitate the installation  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Kenwood KDC-252U In-Dash USB/CD Receiver, Installation needed, XM XPMP3H1 Portable Satellite Radio and MP3 Player (XMp3i), Better audio, Nakamichi NA98 CD / USB / MP3 / WMA / TUNER RECEIVER, Music options, ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router, Connectivity required, Stereo Install Dash Kit Chevy CK Silverado 95 96 97"

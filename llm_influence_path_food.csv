@@ -1,0 +1,1734 @@
+Name,Intent,Influence Path,Response
+"Japanese Pantry Staples Bundle
+
+    Your task is to generate a short, catchy, and relevant name that captures the essence or purpose of the bundle.
+
+    - The name must be a **maximum of 8 words**.
+    - Avoid long sentences, descriptions, or explanations.
+    - Return only the name — no intro, no punctuation.","Japanese food enthusiasts exploring Asian cuisine. 
+
+     Bundle Name:
+     Japanese Pantry Staples Bundle",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Japanese Pantry Staples Bundle
+
+    Your task is to generate a short, catchy, and relevant name that captures the essence or purpose of the bundle.
+
+    - The name must be a **maximum of 8 words**.
+    - Avoid long sentences, descriptions, or explanations.
+    - Return only the name — no intro, no punctuation.  
+    Bundle Items: ""Nagatanien OTONA NO FURIKAKE Mini #1 | Rice Seasoning | 37.6g ( 20 Pcs ) [ Japanese Import "", ""Nagatanien OTONA NO FURIKAKE Mini #2 | Rice Seasoning | 34.8g ( 20 Pcs ) [ Japanese Import "", ""Nagatanien Ochazuke Nori , Assortment (Pack of 50)"", ""Honey Bee Brand Premium Roasted Seaweed Snack (Green Laver) Pack of 9"", ""Dongwon Korean Olive Oil Flavored Seasoned Seaweed (Laver) Snack 0.17-ounce Bags (Pack of 9)"", ""Premium Japanese Short-Grain Rice"", ""Instant Miso Soup Packets"", ""Pickled Umeboshi (Japanese Salted Plums)""  
+    Intent: Japanese food enthusiasts exploring Asian cuisine. 
+
+     Bundle Name:
+     Japanese Pantry Staples Bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Nagatanien OTONA NO FURIKAKE Mini #1, Enhance Japanese dishes, Nagatanien OTONA NO FURIKAKE Mini #2, Complement seasoning selection, Nagatanien Ochazuke Nori, Expand snacking options, Honey Bee Brand Premium Roasted Seaweed Snack, Add crunchy texture, Dongwon Korean Olive Oil Flavored Seasoned Seaweed, Introduce new flavors, Premium Japanese Short-Grain Rice, Provide cooking foundation, Instant"
+"""Japanese Food Delights Bundle""
+
+    Please provide","Japanese food assortment bundle.     - ""Japanese food bundle""     - ""Japanese food assortment""",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Japanese Food Delights Bundle""
+
+    Please provide  
+    Bundle Items: ""Nagatanien OTONA NO FURIKAKE Mini #2 | Rice Seasoning | 34.8g ( 20 Pcs ) [ Japanese Import "", ""Nagatanien Ochazuke Nori , Assortment (Pack of 50)"", ""Honey Bee Brand Premium Roasted Seaweed Snack (Green Laver) Pack of 9"", ""Dongwon Korean Olive Oil Flavored Seasoned Seaweed (Laver) Snack 0.17-ounce Bags (Pack of 9)"", ""Premium Japanese Short-Grain Rice"", ""Instant Miso Soup Packets""  
+    Intent: Japanese food assortment bundle.     - ""Japanese food bundle""     - ""Japanese food assortment""  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Japanese Food Delights Bundle"", ""Japanese food bundle"", ""Instant Miso Soup Packets"", ""soup and rice pairing"", ""Premium Japanese Short-Grain Rice"", ""rice and soup pair"", ""Nagatanien OTONA NO FURIKAKE Mini #2 | Rice Seasoning | 34.8g ( 20 Pcs ) [ Japanese Import "", ""flavor enhancer for rice"", ""Honey Bee Brand Premium Roasted Seaweed Snack (Green L"
+"""Japanese Rice Delights Bundle""   
+
+
+Here","- Food preparation
+     - Snacking
+     - Cooking
+     - Baking
+     -","Path:
+     Nagatanien OTONA NO FURIKAKE Mini #1 | Rice Seasoning | 37.6g ( 20 Pcs ) [ Japanese Import, user wants to add flavor, Premium Japanese Short-Grain Rice, user wants to cook rice, Nagatanien OTONA NO FURIKAKE Mini #1 | Rice Seasoning | 37.6g ( 20 Pcs ) [ Japanese Import, user wants to add flavor,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Japanese Rice Delights Bundle""   
+
+
+Here  
+    Bundle Items: ""Nagatanien OTONA NO FURIKAKE Mini #1 | Rice Seasoning | 37.6g ( 20 Pcs ) [ Japanese Import "", ""Premium Japanese Short-Grain Rice""  
+    Intent: - Food preparation
+     - Snacking
+     - Cooking
+     - Baking
+     -  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Nagatanien OTONA NO FURIKAKE Mini #1 | Rice Seasoning | 37.6g ( 20 Pcs ) [ Japanese Import, user wants to add flavor, Premium Japanese Short-Grain Rice, user wants to cook rice, Nagatanien OTONA NO FURIKAKE Mini #1 | Rice Seasoning | 37.6g ( 20 Pcs ) [ Japanese Import, user wants to add flavor, end
+
+    Nagatanien OTONA"
+"Wilderness Fuel Bundle
+
+
+
+**Bundle items: ""T","""Outdoor Energy and Snacks Bundle""    
+
+
+
+**Bundle items: ""Mayan Caveman Cookies","Path:
+     Mayan Caveman Cookies, Provides energy, Tanka Bar Natural Buffalo Bar Variety Pack of 12, Boosts energy, Alpine Caveman Cookies, Satisfies hunger, Grass-Fed Beef Jerky, Offers protein,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Wilderness Fuel Bundle
+
+
+
+**Bundle items: ""T  
+    Bundle Items: ""Mayan Caveman Cookies"", ""Tanka Bar Natural Buffalo Bar Variety Pack of 12"", ""Alpine Caveman Cookies"", ""Grass-Fed Beef Jerky""  
+    Intent: ""Outdoor Energy and Snacks Bundle""    
+
+
+
+**Bundle items: ""Mayan Caveman Cookies  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Mayan Caveman Cookies, Provides energy, Tanka Bar Natural Buffalo Bar Variety Pack of 12, Boosts energy, Alpine Caveman Cookies, Satisfies hunger, Grass-Fed Beef Jerky, Offers protein, end   
+
+
+
+Here is the corrected solution based on the provided specification:
+
+```
+Mayan Caveman Cookies, Provides energy
+Tanka Bar Natural Buffalo Bar Variety Pack of 12, Boosts energy
+Alpine Caveman Cookies, Satisfies hunger
+Grass-F"
+"- ""The Coffee Connoisseur's Dream Bundle","To create a coffee lover's bundle.   
+
+
+    Here is the data in a structured format:",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: - ""The Coffee Connoisseur's Dream Bundle  
+    Bundle Items: ""Green Mountain Coffee Fair Trade Wild Mountain Blueberry, 24-Count K-Cups for Keurig Brewers (Pack of 2)"", ""Green Mountain Limited Edition Golden French Toast K Cups 24 Count"", ""Green Mountain Coffee Dark Magic (Extra Bold), K-cups For Keurig Brewers, 24-count Box"", ""Keurig, Gloria Jean's, Hazelnut, K-Cup packs, 50-Count"", ""Keurig, Coffee People, Jet Fuel, 50 Count K-Cup Packs"", ""Keurig, Tully's Italian Roast, 50 K-Cup Packs"", ""Variety Pack of Sweeteners (Stevia, Sugar, and Honey Packets)""  
+    Intent: To create a coffee lover's bundle.   
+
+
+    Here is the data in a structured format:  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""The Coffee Connoisseur's Dream Bundle"", ""For the coffee enthusiast"", ""Green Mountain Coffee Fair Trade Wild Mountain Blueberry, 24-Count K-Cups for Keurig Brewers (Pack of 2)"", ""Popular Keurig brew"", ""Green Mountain Limited Edition Golden French Toast K Cups 24 Count"", ""Delicious seasonal flavor"", ""Green Mountain Coffee Dark Magic (Extra Bold), K-cups For Keurig Brewers, 24-count Box"", ""Bold coffee lovers"
+SugarFreeCandyCraversDelight Bundle,"Satisfy sugar-free candy cravings. 
+
+     This response is intended to be concise, accurate,",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: SugarFreeCandyCraversDelight Bundle  
+    Bundle Items: ""LifeSavers Sugar Free Wint-O-Green Hard Candy, 2.75-Ounce Bags, (Pack of 12)"", ""Werther's Original Hard Candy, Caramel Sugar Free, 2.75-Ounce Bags (Pack of 12)"", ""LifeSavers Sugar Free 5 Flavor Hard Candy, 2.75-Ounce Bags, (Pack of 12)"", ""Jolly Rancher Sugar Free Hard Candy, Assorted Flavors, 3.6-Ounce Bags (Pack of 12)"", ""Russell Stover Sugar-Free Hard Candies""  
+    Intent: Satisfy sugar-free candy cravings. 
+
+     This response is intended to be concise, accurate,  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     LifeSavers Sugar Free Wint-O-Green Hard Candy, 2.75-Ounce Bags, (Pack of 12), Craves sugar-free candy, Werther's Original Hard Candy, Caramel Sugar Free, 2.75-Ounce Bags (Pack of 12), Offers sugar-free caramel, LifeSavers Sugar Free 5 Flavor Hard Candy, 2.75-Ounce Bags, (Pack of 12), Provides variety of sugar-free flavors, Jolly Rancher Sugar"
+- Healthy Snacking on the Go Bundle,"Health-oriented snacking bundle.    
+
+
+
+    Here is another problem:
+
+    You are tasked with inf","Path:
+     Stretch Island Fruit Leather Variety Pack 48-Count, 0.5-Ounce Package, 'need healthy snack option', That’s It. Fruit Bars Variety Pack, 'look for organic', Stretch Island Fruit Leather Variety Pack 48-Count, 0.5-Ounce Package, 'also consider variety',","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: - Healthy Snacking on the Go Bundle  
+    Bundle Items: ""Stretch Island Fruit Leather Variety Pack 48-Count, 0.5-Ounce Package"", ""That’s It. Fruit Bars Variety Pack""  
+    Intent: Health-oriented snacking bundle.    
+
+
+
+    Here is another problem:
+
+    You are tasked with inf  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Stretch Island Fruit Leather Variety Pack 48-Count, 0.5-Ounce Package, 'need healthy snack option', That’s It. Fruit Bars Variety Pack, 'look for organic', Stretch Island Fruit Leather Variety Pack 48-Count, 0.5-Ounce Package, 'also consider variety', end
+
+
+
+    Here is another problem:
+
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: - Fresh Start"
+"""Evening Serenity Tea Bundle""",A person is seeking a relaxing evening or unwinding from a stressful day. They are looking to calm,"Path:
+     ""Harney & Sons Hot Cinnamon Spice 30ct 2.67 oz"", ""Calm and relaxing flavor"", ""Celestial Seasonings Herb Tea, Tension Tamer, 20-Count Tea Bags (Pack of 6)"", ""Natural stress relief"", ""Twinings Pure Peppermint Tea Bags"", ""Refreshing digestive aid"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Evening Serenity Tea Bundle""  
+    Bundle Items: ""Harney & Sons Hot Cinnamon Spice 30ct 2.67 oz"", ""Celestial Seasonings Herb Tea, Tension Tamer, 20-Count Tea Bags (Pack of 6)"", ""Twinings Pure Peppermint Tea Bags""  
+    Intent: A person is seeking a relaxing evening or unwinding from a stressful day. They are looking to calm  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Harney & Sons Hot Cinnamon Spice 30ct 2.67 oz"", ""Calm and relaxing flavor"", ""Celestial Seasonings Herb Tea, Tension Tamer, 20-Count Tea Bags (Pack of 6)"", ""Natural stress relief"", ""Twinings Pure Peppermint Tea Bags"", ""Refreshing digestive aid"" 'end'
+
+    Note: Reasoning steps should be phrased as they would be understood by a user, not a technical description.  
+
+"
+"""Baby Essentials Bundle"" 
+
+    Bundle items:","Infants require nutrition, therefore these products are bundled together for parents to easily purchase and utilize as a","Path:
+     ""Bright Beginnings Premium Milk-Based Baby Powder Formula with Iron, Stage 2, 24.0 Ounce"", User needs infant nutrition, ""Vermont Organics Milk-Based Organic Infant Formula with Iron, 23.2 oz. (pack of 4)"", Supports baby's dietary needs, ""Bright Beginnings Premium Milk-Based Formula with Iron, 23.4 Ounce"", Offers alternative formula option, ""Baby Bottle Starter Kit"", Completes baby care essentials, '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Baby Essentials Bundle"" 
+
+    Bundle items:  
+    Bundle Items: ""Bright Beginnings Premium Milk-Based Baby Powder Formula with Iron, Stage 2, 24.0 Ounce"", ""Vermont Organics Milk-Based Organic Infant Formula with Iron, 23.2 oz. (pack of 4)"", ""Bright Beginnings Premium Milk-Based Formula with Iron, 23.4 Ounce"", ""Baby Bottle Starter Kit""  
+    Intent: Infants require nutrition, therefore these products are bundled together for parents to easily purchase and utilize as a  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Bright Beginnings Premium Milk-Based Baby Powder Formula with Iron, Stage 2, 24.0 Ounce"", User needs infant nutrition, ""Vermont Organics Milk-Based Organic Infant Formula with Iron, 23.2 oz. (pack of 4)"", Supports baby's dietary needs, ""Bright Beginnings Premium Milk-Based Formula with Iron, 23.4 Ounce"", Offers alternative formula option, ""Baby Bottle Starter Kit"", Completes baby care essentials, 'end' 
+
+"
+"""Organic Infant Formula Bundle with Dispenser""","Infant formula and dispenser bundle.    |
+
+## Step 1: Identify the primary item in the bundle","Path:
+     ""Organic Infant Formula Bundle with Dispenser"", ""Parent seeking organic baby formula"", ""Vermont Organics Milk-Based Organic Infant Formula with Iron"", ""formula choice influenced by organic preference"", ""Baby Formula Dispenser"", ""dispenser complements formula for convenient feeding"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Organic Infant Formula Bundle with Dispenser""  
+    Bundle Items: ""Vermont Organics Milk-Based Organic Infant Formula with Iron, 23.2 oz. (pack of 4)"", ""Baby Formula Dispenser""  
+    Intent: Infant formula and dispenser bundle.    |
+
+## Step 1: Identify the primary item in the bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Organic Infant Formula Bundle with Dispenser"", ""Parent seeking organic baby formula"", ""Vermont Organics Milk-Based Organic Infant Formula with Iron"", ""formula choice influenced by organic preference"", ""Baby Formula Dispenser"", ""dispenser complements formula for convenient feeding"" 'end'    |
+
+
+The final answer is: ""Organic Infant Formula Bundle with Dispenser"", ""Parent seeking organic baby formula"", ""Vermont Organics Milk-Based Organic Infant Formula with Iron"", ""formula choice"
+"Snack time essentials bundle
+    This name effectively","- **snack** bundle
+
+**Answer:** Snack time essentials bundle
+
+**Explanation:**","Path:
+     - Mini Thattai, satisfies snack craving, Mullu Tenkuzhal, complements Thattai's flavor, Murukku, completes snack trio,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Snack time essentials bundle
+    This name effectively  
+    Bundle Items: ""Mini Thattai"", ""Mullu Tenkuzhal"", ""Murukku""  
+    Intent: - **snack** bundle
+
+**Answer:** Snack time essentials bundle
+
+**Explanation:**  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - Mini Thattai, satisfies snack craving, Mullu Tenkuzhal, complements Thattai's flavor, Murukku, completes snack trio, end. 
+
+    The path illustrates how the three items logically connect to each other to satisfy the user's intent of having a snack. The reasoning steps are:
+
+    - Mini Thattai satisfies the user's snack craving.
+    - Mullu Tenkuzhal complements the flavor of Mini Thattai.
+    - Muruk"
+"Vegetables for Meal Prep Bundle
+     Bundle of","""Grocery shopping for meal prep""    
+
+
+
+**Note: The intent phrase is a summary of","Path:
+     ""Libby's Organic Sweet Peas, 15-Ounces Cans (Pack of 12)"", ""healthy snack"", ""Green Giant Mixed Vegetable Blend, 15-Ounce (Pack of 6)"", ""veggie mix"", ""Del Monte Whole Kernel Corn, 15 oz (Pack of 6)"", ""side dish"", ""Vegetables for Meal Prep Bundle"", ""grocery shopping"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Vegetables for Meal Prep Bundle
+     Bundle of  
+    Bundle Items: ""Libby's Organic Sweet Peas, 15-Ounces Cans (Pack of 12)"", ""Green Giant Mixed Vegetable Blend, 15-Ounce (Pack of 6)"", ""Del Monte Whole Kernel Corn, 15 oz (Pack of 6)""  
+    Intent: ""Grocery shopping for meal prep""    
+
+
+
+**Note: The intent phrase is a summary of  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Libby's Organic Sweet Peas, 15-Ounces Cans (Pack of 12)"", ""healthy snack"", ""Green Giant Mixed Vegetable Blend, 15-Ounce (Pack of 6)"", ""veggie mix"", ""Del Monte Whole Kernel Corn, 15 oz (Pack of 6)"", ""side dish"", ""Vegetables for Meal Prep Bundle"", ""grocery shopping"" 'end'    
+
+
+
+**Note: The influence path reflects a logical flow of user"
+Bundle of Flavorful Hydration Aids,"hydration aid and flavor enhancer
+
+    Corrected Response:
+    hydration aid and flavor enhancer","Path:
+     Dasani Drops Water Flavor Enhancer Pineapple Coconut 1.9 Fl Oz (Pack of 3), hydrating, Mio Liquid Water Enhancer Cranberry Raspberry 1.62 Ounce (Pack of 4), flavoring, Stur Natural Water Enhancer Variety Pack, variety,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Bundle of Flavorful Hydration Aids  
+    Bundle Items: ""Dasani Drops Water Flavor Enhancer Pineapple Coconut 1.9 Fl Oz (Pack of 3)"", ""Mio Liquid Water Enhancer Cranberry Raspberry 1.62 Ounce (Pack of 4)"", ""Stur Natural Water Enhancer Variety Pack""  
+    Intent: hydration aid and flavor enhancer
+
+    Corrected Response:
+    hydration aid and flavor enhancer  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Dasani Drops Water Flavor Enhancer Pineapple Coconut 1.9 Fl Oz (Pack of 3), hydrating, Mio Liquid Water Enhancer Cranberry Raspberry 1.62 Ounce (Pack of 4), flavoring, Stur Natural Water Enhancer Variety Pack, variety, end
+
+    Explanation:
+    The influence path shows how Dasani Drops (hydrating) influences Mio Liquid (flavoring) which in turn influences Stur Natural (variety) to fulfill"
+"Grain Harvest Delight Bundle
+
+    This name captures","Baking or cooking with grains.   
+
+
+
+Here is the response in the format you requested:
+
+
+Intent","Path:
+     ""Bob's Red Mill Flaked Coconut Unsweetened"", ""cooking with grains"", ""Bob’s Red Mill Rolled Oats"", ""oatmeal baking"", ""Bob's Red Mill Granola"", ""granola baking"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Grain Harvest Delight Bundle
+
+    This name captures  
+    Bundle Items: ""Bob's Red Mill Flaked Coconut Unsweetened, 4 - 12-Ounce Bags"", ""Bob's Red Mill Granola, Apple Cinnamon No Fat, 12-Ounce Bags (Pack of 4)"", ""Bob’s Red Mill Rolled Oats, Whole Grain, 32 oz""  
+    Intent: Baking or cooking with grains.   
+
+
+
+Here is the response in the format you requested:
+
+
+Intent  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Bob's Red Mill Flaked Coconut Unsweetened"", ""cooking with grains"", ""Bob’s Red Mill Rolled Oats"", ""oatmeal baking"", ""Bob's Red Mill Granola"", ""granola baking"" 'end'   
+
+
+
+
+
+Here is the response in the format you requested:
+
+
+    Influence Path:
+    ""Bob's Red Mill Flaked Coconut Unsweetened"", ""cooking with grains"", ""Bob’s Red Mill Rolled Oats"", ""oatmeal baking"", """
+"""Gluten-Free Breakfast Essentials Bundle""","- ""Pancake and Waffle Preparation"" 
+
+    Bundle items: ""Bob's Red Mill","Path:
+     ""Bisquick Pancake and Baking Mix, Gluten-Free, 16-Ounce Boxes (Pack of 3)"", ""Need pancakes"", ""Maple Grove Farms Gluten Free Pancake & Waffle Mix, 16-Ounce Boxes (Pack of 4)"", ""Also want waffles"", ""Gluten-Free Maple Syrup"", ""Taste better with syrup"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Gluten-Free Breakfast Essentials Bundle""  
+    Bundle Items: ""Bisquick Pancake and Baking Mix, Gluten-Free, 16-Ounce Boxes (Pack of 3)"", ""Maple Grove Farms Gluten Free Pancake & Waffle Mix, 16-Ounce Boxes (Pack of 4)"", ""Gluten-Free Maple Syrup""  
+    Intent: - ""Pancake and Waffle Preparation"" 
+
+    Bundle items: ""Bob's Red Mill  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Bisquick Pancake and Baking Mix, Gluten-Free, 16-Ounce Boxes (Pack of 3)"", ""Need pancakes"", ""Maple Grove Farms Gluten Free Pancake & Waffle Mix, 16-Ounce Boxes (Pack of 4)"", ""Also want waffles"", ""Gluten-Free Maple Syrup"", ""Taste better with syrup"" 'end' 
+
+
+
+
+
+Here is the corrected code to meet the requirements:
+
+```python
+bundle_name = ""Gluten-Free"
+"""Gluten-Free Italian Meal Kit with Pasta Sauce","- Gluten-free meal preparation
+     - Pasta sauce accompaniment
+     - Italian-inspired meal creation","Path:
+     - Sam Mills Pasta D'Oro Gluten Free Penne Rigate, 1-Pound (Pack of 6), User needs gluten-free pasta, Gluten-Free Pasta Sauce, User wants Italian-inspired meal, 'end' 
+
+
+
+
+
+Sam Mills Pasta D'Oro Gluten Free Penne Rigate, 1-Pound (Pack of 6), User needs gluten-free pasta, Gluten-Free Pasta Sauce, User wants Italian-inspired meal, '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Gluten-Free Italian Meal Kit with Pasta Sauce  
+    Bundle Items: ""Sam Mills Pasta D'Oro Gluten Free Penne Rigate, 1-Pound (Pack of 6)"", ""Gluten-Free Pasta Sauce""  
+    Intent: - Gluten-free meal preparation
+     - Pasta sauce accompaniment
+     - Italian-inspired meal creation  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - Sam Mills Pasta D'Oro Gluten Free Penne Rigate, 1-Pound (Pack of 6), User needs gluten-free pasta, Gluten-Free Pasta Sauce, User wants Italian-inspired meal, 'end' 
+
+
+
+
+
+Sam Mills Pasta D'Oro Gluten Free Penne Rigate, 1-Pound (Pack of 6), User needs gluten-free pasta, Gluten-Free Pasta Sauce, User wants Italian-inspired meal, 'end' 
+
+
+
+
+
+    The influence path reflects the user's desire"
+"""Middle Eastern Delights Meal Prep Bundle""","""Middle Eastern-inspired meal prep bundle""    
+
+
+
+
+Here is the list of items with their prices:",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Middle Eastern Delights Meal Prep Bundle""  
+    Bundle Items: ""Bob's Red Mill Bulgur Red Wheat Ala, 28-Ounce (Pack of 4)"", ""Yehuda Hummus"", ""Libby's Organic Garbanzo Beans, 15-Ounces Cans (Pack of 12)"", ""Frontier Garlic Powder, 16 Ounce Bags (Pack of 2)"", ""Spicy World Crushed Mint Leaves, 3.5-Ounce Bags (Pack of 6)"", ""Kevala Organic Tahini 16 oz"", ""Spicy World Tellicherry Pepper, 14-Ounce Unit"", ""Cortas Falafel Powder 200gr (7oz)"", ""Olive Oil""  
+    Intent: ""Middle Eastern-inspired meal prep bundle""    
+
+
+
+
+Here is the list of items with their prices:  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Bob's Red Mill Bulgur Red Wheat Ala"", 
+     ""users seek healthy grains"", 
+     ""Libby's Organic Garbanzo Beans, 15-Ounces Cans"", 
+     ""grains often paired with beans"", 
+     ""Yehuda Hummus"", 
+     ""hummus pairs with grains and beans"", 
+     ""Kevala Organic Tahini 16 oz"", 
+     ""hummus often includes tahini"", 
+     ""Frontier Garlic Powder"
+"""""""
+
+
+
+    Here is the bundle: ""F","Mexican-inspired cooking. 
+
+    Here is the bundle: ""Fritos Original Corn Chips, 13","Path:
+     Lawry's Taco Spices & Seasonings, Flavors enhance Mexican-inspired cooking, Cumin Powder, Cumin adds depth to Mexican dishes, Smoked Paprika, Smoked flavor complements Mexican cuisine,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: """"""
+
+
+
+    Here is the bundle: ""F  
+    Bundle Items: ""Lawry's Taco Spices & Seasonings, 1-Ounce Packets (Pack of 24)"", ""Cumin Powder"", ""Smoked Paprika""  
+    Intent: Mexican-inspired cooking. 
+
+    Here is the bundle: ""Fritos Original Corn Chips, 13  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Lawry's Taco Spices & Seasonings, Flavors enhance Mexican-inspired cooking, Cumin Powder, Cumin adds depth to Mexican dishes, Smoked Paprika, Smoked flavor complements Mexican cuisine, end
+
+    """"""
+# Define the bundle and its items
+bundle_name = ""Fritos Original Corn Chips, 13""
+bundle_items = [""Lawry's Taco Spices & Seasonings, 1-Ounce Packets (Pack of 24)"", ""Cumin Powder"", ""Sm"
+"""Wholesome Afternoon Delight""","- Relaxation/Unwind
+     - Health/Nutrition
+     - Social/Special Occ","Path:
+     - Tea Forte Loose Leaf Tea Canister - Jasmine Green 3.5 ounces, Relaxing flavor profile, Organic Silver Needle Loose Leaf White Tea, Calming effect, Premium Loose Leaf Oolong Tea, Complex flavor, end
+
+     - Tea Forte Loose Leaf Tea Canister - Jasmine Green 3.5 ounces, Unique tea experience, Organic Silver Needle Loose Leaf White Tea, Gentle taste, Premium Loose Leaf Oolong Tea, Sophisticated taste,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Wholesome Afternoon Delight""  
+    Bundle Items: ""Tea Forte Loose Leaf Tea Canister - Jasmine Green 3.5 ounces"", ""Organic Silver Needle Loose Leaf White Tea"", ""Premium Loose Leaf Oolong Tea""  
+    Intent: - Relaxation/Unwind
+     - Health/Nutrition
+     - Social/Special Occ  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - Tea Forte Loose Leaf Tea Canister - Jasmine Green 3.5 ounces, Relaxing flavor profile, Organic Silver Needle Loose Leaf White Tea, Calming effect, Premium Loose Leaf Oolong Tea, Complex flavor, end
+
+     - Tea Forte Loose Leaf Tea Canister - Jasmine Green 3.5 ounces, Unique tea experience, Organic Silver Needle Loose Leaf White Tea, Gentle taste, Premium Loose Leaf Oolong Tea, Sophisticated taste, end
+
+     - Tea"
+"Morning Coffee and Creamer Relax Bundle
+
+    Alternatively","""Relaxation and caffeine boost""     or 
+     ""Morning coffee and creamer variety""","Path:
+     Green Mountain Coffee, ""Starts the day"", San Francisco Bay Coffee French Roast, ""Variety adds excitement"", Variety Pack of Coffee Creamers, ""Compliments coffee perfectly"", end
+
+     or
+
+    Influence Path:
+     Green Mountain Coffee, ""Morning pick-me-up"", San Francisco Bay Coffee French Roast, ""Unique flavor experience"", Variety Pack of Coffee Creamers, ""Enhances coffee taste"",","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Morning Coffee and Creamer Relax Bundle
+
+    Alternatively  
+    Bundle Items: ""Green Mountain Coffee"", ""San Francisco Bay Coffee French Roast, 80 OneCup Single Serve Cups"", ""Variety Pack of Coffee Creamers""  
+    Intent: ""Relaxation and caffeine boost""     or 
+     ""Morning coffee and creamer variety""  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Green Mountain Coffee, ""Starts the day"", San Francisco Bay Coffee French Roast, ""Variety adds excitement"", Variety Pack of Coffee Creamers, ""Compliments coffee perfectly"", end
+
+     or
+
+    Influence Path:
+     Green Mountain Coffee, ""Morning pick-me-up"", San Francisco Bay Coffee French Roast, ""Unique flavor experience"", Variety Pack of Coffee Creamers, ""Enhances coffee taste"", end
+
+     or
+
+    Influence Path:
+     Green Mountain Coffee, ""Daily"
+"""Daily Brew Bundle""
+
+    Here is the code","Brewing and serving coffee/tea.    - ""Brew and Save Refillable Single-cup","Path:
+     Brew and Save Refillable Single-cup, Desire for eco-friendly brewing, Green Mountain Coffee Hazelnut Decaf, Preference for decaf coffee, Decaf Tea Deluxe Variety Pack, Variety pack meets decaf needs, Milk Frother, Enhance coffee experience
+
+    ```
+    Brew and Save Refillable Single-cup, Desire for eco-fri","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Daily Brew Bundle""
+
+    Here is the code  
+    Bundle Items: ""Brew and Save Refillable Single-cup (coffee or tea or cider) for Keurig K-Cup Brewers, 2 Count"", ""Green Mountain Coffee Hazelnut Decaf, Light Roasted, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count"", ""Green Mountain Coffee Dark Magic (Extra Bold), K-Cups For Keurig Brewers, 24-count Box"", ""Decaf Tea Deluxe Variety Pack for Keurig K-Cup Brewers, 20 Count"", ""Crazy Cups Wolfgang Puck Sampler, K-Cup Portion Pack for Keurig K-Cup Brewers (Pack of 35)"", ""San Francisco Bay Coffee Breakfast Blend, 80 OneCup Single Serve Cups"", ""San Francisco Bay Coffee Fog Chaser, 12-Count OneCup Single Serve Cups (Pack of 3)"", ""Milk Frother""  
+    Intent: Brewing and serving coffee/tea.    - ""Brew and Save Refillable Single-cup  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Brew and Save Refillable Single-cup, Desire for eco-friendly brewing, Green Mountain Coffee Hazelnut Decaf, Preference for decaf coffee, Decaf Tea Deluxe Variety Pack, Variety pack meets decaf needs, Milk Frother, Enhance coffee experience
+
+    ```
+    Brew and Save Refillable Single-cup, Desire for eco-friendly brewing, Green Mountain Coffee Hazelnut Decaf, Preference for decaf coffee, Decaf Tea Deluxe Variety Pack, Variety pack meets decaf"
+"""Coffee Break Essentials Bundle"" 
+
+    The name","""coffee and coffee-related item assortment""   
+
+
+
+
+Here is the problem with the provided intent:
+
+The","Path:
+    
+
+
+
+Here is the solution with the correct output format:
+
+
+Green Mountain Coffee Hazelnut Decaf, User wants a decaf coffee, Green Mountain Coffee Dark Magic (Extra Bold), User prefers a bold coffee, San Francisco Bay Coffee Breakfast Blend, User wants a morning coffee, Variety Pack of Coffee Sweeteners (Sugar, Stevia, Honey), User wants to customize their coffee,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Coffee Break Essentials Bundle"" 
+
+    The name  
+    Bundle Items: ""Green Mountain Coffee Hazelnut Decaf, Light Roasted, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count"", ""Green Mountain Coffee Dark Magic (Extra Bold), K-Cups For Keurig Brewers, 24-count Box"", ""San Francisco Bay Coffee Breakfast Blend, 80 OneCup Single Serve Cups"", ""Variety Pack of Coffee Sweeteners (Sugar, Stevia, Honey)""  
+    Intent: ""coffee and coffee-related item assortment""   
+
+
+
+
+Here is the problem with the provided intent:
+
+The  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+    
+
+
+
+Here is the solution with the correct output format:
+
+
+Green Mountain Coffee Hazelnut Decaf, User wants a decaf coffee, Green Mountain Coffee Dark Magic (Extra Bold), User prefers a bold coffee, San Francisco Bay Coffee Breakfast Blend, User wants a morning coffee, Variety Pack of Coffee Sweeteners (Sugar, Stevia, Honey), User wants to customize their coffee, end. 
+
+In this solution, I have constructed an influence path where each item logically connects to the next one in service"
+"""Little Bites for Little Hands""","""Healthy Snacking for Kids""    
+
+
+
+**Note:** The answer is already given. You just",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Little Bites for Little Hands""  
+    Bundle Items: ""Kellogg's Harvest Acres Fruit Snacks, Mixed Fruit, 8 Ounce (Pack of 10)"", ""Kellogg's Fruity Snacks, Mixed Berry, 16 Ounce (Pack of 6)"", ""Annie's Organic Fruit Snacks Variety Pack""  
+    Intent: ""Healthy Snacking for Kids""    
+
+
+
+**Note:** The answer is already given. You just  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Kellogg's Harvest Acres Fruit Snacks, Looking for healthy options, Annie's Organic Fruit Snacks Variety Pack, Seeking organic choices, Kellogg's Fruity Snacks, Meeting snacking needs, Kellogg's Fruity Snacks, Appealing to kids, Kellogg's Harvest Acres Fruit Snacks, Satisfying fruit cravings, Annie's Organic Fruit Snacks Variety Pack, End
+
+
+
+**Note:** The answer is already given. You just have to copy it.  
+
+**Your"
+"""Sweet Treat Bundle""    (example response)","""Satisfy sweet snack cravings""    (Keebler cookies are likely being bundled for sn","Path:
+     Keebler El Duende Cookies, Satisfies sweet craving, Keebler Simply Made Cookies, Matches chocolate chip preference, Keebler Fudge Stripes Cookies, Completes cookie assortment '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Sweet Treat Bundle""    (example response)  
+    Bundle Items: ""Keebler El Duende Cookies, Coconut, 11 Ounce (Pack of 12)"", ""Keebler Simply Made Cookies, Chocolate Chip, 10 Ounce"", ""Keebler Fudge Stripes Cookies""  
+    Intent: ""Satisfy sweet snack cravings""    (Keebler cookies are likely being bundled for sn  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Keebler El Duende Cookies, Satisfies sweet craving, Keebler Simply Made Cookies, Matches chocolate chip preference, Keebler Fudge Stripes Cookies, Completes cookie assortment 'end
+
+    NOTE: Since the intent is to satisfy sweet snack cravings, we are prioritizing items that are most directly related to that intent. The influence path reflects this prioritization.  
+
+    Parameters:
+    bundle_name (str): The name of the bundle.
+    bundle_items (list): A list of items"
+"""Convenient On-The-Go Snack Bundle","""Snack for on-the-go convenience"" 
+
+     Note: This response is generated based on the","Path:
+     Cheez-It Cracker Cup, Need quick snack, Cheez-It White Cheddar Crackers, Cracker fans love variety, end
+
+     Please note, the influence path is not an actual recommendation or","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Convenient On-The-Go Snack Bundle  
+    Bundle Items: ""Cheez-It Cracker Cup, Original, 2.2 Ounce (Pack of 10)"", ""Cheez-It White Cheddar Crackers""  
+    Intent: ""Snack for on-the-go convenience"" 
+
+     Note: This response is generated based on the  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Cheez-It Cracker Cup, Need quick snack, Cheez-It White Cheddar Crackers, Cracker fans love variety, end
+
+     Please note, the influence path is not an actual recommendation or endorsement. It is constructed based on a fictional product bundle and user intent. 
+
+    Here is the code that generates the influence path:
+
+```python
+def influence_path(bundle_name, bundle_items, intent):
+    # Define the influence path based on the bundle name and items
+    influence"
+"""Pasta Bundle""
+
+    Return a list of",To prepare a pasta meal.,,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Pasta Bundle""
+
+    Return a list of  
+    Bundle Items: ""Barilla Elbow Pasta, 16 Ounce Boxes (Pack of 16)"", ""Ferrara Pasta, Penne (Mostacioli), 1-Pound (Pack of 20)"", ""Marinara Pasta Sauce""  
+    Intent: To prepare a pasta meal.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Barilla Elbow Pasta, reason: staple pasta, Marinara Pasta Sauce, reason: pasta sauce, Ferrara Pasta, reason: pasta shape, Barilla Elbow Pasta, reason: initial pasta
+
+
+    """"""
+
+    influence_path = [
+        ""Barilla Elbow Pasta, staple pasta"",
+        ""Marinara Pasta Sauce, pasta sauce"",
+        ""Ferrara Pasta, pasta shape"",
+        ""Barilla Elbow Pasta, initial pasta""
+    ]
+
+    return ', '.join(influence"
+"""Dessert Delights Bundle""
+    The","baking or dessert creation
+
+    Here's the same task but with a different bundle:
+
+    Bundle items","Path:
+     ""Jell-O Cook and Serve Pudding and Pie Filling, Lemon, 4.3-Ounce Boxes (Pack of 6)"", ""User wants dessert"", ""Duncan Hines Signature Spice Cake Mix, 16.50-Ounce Boxes (Pack of 6)"", ""Cakes needed for dessert"", ""Whipped Topping Mix or Vanilla Frosting"", ""Topping needed for dessert"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Dessert Delights Bundle""
+    The  
+    Bundle Items: ""Jell-O Cook and Serve Pudding and Pie Filling, Lemon, 4.3-Ounce Boxes (Pack of 6)"", ""Duncan Hines Signature Spice Cake Mix, 16.50-Ounce Boxes (Pack of 6)"", ""Whipped Topping Mix or Vanilla Frosting""  
+    Intent: baking or dessert creation
+
+    Here's the same task but with a different bundle:
+
+    Bundle items  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Jell-O Cook and Serve Pudding and Pie Filling, Lemon, 4.3-Ounce Boxes (Pack of 6)"", ""User wants dessert"", ""Duncan Hines Signature Spice Cake Mix, 16.50-Ounce Boxes (Pack of 6)"", ""Cakes needed for dessert"", ""Whipped Topping Mix or Vanilla Frosting"", ""Topping needed for dessert"" 'end' 
+
+     ""Dessert Delights Bundle"", ""User wants dessert"
+"'The Ultimate Ghost Pepper Challenge Bundle'
+
+     Is","""Spice enthusiasts seeking a challenge""",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: 'The Ultimate Ghost Pepper Challenge Bundle'
+
+     Is  
+    Bundle Items: ""The Spice Lab Ghost Pepper Salt Naga Jolokia- Really Hot, 4 oz."", ""Bhut Jolokia (Ghost) Powder - Very Hot"", ""Mad Dog 357 Ghost Pepper Hot Sauce"", ""Ghost Pepper Whole Dried Pods""  
+    Intent: ""Spice enthusiasts seeking a challenge""  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     The Spice Lab Ghost Pepper Salt Naga Jolokia- Really Hot, 4 oz., user seeks intense flavor, Mad Dog 357 Ghost Pepper Hot Sauce, enhances flavor with extreme heat, Bhut Jolokia (Ghost) Powder - Very Hot, adds depth to dishes, user seeks challenge, The Spice Lab Ghost Pepper Salt Naga Jolokia- Really Hot, 4 oz., user seeks variety, Ghost Pepper Whole Dried Pods, adds heat to recipes, user seeks experience,"
+Seasonal Bread Bundle for the Home Baker,"""Bake seasonal breads at home"" 
+
+     Why? 
+     These two items are both","Path:
+     ""Trader Joe's Banana Bread Mix"", ""users prefer variety"", ""Trader Joe's Pumpkin Bread & Muffin Mix"", ""users seek seasonal"", ""end""    
+
+
+
+Trader Joe's Banana Bread Mix, users prefer variety, Trader Joe's Pumpkin Bread & Muffin Mix, users seek seasonal, end    
+
+
+
+Trader Joe's Banana Bread Mix, users prefer variety, Trader Joe's Pumpkin Bread & Muffin Mix, users seek seasonal,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Seasonal Bread Bundle for the Home Baker  
+    Bundle Items: ""Trader Joe's Banana Bread Mix"", ""Trader Joe's Pumpkin Bread & Muffin Mix""  
+    Intent: ""Bake seasonal breads at home"" 
+
+     Why? 
+     These two items are both  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Trader Joe's Banana Bread Mix"", ""users prefer variety"", ""Trader Joe's Pumpkin Bread & Muffin Mix"", ""users seek seasonal"", ""end""    
+
+
+
+Trader Joe's Banana Bread Mix, users prefer variety, Trader Joe's Pumpkin Bread & Muffin Mix, users seek seasonal, end    
+
+
+
+Trader Joe's Banana Bread Mix, users prefer variety, Trader Joe's Pumpkin Bread & Muffin Mix, users seek seasonal, end    
+
+
+
+Trader Joe's Banana Bread Mix,"
+"Speculoos Sunrise Bundle
+
+    Here's why","- breakfast
+     - dessert
+     - snack
+     - meal prep
+     - baking","Path:
+     ""Trader Joe's Speculoos Cookie Butter"", ""sweet breakfast treat"", ""Trader Joe's Apple & Cinnamon Naturally Flavored Instant Oatmeal (2 Pack)"", ""morning meal prep"", ""Trader Joe's Organic Maple Syrup"", ""baked breakfast topping"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Speculoos Sunrise Bundle
+
+    Here's why  
+    Bundle Items: ""Trader Joe's Speculoos Cookie Butter"", ""Trader Joe's Apple & Cinnamon Naturally Flavored Instant Oatmeal (2 Pack)"", ""Trader Joe's Organic Maple Syrup""  
+    Intent: - breakfast
+     - dessert
+     - snack
+     - meal prep
+     - baking  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Trader Joe's Speculoos Cookie Butter"", ""sweet breakfast treat"", ""Trader Joe's Apple & Cinnamon Naturally Flavored Instant Oatmeal (2 Pack)"", ""morning meal prep"", ""Trader Joe's Organic Maple Syrup"", ""baked breakfast topping"" 'end'
+
+     Here's why:
+     - The user is looking for a sweet breakfast treat, which leads them to the cookie butter.
+     - The cookie butter is a key component in morning meal prep, which leads them"
+"Indulge in our Chocolate Variety Pack
+
+
+
+Here","- ""Treat seekers looking for variety"" 
+
+    Please see the items and infer the intent:",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Indulge in our Chocolate Variety Pack
+
+
+
+Here  
+    Bundle Items: ""Chocolate Bar Variety Pack - 30 ct"", ""Dark Chocolate Sampler Pack""  
+    Intent: - ""Treat seekers looking for variety"" 
+
+    Please see the items and infer the intent:  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Chocolate Bar Variety Pack - 30 ct"", 
+     ""seeking variety"", 
+     ""Dark Chocolate Sampler Pack"", 
+     ""explore flavors"", 
+     ""Treat seekers looking for variety"" 
+
+    Note: In this example, the intent ""Treat seekers looking for variety"" is inferred from the bundle name and items.
+
+    Bundle Name: Indulge in our Chocolate Variety Pack
+    Bundle Items: ""Chocolate Bar Variety Pack - 30 ct"", ""Dark Chocolate Sampler"
+"Summer Soup Essentials Bundle
+
+    Bundle items: ""","A ""summer soup"" or ""summertime soup"" bundle. 
+
+     The bundle items seem to","Path:
+     Le Sueur Early June Peas, fresh for summer soups, Del Monte Diced Tomatoes Basil, adds flavor, Canned Corn, sweetens the broth, Vegetable Broth, base for soup, Canned Black Beans, adds protein '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Summer Soup Essentials Bundle
+
+    Bundle items: ""  
+    Bundle Items: ""Le Sueur Early June Peas, 15-Ounce (Pack of 8)"", ""Del Monte Diced Tomatoes Basil, Garlic and Oregano, 14.5-Ounce (Pack of 8)"", ""Canned Corn"", ""Canned Black Beans"", ""Vegetable Broth""  
+    Intent: A ""summer soup"" or ""summertime soup"" bundle. 
+
+     The bundle items seem to  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Le Sueur Early June Peas, fresh for summer soups, Del Monte Diced Tomatoes Basil, adds flavor, Canned Corn, sweetens the broth, Vegetable Broth, base for soup, Canned Black Beans, adds protein 'end' 
+
+    Explanation:
+    The influence path starts with a fresh summer ingredient, peas, which is essential for a summer soup. This is followed by a key flavor component, diced tomatoes, which adds a savory taste. The sweetness of corn is"
+"Kitchen Pantry Staples Bundle
+
+     Here's the","Baking and Cooking Essentials Bundle
+
+     Corrected response:
+     Baking and Cooking Supplies Bundle","Path:
+     Crisco Pure Vegetable Oil, 128 Ounce (Pack of 4), Cooking, All-Purpose Flour, Baking, Baking Powder,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Kitchen Pantry Staples Bundle
+
+     Here's the  
+    Bundle Items: ""Morton Iodized Table Salt - 4lb. box"", ""Domino Sugar, Granulated, 10-Pound Bags"", ""Crisco Pure Vegetable Oil, 128 Ounce (Pack of 4)"", ""Crisco Butter Flavor Non-Stick Cooking Spray - 3 Pack"", ""All-Purpose Flour"", ""Baking Powder"", ""Honey or Brown Sugar""  
+    Intent: Baking and Cooking Essentials Bundle
+
+     Corrected response:
+     Baking and Cooking Supplies Bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Crisco Pure Vegetable Oil, 128 Ounce (Pack of 4), Cooking, All-Purpose Flour, Baking, Baking Powder, end
+
+     Here is the code:
+
+```python
+# Influence Path Construction
+def influence_path(bundle_items, intent):
+    # Define relationships between items
+    relationships = {
+        ""Crisco Pure Vegetable Oil, 128 Ounce (Pack of 4)"": [""Cooking"", ""All-Purpose Flour""],
+        ""All-Purpose Flour"
+"""Kitchen Essentials Bundle""    
+
+
+
+
+
+ Here's the","Baking or cooking essentials bundle.    
+
+
+
+     What type of food products are commonly associated with the","Path:
+     ""Morton Iodized Table Salt - 4lb. box"", ""used in"", ""Domino Sugar, Granulated, 10-Pound Bags"", ""adds sweetness"", ""All-Purpose Flour"", ""makes dough"", ""Baking Powder or Baking Soda"", ""leavening agent"", ""Cooking Oil (Vegetable or Olive Oil)"", ""bakes food"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Kitchen Essentials Bundle""    
+
+
+
+
+
+ Here's the  
+    Bundle Items: ""Morton Iodized Table Salt - 4lb. box"", ""Domino Sugar, Granulated, 10-Pound Bags"", ""All-Purpose Flour"", ""Baking Powder or Baking Soda"", ""Cooking Oil (Vegetable or Olive Oil)""  
+    Intent: Baking or cooking essentials bundle.    
+
+
+
+     What type of food products are commonly associated with the  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Morton Iodized Table Salt - 4lb. box"", ""used in"", ""Domino Sugar, Granulated, 10-Pound Bags"", ""adds sweetness"", ""All-Purpose Flour"", ""makes dough"", ""Baking Powder or Baking Soda"", ""leavening agent"", ""Cooking Oil (Vegetable or Olive Oil)"", ""bakes food"" 'end' 
+
+
+
+
+
+Here is the corrected version of the code that reflects the given output format:
+
+```"
+"Winter Wonderland Tea Bundle for Holiday Cheer
+    Alternative","Shopping for holiday tea supplies.
+
+     Alternative intent:
+     Gifting herbal tea enthusiast.
+
+     Alternative intent","Path:
+     Celestial Seasonings Sugar Plum Spice, ""Shopping for holiday tea supplies"", Celestial Seasonings Herb Tea, ""Holiday party"", Celestial Seasonings Bengal Spice Tea, ""Impress guests"", Celestial Seasonings Honey Vanilla Chamomile Tea, ""Relaxation"",","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Winter Wonderland Tea Bundle for Holiday Cheer
+    Alternative  
+    Bundle Items: ""Celestial Seasonings Sugar Plum Spice, Christmas Herb Tea, 20 Count (Pack of 6)"", ""Celestial Seasonings Herb Tea, Country Peach Passion, 20 Count (Pack of 6)"", ""Celestial Seasonings Bengal Spice Tea, 20 Count (Pack of 6)"", ""Celestial Seasonings Honey Vanilla Chamomile Tea, 20 Count (Pack of 6)""  
+    Intent: Shopping for holiday tea supplies.
+
+     Alternative intent:
+     Gifting herbal tea enthusiast.
+
+     Alternative intent  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Celestial Seasonings Sugar Plum Spice, ""Shopping for holiday tea supplies"", Celestial Seasonings Herb Tea, ""Holiday party"", Celestial Seasonings Bengal Spice Tea, ""Impress guests"", Celestial Seasonings Honey Vanilla Chamomile Tea, ""Relaxation"", end."
+"""Noodle Variety Bundle""    
+
+
+
+Here is","To prepare a variety noodle meals.    
+
+
+
+
+Answer: Variety noodle meal preparation bundle.",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Noodle Variety Bundle""    
+
+
+
+Here is  
+    Bundle Items: ""Nongshim Chapagetti Chajang Noodle, 4.5 Ounce (Pack of 24)"", ""Nongshim Neoguri Spicy Seafood Noodle Ramyun, 4.2 Ounce Packages (Pack of 20)"", ""Nongshim Shin Ramyun Black Noodle Soup, 4.58 Ounce Packages (Pack of 18)"", ""Nongshim Shin Noodle Ramyun Gourmet Spicy, 4.2-Ounce Packages, 20-Count"", ""Nongshim Hot and Spicy Noodle Soup: Ansung Tangmyun"", ""Nongshim Kimchi Ramyun, 4.2-Ounce Packages (Pack of 16)"", ""Nongshim Soon Veggie Noodle Soup (Vegan), 3.95-Ounce Packages (Pack of 20)""  
+    Intent: To prepare a variety noodle meals.    
+
+
+
+
+Answer: Variety noodle meal preparation bundle.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Nongshim Chapagetti Chajang Noodle, Prepare variety noodle meals, Nongshim Neoguri Spicy Seafood Noodle Ramyun, Add spicy seafood option, Nongshim Shin Ramyun Black Noodle Soup, Add black noodle soup, Nongshim Shin Noodle Ramyun Gourmet Spicy, Add gourmet spicy option, Nongshim Hot and Spicy Noodle Soup: Ansung Tangmyun, Add Ansung Tangmy"
+- Sweet Treats for the Young and Young at,"""Treat and entertain with sweets""     or
+     ""Indulge in a nostalgic candy",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: - Sweet Treats for the Young and Young at  
+    Bundle Items: ""YummyEarth Organic Lollipops, Assorted Flavors, 5-Pound Bag"", ""Swerseys Chocolate 1940's-1970's Nostalgic Candy Assortment Gift Box, Number 62, 1.5 Pound"", ""Ghirardelli Premium Chocolate Assortment, 15.9-Ounce Gift Box"", ""Jelly Belly 49-Flavor Jelly Beans Gift Box, 21-Ounce""  
+    Intent: ""Treat and entertain with sweets""     or
+     ""Indulge in a nostalgic candy  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - Sweet Treats for the Young and Young at Heart Bundle, ""Treat and entertain with sweets"", Jelly Belly 49-Flavor Jelly Beans Gift Box, ""Delight children with fun flavors"", Ghirardelli Premium Chocolate Assortment, ""Satisfy sweet tooth with classic chocolate"", Swerseys Chocolate 1940's-1970's Nostalgic Candy Assortment, ""Indulge in nostalgic candy memories"", YummyEarth Organic Lollipops,"
+Dried Fruit Delights Pack,"Snacking on dried fruit.    
+
+
+
+
+
+Answer: Healthy on-the-go snacking options.","Path:
+     Dried Fruit Delights Pack, healthy snacking, Crunchies Freeze-Dried Fruit Snack, organic fruit, Sun Maid Fruit Bits, wholesome choice, Kirkland Signature Whole Dried Blueberries, antioxidant boost, Natierra Organic Freeze-Dried Strawberries, natural sweetness","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Dried Fruit Delights Pack  
+    Bundle Items: ""Crunchies Freeze-Dried Fruit Snack, Pineapple, 1.5-Ounce Pouches (Pack of 6)"", ""Sun Maid Fruit Bits, 7-Ounce Bags (Pack of 6)"", ""Kirkland Signature Whole Dried Blueberries, 20-Ounce Bag"", ""Natierra Organic Freeze-Dried Strawberries, 1.2-Ounce Bags (Pack of 6)""  
+    Intent: Snacking on dried fruit.    
+
+
+
+
+
+Answer: Healthy on-the-go snacking options.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Dried Fruit Delights Pack, healthy snacking, Crunchies Freeze-Dried Fruit Snack, organic fruit, Sun Maid Fruit Bits, wholesome choice, Kirkland Signature Whole Dried Blueberries, antioxidant boost, Natierra Organic Freeze-Dried Strawberries, natural sweetness end    
+
+
+
+    Influence Path: Dried Fruit Delights Pack, healthy snacking, Crunchies Freeze-Dried Fruit Snack, organic fruit, Sun Maid Fruit Bits, wholesome choice, Kirkland Signature Whole Dried Blue"
+"""Healthy Snack Options Bundle""","""Healthy Snack Options Bundle""    
+
+
+
+**Note:** You can infer the intent by analyzing the","Path:
+     Raw Pepitas, Supports Healthy Eating, Oranges Slices, Provides Essential Vitamins, Jansal Valley Raw Slivered Almonds, Offers Crunchy Snack, Raw Walnuts, Enhances Brain Function, Dried Cranberries, Adds Sweet Taste '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Healthy Snack Options Bundle""  
+    Bundle Items: ""Raw Pepitas / No Shell Pumpkin Seeds (16oz bag)"", ""Oranges Slices: 5LBS"", ""Jansal Valley Raw Slivered Almonds, 1 Pound"", ""Raw Walnuts, 1 Pound Bag"", ""Dried Cranberries, 12-Ounce Bag""  
+    Intent: ""Healthy Snack Options Bundle""    
+
+
+
+**Note:** You can infer the intent by analyzing the  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Raw Pepitas, Supports Healthy Eating, Oranges Slices, Provides Essential Vitamins, Jansal Valley Raw Slivered Almonds, Offers Crunchy Snack, Raw Walnuts, Enhances Brain Function, Dried Cranberries, Adds Sweet Taste 'end
+
+    **Note:** This is a very simple example. Real-world influence paths can be much longer and more complex.    
+
+
+
+
+### Step 1: Identify the primary concern of the user
+The user is looking for a bundle that"
+1. Wholesome Crunch Wellness Bundle,"- Healthy Snack Bundle
+     - Wellness Focused Food Bundle
+     - Nutrient Dense Food","Path:
+     - Raw Pepitas, Healthy Snack, Side Mates Couscous, Mealtime, NOW Foods Sunflower Seeds, Wellness, Jansal Valley Almonds, Nutrient, Chia Seeds, Boost, Quinoa, Complete,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: 1. Wholesome Crunch Wellness Bundle  
+    Bundle Items: ""Raw Pepitas / No Shell Pumpkin Seeds (16oz bag)"", ""Side Mates Traditional Couscous in Canister, Plain, 27 Ounce"", ""NOW Foods SUNFLOWER SEEDS HULLED RAW 1 LB"", ""Jansal Valley Raw Slivered Almonds, 1 Pound"", ""Chia Seeds, 1 Pound Bag"", ""Quinoa, 1-Pound Bag""  
+    Intent: - Healthy Snack Bundle
+     - Wellness Focused Food Bundle
+     - Nutrient Dense Food  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - Raw Pepitas, Healthy Snack, Side Mates Couscous, Mealtime, NOW Foods Sunflower Seeds, Wellness, Jansal Valley Almonds, Nutrient, Chia Seeds, Boost, Quinoa, Complete, end
+
+    Explanation:  
+    Raw Pepitas is chosen as a healthy snack, which leads to considering Side Mates Couscous for a balanced meal, further reinforcing the importance of NOW Foods Sunflower Seeds for wellness. The reasoning continues with Jansal"
+"""Healthy Snack Bundle For A Balanced Lifestyle""","- ""Healthy Snacking""
+
+    Note: You may need to analyze the contents of the bundle to","Path:
+     Oranges Slices: 5LBS, Healthy Snacking, Jansal Valley Raw Slivered Almonds, Crunchy Texture, Dried Cranberries, Natural Sweetness, Raw Walnuts, Brain Health,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Healthy Snack Bundle For A Balanced Lifestyle""  
+    Bundle Items: ""Oranges Slices: 5LBS"", ""Jansal Valley Raw Slivered Almonds, 1 Pound"", ""Dried Cranberries, 12-Ounce Bag"", ""Raw Walnuts, 1 Pound Bag""  
+    Intent: - ""Healthy Snacking""
+
+    Note: You may need to analyze the contents of the bundle to  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Oranges Slices: 5LBS, Healthy Snacking, Jansal Valley Raw Slivered Almonds, Crunchy Texture, Dried Cranberries, Natural Sweetness, Raw Walnuts, Brain Health, end.  
+
+
+
+
+
+**Bundle Name:** ""Healthy Snack Bundle For A Balanced Lifestyle""
+**Bundle Items:** ""Oranges Slices: 5LBS"", ""Jansal Valley Raw Slivered Almonds, 1 Pound"", ""Dried Cranberries, 12"
+"Kids Mealtime Essentials Bundle
+     Bundle name must","**Bundle intent:** Healthy Kids Meal Options Bundle
+
+**Bundle intent:** Kids Mealtime Essentials Bundle","Path:
+     Good2Grow Fruit Juice, Tropical Fruit Medley, 6 Count (Pack of 4), 'Healthy kids drinks', Good2Grow Fruit Juice, Apple, 6 Count (Pack of 4), 'Variety in juice', Good2Grow Fruit Juice, Strawberry Kiwi, 6 Count (Pack of 4), 'Kid-fri","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Kids Mealtime Essentials Bundle
+     Bundle name must  
+    Bundle Items: ""Good2Grow Fruit Juice, Tropical Fruit Medley, 6 Count (Pack of 4)"", ""Good2Grow Fruit Juice, Apple, 6 Count (Pack of 4)"", ""Good2Grow Fruit Juice, Strawberry Kiwi, 6 Count (Pack of 4)"", ""Good2Grow Fruit Juice, Grape, 6 Count (Pack of 4)"", ""Good2Grow Reusable Character Tops (Pack of 6)""  
+    Intent: **Bundle intent:** Healthy Kids Meal Options Bundle
+
+**Bundle intent:** Kids Mealtime Essentials Bundle  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Good2Grow Fruit Juice, Tropical Fruit Medley, 6 Count (Pack of 4), 'Healthy kids drinks', Good2Grow Fruit Juice, Apple, 6 Count (Pack of 4), 'Variety in juice', Good2Grow Fruit Juice, Strawberry Kiwi, 6 Count (Pack of 4), 'Kid-friendly flavors', Good2Grow Fruit Juice, Grape, 6 Count (Pack of 4), 'Fun juice flavors', Good2Grow Reusable Character"
+"dairyfree bliss bundle
+
+
+    This name captures the","Answer:
+Dairy-free and vegan-friendly product bundle.",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: dairyfree bliss bundle
+
+
+    This name captures the  
+    Bundle Items: ""So Delicious Dairy Free - Organic Coconut Milk Beverage Organic Unsweetened, 32-Ounce (Pack of 6)"", ""So Delicious - Chocolate Coconut Milk Beverage Single Serve, 8 oz (Pack of 24)"", ""So Delicious Vanilla Coconut Milk 32oz (Pack of 12)"", ""So Delicious Coconut Creamer, Original (32oz, Pack of 6)"", ""So Delicious Coconut Yogurt Alternative, Vanilla (5.3oz, Pack of 12)""  
+    Intent: Answer:
+Dairy-free and vegan-friendly product bundle.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     So Delicious Dairy Free - Organic Coconut Milk Beverage Organic Unsweetened, 32-Ounce (Pack of 6), user seeking dairy free milk, So Delicious - Chocolate Coconut Milk Beverage Single Serve, 8 oz (Pack of 24), complements dairy free milk, So Delicious Vanilla Coconut Milk 32oz (Pack of 12), pairs with chocolate, So Delicious Coconut Creamer, Original (32oz, Pack of 6), enhances dairy free creamer, So Delicious Coconut Yogurt"
+"Vegan Essentials Bundle
+    End of response.","A vegan, dairy-free lifestyle enthusiast.    |
+
+
+**Your response should be:**
+
+Vegan","Path:
+     Sambazon Blended Breakfast Smoothie, Healthy morning start, So Delicious Dairy Free, Complement breakfast, So Delicious - Chocolate Coconut Milk Beverage, Indulge in chocolate, Califia Farms Almond Barista Blend, Coffee creamer alternative, Harmless Harvest Organic Coconut Water, Refresh after exercise, end.  
+
+
+
+    |
+
+
+
+**Your response should be:**
+
+Influence Path:
+Sambazon Bl","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Vegan Essentials Bundle
+    End of response.  
+    Bundle Items: ""Sambazon Blended Breakfast Smoothie 10.5 fl oz (12 Pack)"", ""So Delicious Dairy Free - Organic Coconut Milk Beverage Organic Unsweetened, 32-Ounce (Pack of 6)"", ""So Delicious - Chocolate Coconut Milk Beverage Single Serve, 8 oz (Pack of 24)"", ""So Delicious Vanilla Coconut Milk 32oz (Pack of 12)"", ""Califia Farms Almond Barista Blend (32oz, Pack of 6)"", ""Harmless Harvest Organic Coconut Water (12oz, Pack of 6)""  
+    Intent: A vegan, dairy-free lifestyle enthusiast.    |
+
+
+**Your response should be:**
+
+Vegan  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Sambazon Blended Breakfast Smoothie, Healthy morning start, So Delicious Dairy Free, Complement breakfast, So Delicious - Chocolate Coconut Milk Beverage, Indulge in chocolate, Califia Farms Almond Barista Blend, Coffee creamer alternative, Harmless Harvest Organic Coconut Water, Refresh after exercise, end.  
+
+
+
+    |
+
+
+
+**Your response should be:**
+
+Influence Path:
+Sambazon Blended Breakfast Smoothie, Healthy morning start, So Delicious Dairy Free, Complement breakfast"
+"""Healthy Cooking Essentials Bundle""   
+
+
+
+Here is","Cooking and food preparation primarily.   
+
+
+
+    Bundle items: ""Dietary Works Organic Coconut Water",,"
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Healthy Cooking Essentials Bundle""   
+
+
+
+Here is  
+    Bundle Items: ""Nutiva Organic Extra Virgin Coconut Oil, 15-Ounce (Pack of 2)"", ""La Tourangelle Organic Canola Oil, 16.9-Ounce Tins (Pack of 3)"", ""La Tourangelle Organic Avocado Oil, 16.9-Ounce Tin (Pack of 3)"", ""California Olive Ranch Extra Virgin Olive Oil, 16.9 oz (Pack of 2)"", ""Chosen Foods 100% Pure Avocado Oil Spray, 4.7 oz (Pack of 3)""  
+    Intent: Cooking and food preparation primarily.   
+
+
+
+    Bundle items: ""Dietary Works Organic Coconut Water  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Nutiva Organic Extra Virgin Coconut Oil, 15-Ounce (Pack of 2)"", ""Healthy cooking requires healthy oils."", ""La Tourangelle Organic Canola Oil, 16.9-Ounce Tins (Pack of 3)"", ""Versatile canola oil for various dishes."", ""La Tourangelle Organic Avocado Oil, 16.9-Ounce Tin (Pack of 3)"", ""Avocado oil for high-heat cooking needs."", ""California Olive Ranch Extra Virgin"
+"Kitchen Essentials Bundle for the Baker
+
+    Here is","baking
+
+    Note: This response format is a direct result of the specific requirements of the task,","Path:
+     Nutiva Organic Extra Virgin Coconut Oil, helps bake, Hidden Springs Maple Vermont Maple Syrup, adds flavor, Great River Organic Milling, provides flour, Bob’s Red Mill Baking Soda, helps rise, Kirkland Signature Pure Vanilla Extract, adds taste,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Kitchen Essentials Bundle for the Baker
+
+    Here is  
+    Bundle Items: ""Nutiva Organic Extra Virgin Coconut Oil, 15-Ounce (Pack of 2)"", ""Hidden Springs Maple Vermont Maple Syrup, 1 Pint - Fancy Grade - Light Amber"", ""Great River Organic Milling, Organic Specialty All Purpose Whole Wheat Flour, 25-Pound Package"", ""Bob’s Red Mill Baking Soda, 16 oz (Pack of 2)"", ""Kirkland Signature Pure Vanilla Extract, 16 oz""  
+    Intent: baking
+
+    Note: This response format is a direct result of the specific requirements of the task,  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Nutiva Organic Extra Virgin Coconut Oil, helps bake, Hidden Springs Maple Vermont Maple Syrup, adds flavor, Great River Organic Milling, provides flour, Bob’s Red Mill Baking Soda, helps rise, Kirkland Signature Pure Vanilla Extract, adds taste, end
+
+    Influence Path:
+    Nutiva Organic Extra Virgin Coconut Oil, helps bake, Hidden Springs Maple Vermont Maple Syrup, adds flavor, Great River Organic Milling, provides flour, Bob’s Red Mill Baking Soda, helps rise"
+"""Garden Delights, Ready When You Are","- ""Preservation of Garden Produce""     or
+     - ""Preparation for Winter Meals""","Path:
+     - Mother Earth Products Dried Zucchini, Preserving garden zucchini, Mother Earth Products Dried Celery, Preparing winter soups, Mother Earth Products Dried Tomato Dices, Enhancing winter meals, Mother Earth Products Dried Garlic, Adding flavor to soups, Mother Earth Products Dried Mushrooms, Adding earthy flavor to meals, Mother Earth Products Dried Leek Rings, Enhancing winter soups,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Garden Delights, Ready When You Are  
+    Bundle Items: ""Mother Earth Products Dried Zucchini, 1 Full Quart"", ""Mother Earth Products Dried Leek Rings, Green Onions, 1 Full Quart"", ""Mother Earth Products Dried Celery, Crosscut, 1 Full Quart"", ""Mother Earth Products Dried Tomato Dices, 1 Full Quart"", ""Mother Earth Products Dried Garlic, Granulated, 1 Full Quart"", ""Mother Earth Products Dried Mushrooms, 1 Full Quart""  
+    Intent: - ""Preservation of Garden Produce""     or
+     - ""Preparation for Winter Meals""  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     - Mother Earth Products Dried Zucchini, Preserving garden zucchini, Mother Earth Products Dried Celery, Preparing winter soups, Mother Earth Products Dried Tomato Dices, Enhancing winter meals, Mother Earth Products Dried Garlic, Adding flavor to soups, Mother Earth Products Dried Mushrooms, Adding earthy flavor to meals, Mother Earth Products Dried Leek Rings, Enhancing winter soups, end
+
+    ""The final answer is"" is not needed in the"
+"Sweet Delights Baking Bundle
+    Explanation:","Baking and dessert preparation.    
+
+
+
+Here is the final answer:
+
+Baking and dessert preparation.","Path:
+     ""Peak Instant Full-Cream Dry Whole Milk Powder, 400-Grams (Pack of 2)"", ""required for"", ""Judee’s Heavy Cream Powder, 11 oz"", ""moisture addition"", ""Anthony’s Buttermilk Powder, 1 lb"", ""leavening support"" '","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Sweet Delights Baking Bundle
+    Explanation:  
+    Bundle Items: ""Peak Instant Full-Cream Dry Whole Milk Powder, 400-Grams (Pack of 2)"", ""Judee’s Heavy Cream Powder, 11 oz"", ""Anthony’s Buttermilk Powder, 1 lb""  
+    Intent: Baking and dessert preparation.    
+
+
+
+Here is the final answer:
+
+Baking and dessert preparation.  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Peak Instant Full-Cream Dry Whole Milk Powder, 400-Grams (Pack of 2)"", ""required for"", ""Judee’s Heavy Cream Powder, 11 oz"", ""moisture addition"", ""Anthony’s Buttermilk Powder, 1 lb"", ""leavening support"" 'end'    
+
+
+
+Here is the final answer:
+
+""Peak Instant Full-Cream Dry Whole Milk Powder, 400-Grams (Pack of 2)"", ""required for"", ""J"
+"""Fresh Flavor Delights Dried Herb Bundle""","- likely cooking or recipe preparation
+     - possibly baking
+     - possibly a spice blend or mix","Path:
+     ""Mother Earth Products Dried Chives"", ""complement"", ""Mother Earth Products Dried Garlic"", ""pair"", ""Mother Earth Products Dried Parsley"", ""garnish"", ""end""    
+
+
+
+Here is the corrected influence path:
+
+""Mother Earth Products Dried Chives"", ""add flavor"", ""Mother Earth Products Dried Garlic"", ""enhance"", ""Mother Earth Products Dried Parsley"", ""finish"", ""","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Fresh Flavor Delights Dried Herb Bundle""  
+    Bundle Items: ""Mother Earth Products Dried Chives, Green Onions, 1 Full Quart"", ""Mother Earth Products Dried Garlic, Granulated, 1 Full Quart"", ""Mother Earth Products Dried Parsley, 1 Full Quart""  
+    Intent: - likely cooking or recipe preparation
+     - possibly baking
+     - possibly a spice blend or mix  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Mother Earth Products Dried Chives"", ""complement"", ""Mother Earth Products Dried Garlic"", ""pair"", ""Mother Earth Products Dried Parsley"", ""garnish"", ""end""    
+
+
+
+Here is the corrected influence path:
+
+""Mother Earth Products Dried Chives"", ""add flavor"", ""Mother Earth Products Dried Garlic"", ""enhance"", ""Mother Earth Products Dried Parsley"", ""finish"", ""end""    
+
+
+
+Here is the corrected influence path:
+
+"""
+Pecan Delight Bundle    ~~~~,"""Snack preparation and storage""    ~~~~
+
+
+    Bundle items: ""Spicy Ro","Path:
+     Nut Roaster's Reserve Pecans -- Roasted & Salted (24 Ounces), Snacking requires crunchy snack, Raw Georgia Pecans Jumbo 1 Pound Bag - Oh! Nuts, Pecans are a classic snack choice, Raw Walnuts, Walnuts complement pecans, Oh! Nuts Raw Walnuts, 1 Pound, Storage for walnuts needed,","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Pecan Delight Bundle    ~~~~  
+    Bundle Items: ""Nut Roaster's Reserve Pecans -- Roasted & Salted (24 Ounces)"", ""Raw Georgia Pecans Jumbo 1 Pound Bag - Oh! Nuts"", ""Oh! Nuts Raw Walnuts, 1 Pound""  
+    Intent: ""Snack preparation and storage""    ~~~~
+
+
+    Bundle items: ""Spicy Ro  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Nut Roaster's Reserve Pecans -- Roasted & Salted (24 Ounces), Snacking requires crunchy snack, Raw Georgia Pecans Jumbo 1 Pound Bag - Oh! Nuts, Pecans are a classic snack choice, Raw Walnuts, Walnuts complement pecans, Oh! Nuts Raw Walnuts, 1 Pound, Storage for walnuts needed, end
+
+
+
+     [Note: You should not need to modify the code provided to you to solve this"
+"Bacon Bonanza Bundle
+
+     This bundle includes a","To satisfy bacon cravings
+
+    Alternative phrase: None
+
+    
+    Bundle items: ""Snyder's","Path:
+     Snyder's of Hanover, Bacon & Cheddar Pretzel Pieces, 12oz Bag (Pack of 3), Craves savory snack, Oberto All Natural Bacon Jerky, 2.5 Ounce, Offers bacon flavor, Kettle Brand Maple Bacon Potato Chips (8.5oz Bag, Pack of 2), Provides crunchy snack","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: Bacon Bonanza Bundle
+
+     This bundle includes a  
+    Bundle Items: ""Snyder's of Hanover, Bacon & Cheddar Pretzel Pieces, 12oz Bag (Pack of 3)"", ""Oberto All Natural Bacon Jerky, 2.5 Ounce"", ""Kettle Brand Maple Bacon Potato Chips (8.5oz Bag, Pack of 2)""  
+    Intent: To satisfy bacon cravings
+
+    Alternative phrase: None
+
+    
+    Bundle items: ""Snyder's  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     Snyder's of Hanover, Bacon & Cheddar Pretzel Pieces, 12oz Bag (Pack of 3), Craves savory snack, Oberto All Natural Bacon Jerky, 2.5 Ounce, Offers bacon flavor, Kettle Brand Maple Bacon Potato Chips (8.5oz Bag, Pack of 2), Provides crunchy snack end.    
+
+
+
+Snyder's of Hanover, Bacon & Cheddar Pretzel Pieces, 12oz Bag (Pack of 3), Cr"
+"""Morning Sunrise Sweet Corn Delight Bundle""","American breakfast meal prep.    -OR-
+
+     Alternative use for the items: 
+
+     Sweet and","Path:
+     ""Bob's Red Mill White Corn Grits (2 / 24oz)"", ""breakfast staple"", ""The Ginger People All Natural Crystallized Ginger Select Slices, 1 lb Bag in a Gift Box"", ""flavor enhancer"", ""Maple Grove Farms Pure Maple Syrup (12oz Bottle)"", ""sweetener"", ""","
+    You are tasked with constructing an **influence path** for a bundle in the **food** domain.
+
+    Bundle Name: ""Morning Sunrise Sweet Corn Delight Bundle""  
+    Bundle Items: ""Bob's Red Mill White Corn Grits (2 / 24oz)"", ""The Ginger People All Natural Crystallized Ginger Select Slices, 1 lb Bag in a Gift Box"", ""Maple Grove Farms Pure Maple Syrup (12oz Bottle)""  
+    Intent: American breakfast meal prep.    -OR-
+
+     Alternative use for the items: 
+
+     Sweet and  
+
+    Construct an influence path using only **5 words or fewer** for each reasoning step. Each reason should reflect a specific user concern, and be understandable to someone unfamiliar with the products.
+
+    The path should reflect how items logically connect to each other in service of the user intent.
+
+    Output format (strictly):
+    <item>, <reason>, <item>, <reason>, <item>, ... 'end'
+
+    Only output the influence path.
+
+    Influence Path:
+     ""Bob's Red Mill White Corn Grits (2 / 24oz)"", ""breakfast staple"", ""The Ginger People All Natural Crystallized Ginger Select Slices, 1 lb Bag in a Gift Box"", ""flavor enhancer"", ""Maple Grove Farms Pure Maple Syrup (12oz Bottle)"", ""sweetener"", ""end"" 
+
+
+
+
+
+### Step 1: Identify the primary item in the bundle that aligns with the user intent.
+""Bob's Red Mill"
